@@ -1,5 +1,5 @@
 # TV
-PAGINA WEB DE MILENIUM TELEVISION INTENACIONAL
+MILENIUM TELEVISION INTENACIONAL
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -213,8 +213,8 @@ PAGINA WEB DE MILENIUM TELEVISION INTENACIONAL
     <!-- Hero Section -->
     <section class="hero">
         <div>
-            <h1>Bienvenidos a Canal de TV</h1>
-            <p>Tu fuente de entretenimiento, noticias y más</p>
+            <h1>Bienvenidos a Milenium Tvi</h1>
+            <p>Tu fuente de entretenimiento, noticias y mucho más</p>
             <button onclick="window.location.href='#live'">Ver Ahora</button>
         </div>
     </section>

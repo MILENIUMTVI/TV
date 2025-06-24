@@ -1,5 +1,5 @@
 # TV
-MILENIUM TELEVISION INTENACIONAL
+MILENIUM TELEVISION INTERNACIONAL
 <html lang="es">
 <head>
     <meta charset="UTF-8">

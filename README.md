@@ -280,25 +280,25 @@ MILENIUM TELEVISION INTENACIONAL
     </section>
 
     <!-- Videos -->
-    <section id="videos" class="section">
-        <h2>Videos</h2>
-        <div class="grid">
-            <div class="card">
-                <img src="https://www.youtube.com/live/MHjAUKw1VAE?si=sVemdHS_-lOJQ6fJ>
-                <div class="card-content">
-                    <h3>Video Viral</h3>
-                    <p>Mira los videos más populares de la semana.</p>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://www.youtube.com/live/MHjAUKw1VAE?si=sVemdHS_-lOJQ6fJ" alt="Video 2">
-                <div class="card-content">
-                    <h3>Entrevista Exclusiva</h3>
-                    <p>Una charla con una celebridad que no te puedes perder.</p>
-                </div>
+<section id="videos" class="section">
+    <h2>Videos</h2>
+    <div class="grid">
+        <div class="card">
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Video Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Video Viral</h3>
+                <p>Mira los videos más populares de la semana.</p>
             </div>
         </div>
-    </section>
+        <div class="card">
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Entrevista Exclusiva</h3>
+                <p>Una charla con una celebridad que no te puedes perder.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Publicaciones -->
     <section id="posts" class="section">

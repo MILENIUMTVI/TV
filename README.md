@@ -300,26 +300,32 @@ MILENIUM TELEVISION INTERNACIONAL
     </div>
 </section>
 
-    <!-- Publicaciones -->
-    <section id="posts" class="section">
-        <h2>Publicaciones</h2>
-        <div class="grid">
-            <div class="card">
-                <img src=https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion>
-                <div class="card-content">
-                    <h3>Artículo Especial</h3>
-                    <p>Explora nuestras publicaciones más recientes sobre cultura y entretenimiento.</p>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion" alt="Post 2">
-                <div class="card-content">
-                    <h3>Blog del Mes</h3>
-                    <p>Lee los artículos más destacados escritos por nuestro equipo.</p>
-                </div>
+   <!-- Publicaciones -->
+<section id="posts" class="section">
+    <h2>Publicaciones</h2>
+    <div class="grid">
+        <div class="card">
+            <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
+                <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Artículo Especial">
+            </a>
+            <div class="card-content">
+                <h3>Artículo Especial</h3>
+                <p>Ecuador y Emiratos Árabes Unidos firman acuerdos para impulsar turismo, conectividad aérea y seguridad, promoviendo intercambios culturales y comerciales.</p>
+                <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
             </div>
         </div>
-    </section>
+        <div class="card">
+            <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
+                <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Blog del Mes">
+            </a>
+            <div class="card-content">
+                <h3>Blog del Mes</h3>
+                <p>Descubre cómo los nuevos lazos entre Ecuador y Emiratos Árabes abren oportunidades para el comercio y la innovación tecnológica.</p>
+                <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Defensa del Televidente -->
     <section id="defensa" class="section">

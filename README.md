@@ -255,8 +255,15 @@ MILENIUM TELEVISION INTERNACIONAL
             </div>
         </div>
         <div class="card">
-            <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 2"> 
-   
+            <img src="https://mileniumtvi.com/wp-content/uploads/2025/06/Empresarios-italianos.jpg" alt="Noticia Empresarios Italianos">
+            <div class="card-content">
+                <h3>Empresarios Italianos y Presidente Noboa</h3>
+                <p>Empresarios italianos dialogaron con el Presidente Daniel Noboa sobre inversiones en sectores estratégicos.</p>
+                <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
+            </div>
+        </div>
+    </div>
+</section>
 </section>
     </section>
 

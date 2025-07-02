@@ -291,7 +291,7 @@ MILENIUM TELEVISION INTERNACIONAL
             </div>
         </div>
         <div class="card">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/WIc2_BaF0Mo?si=GMguO6tXNOpN9GYc" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="card-content">
                 <h3>Entrevista Exclusiva</h3>
                 <p>Una charla con una celebridad que no te puedes perder.</p>

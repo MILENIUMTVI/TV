@@ -18,14 +18,14 @@ MILENIUM TELEVISION INTERNACIONAL
         }
 
         body {
-            background-color: #f4f4f4;
+            background-color: #4682B4;
             color: #333;
         }
 
         /* Header */
         header {
             background: linear-gradient(90deg, #1a73e8, #0d47a1);
-            color: blue;
+            color: white;
             padding: 1rem 2rem;
             position: sticky;
             top: 0;
@@ -195,7 +195,7 @@ MILENIUM TELEVISION INTERNACIONAL
     <header>
         <div class="header-container">
             <div class="logo">
-                <img src="https://www.canva.com/design/DAGrNTcGVJ0/eGebJqFvozBDw5TWC2oZkw/watch?utm_content=DAGrNTcGVJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdaabd6fff3" alt="Logo Canal TV">
+                <img src="https://x.com/mileniumtvi/header_photo" alt="Logo Canal TV">
             </div>
             <nav>
                 <ul>

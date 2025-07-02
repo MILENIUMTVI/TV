@@ -195,7 +195,7 @@ MILENIUM TELEVISION INTERNACIONAL
     <header>
         <div class="header-container">
             <div class="logo">
-                <img src="https://x.com/mileniumtvi/header_photo" alt="Logo Canal TV">
+                <img src="logomtvi.png/header_photo" alt="Logo Canal TV">
             </div>
             <nav>
                 <ul>

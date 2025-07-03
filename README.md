@@ -236,35 +236,34 @@ MILENIUM TELEVISION INTERNACIONAL
             </p>
         </video>
     </section>
-<!-- TV Play -->
-<section id="tvplay" class="section">
-    <h2>TV Play</h2>
-    <div class="grid">
-        <div class="card">
-            <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 1">
-            <div class="card-content">
-                <h3>Programa Estelar</h3>
-                <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
+
+    <!-- TV Play -->
+    <section id="tvplay" class="section">
+        <h2>TV Play</h2>
+        <div class="grid">
+            <div class="card">
+                <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 1">
+                <div class="card-content">
+                    <h3>Programa Estelar</h3>
+                    <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 2">
+                <div class="card-content">
+                    <h3>Serie Exclusiva</h3>
+                    <p>Una serie que no te puedes perder, disponible en TV Play.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/06/Empresarios-italianos.jpg" alt="Noticia Empresarios Italianos">
+                <div class="card-content">
+                    <h3>Empresarios Italianos y Presidente Noboa</h3>
+                    <p>Empresarios italianos dialogaron con el Presidente Daniel Noboa sobre inversiones en sectores estratégicos.</p>
+                    <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
+                </div>
             </div>
         </div>
-        <div class="card">
-            <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 2">
-            <div class="card-content">
-                <h3>Serie Exclusiva</h3>
-                <p>Una serie que no te puedes perder, disponible en TV Play.</p>
-            </div>
-        </div>
-        <div class="card">
-            <img src="https://mileniumtvi.com/wp-content/uploads/2025/06/Empresarios-italianos.jpg" alt="Noticia Empresarios Italianos">
-            <div class="card-content">
-                <h3>Empresarios Italianos y Presidente Noboa</h3>
-                <p>Empresarios italianos dialogaron con el Presidente Daniel Noboa sobre inversiones en sectores estratégicos.</p>
-                <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
-            </div>
-        </div>
-    </div>
-</section>
-</section>
     </section>
 
     <!-- Noticias -->
@@ -285,56 +284,64 @@ MILENIUM TELEVISION INTERNACIONAL
                     <p>Cobertura en vivo de los eventos más relevantes en tu ciudad.</p>
                 </div>
             </div>
+            <div class="card">
+                <img src="https://www.canva.com/design/DAGrNUMTC64/a-pMihPoo9L1C55W5vU0jg/watch?utm_content=DAGrNUMTC64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea15cd559" alt="Editorial">
+                <div class="card-content">
+                    <h3>Editorial</h3>
+                    <p>Explora las opiniones y análisis de nuestros expertos sobre los temas más relevantes.</p>
+                    <a href="https://mileniumtvi.com/opinion" target="_blank">Leer más</a>
+                </div>
+            </div>
         </div>
     </section>
 
     <!-- Videos -->
-<section id="videos" class="section">
-    <h2>Videos</h2>
-    <div class="grid">
-        <div class="card">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Video Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>Video Viral</h3>
-                <p>Mira los videos más populares de la semana.</p>
+    <section id="videos" class="section">
+        <h2>Videos</h2>
+        <div class="grid">
+            <div class="card">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Video Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Video Viral</h3>
+                    <p>Mira los videos más populares de la semana.</p>
+                </div>
+            </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/WIc2_BaF0Mo?si=GMguO6tXNOpN9GYc" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Entrevista Exclusiva</h3>
+                    <p>Una charla con una celebridad que no te puedes perder.</p>
+                </div>
             </div>
         </div>
-        <div class="card">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/WIc2_BaF0Mo?si=GMguO6tXNOpN9GYc" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>Entrevista Exclusiva</h3>
-                <p>Una charla con una celebridad que no te puedes perder.</p>
-            </div>
-        </div>
-    </div>
-</section>
+    </section>
 
-   <!-- Publicaciones -->
-<section id="posts" class="section">
-    <h2>Publicaciones</h2>
-    <div class="grid">
-        <div class="card">
-            <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
-                <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Artículo Especial">
-            </a>
-            <div class="card-content">
-                <h3>Artículo Especial</h3>
-                <p>Ecuador y Emiratos Árabes Unidos firman acuerdos para impulsar turismo, conectividad aérea y seguridad, promoviendo intercambios culturales y comerciales.</p>
-                <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
+    <!-- Publicaciones -->
+    <section id="posts" class="section">
+        <h2>Publicaciones</h2>
+        <div class="grid">
+            <div class="card">
+                <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
+                    <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Artículo Especial">
+                </a>
+                <div class="card-content">
+                    <h3>Artículo Especial</h3>
+                    <p>Ecuador y Emiratos Árabes Unidos firman acuerdos para impulsar turismo, conectividad aérea y seguridad, promoviendo intercambios culturales y comerciales.</p>
+                    <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
+                    <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Blog del Mes">
+                </a>
+                <div class="card-content">
+                    <h3>Blog del Mes</h3>
+                    <p>Descubre cómo los nuevos lazos entre Ecuador y Emiratos Árabes abren oportunidades para el comercio y la innovación tecnológica.</p>
+                    <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
+                </div>
             </div>
         </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
-                <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Blog del Mes">
-            </a>
-            <div class="card-content">
-                <h3>Blog del Mes</h3>
-                <p>Descubre cómo los nuevos lazos entre Ecuador y Emiratos Árabes abren oportunidades para el comercio y la innovación tecnológica.</p>
-                <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
-            </div>
-        </div>
-    </div>
-</section>
+    </section>
 
     <!-- Defensa del Televidente -->
     <section id="defensa" class="section">

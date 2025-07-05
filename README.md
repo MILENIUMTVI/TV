@@ -366,10 +366,10 @@ MILENIUM TELEVISION INTERNACIONAL
         <p>© 2025 Canal de TV. Todos los derechos reservados.</p>
         <p><a href="#">Términos y Condiciones</a> | <a href="#">Política de Privacidad</a> | <a href="#defensa">Contacto</a></p>
         <div class="social">
-            <a href="https://www.facebook.com/mileniumtvi/"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.facebook.com/mileniumtvi/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://x.com/mileniumtvi" target="_blank"><i class="fab fa-x-twitter"></i></a>
             <a href="#"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.youtube.com/@mileniumtvi" target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
     </footer>
 

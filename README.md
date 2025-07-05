@@ -102,7 +102,11 @@ MILENIUM TELEVISION INTERNACIONAL
         .section h2 {
             font-size: 2rem;
             margin-bottom: 1.5rem;
-            color: #FFFF00; /* Changed from #1a73e8 to yellow */
+            color: #ffd700; /* Cambiado a amarillo dorado igual que footer a */
+        }
+
+        #live h2 {
+            color: #1a73e8; /* Mantiene el azul original para Transmisiones en Vivo */
         }
 
         .grid {

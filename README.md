@@ -48,7 +48,7 @@ MILENIUM TELEVISION INTERNACIONAL
             list-style: none;
             display: flex;
             gap: 1.5rem;
-            align-items: center; /* Añadido para alinear verticalmente */
+            align-items: center; /* Alinea verticalmente los elementos del menú */
         }
 
         nav ul li a {
@@ -56,8 +56,8 @@ MILENIUM TELEVISION INTERNACIONAL
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s;
-            line-height: 1; /* Añadido para normalizar altura de línea */
-            white-space: nowrap; /* Añadido para evitar división de texto */
+            line-height: 1; /* Normaliza altura de línea */
+            white-space: nowrap; /* Evita división de texto */
         }
 
         nav ul li a:hover {
@@ -203,7 +203,7 @@ MILENIUM TELEVISION INTERNACIONAL
     <header>
         <div class="header-container">
             <div class="logo">
-                <img src="logomtvi.png/header_photo" alt="Logo Canal TV">
+                <img src="https://drive.google.com/uc?id=1OIBJ_b_27ObjO0kmGlj3DrpI9D2pWUmX" alt="Logo Canal TV">
             </div>
             <nav>
                 <ul>

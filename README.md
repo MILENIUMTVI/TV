@@ -102,11 +102,11 @@ MILENIUM TELEVISION INTERNACIONAL
         .section h2 {
             font-size: 2rem;
             margin-bottom: 1.5rem;
-            color: #ffd700; /* Cambiado a amarillo dorado igual que footer a */
+            color: #ffd700; /* Amarillo dorado igual que footer a */
         }
 
         #live h2 {
-            color: #1a73e8; /* Mantiene el azul original para Transmisiones en Vivo */
+            color: #1a73e8; /* Azul original para Transmisiones en Vivo */
         }
 
         .grid {
@@ -366,7 +366,7 @@ MILENIUM TELEVISION INTERNACIONAL
         <p>© 2025 Canal de TV. Todos los derechos reservados.</p>
         <p><a href="#">Términos y Condiciones</a> | <a href="#">Política de Privacidad</a> | <a href="#defensa">Contacto</a></p>
         <div class="social">
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.facebook.com/mileniumtvi/"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-instagram"></i></a>
             <a href="#"><i class="fab fa-youtube"></i></a>

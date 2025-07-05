@@ -271,10 +271,11 @@ MILENIUM TELEVISION INTERNACIONAL
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.canva.com/design/DAGrNUMTC64/a-pMihPoo9L1C55W5vU0jg/watch?utm_content=DAGrNUMTC64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea15cd559" alt="Noticia 2">
+                <img src="https://img.youtube.com/vi/9-fRmWQ7j6k/hqdefault.jpg" alt="Noticia Local">
                 <div class="card-content">
-                    <h3>Evento Local</h3>
-                    <p>Cobertura en vivo de los eventos más relevantes en tu ciudad.</p>
+                    <h3>Noticia Local</h3>
+                    <p>Últimos acontecimientos locales captados en video, con cobertura exclusiva de eventos en tu comunidad.</p>
+                    <a href="https://youtu.be/9-fRmWQ7j6k?si=nwhEnpf3A4rCIu3E" target="_blank">Ver video</a>
                 </div>
             </div>
             <div class="card">

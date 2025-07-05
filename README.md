@@ -48,6 +48,7 @@ MILENIUM TELEVISION INTERNACIONAL
             list-style: none;
             display: flex;
             gap: 1.5rem;
+            align-items: center; /* Añadido para alinear verticalmente */
         }
 
         nav ul li a {
@@ -55,6 +56,8 @@ MILENIUM TELEVISION INTERNACIONAL
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s;
+            line-height: 1; /* Añadido para normalizar altura de línea */
+            white-space: nowrap; /* Añadido para evitar división de texto */
         }
 
         nav ul li a:hover {
@@ -186,6 +189,7 @@ MILENIUM TELEVISION INTERNACIONAL
             nav ul {
                 flex-direction: column;
                 gap: 1rem;
+                align-items: center; /* Mantener alineación en vista móvil */
             }
 
             .live-stream .video-js {

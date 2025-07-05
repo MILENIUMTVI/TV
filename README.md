@@ -263,10 +263,11 @@ MILENIUM TELEVISION INTERNACIONAL
         <h2>Noticias</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://www.canva.com/design/DAGrNUMTC64/a-pMihPoo9L1C55W5vU0jg/watch?utm_content=DAGrNUMTC64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea15cd559" alt="Noticia 1">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Presidente-Noboa-reuniones-italianas.jpg" alt="Noticia Destacada">
                 <div class="card-content">
                     <h3>Noticia Destacada</h3>
-                    <p>Últimas actualizaciones sobre eventos nacionales e internacionales.</p>
+                    <p>Presidente Noboa mantuvo reuniones bilaterales con las máximas autoridades de la política italiana para fortalecer cooperación y seguridad.</p>
+                    <a href="https://mileniumtvi.com/presidente-noboa-mantuvo-reuniones-bilaterales-con-las-maximas-autoridades-de-la-politica-italiana" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">

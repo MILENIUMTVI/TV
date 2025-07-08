@@ -339,6 +339,16 @@ MILENIUM TELEVISION INTERNACIONAL
         <h2>Publicaciones</h2>
         <div class="grid">
             <div class="card">
+                <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">
+                    <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras comprometidas">
+                </a>
+                <div class="card-content">
+                    <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
+                    <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
+                    <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
                     <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Artículo Especial">
                 </a>

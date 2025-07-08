@@ -310,6 +310,14 @@ MILENIUM TELEVISION INTERNACIONAL
                     <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
                 </div>
             </div>
+            <!-- Nueva noticia agregada -->
+            <div class="card">
+                <img src="https://pbs.twimg.com/media/GvXiaxLXEAAFS-9.jpg?format=jpg&name=small" alt="Caso de Violación">
+                <div class="card-content">
+                    <h3>Caso de Violación a Menor</h3>
+                    <p>Una menor de apenas 12 años, presuntamentre fue víctima de violación por parte de un sujeto identificado como Joseph Santiago Díaz Asque RC5, el reemplazo de Prisclila Schettini en la Asamblea del enlace <a href="https://x.com/mileniumtvi/status/1942707934242169275">https://x.com/mileniumtvi/status/1942707934242169275</a></p>
+                </div>
+            </div>
         </div>
     </section>
 

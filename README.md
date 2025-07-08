@@ -271,6 +271,14 @@ MILENIUM TELEVISION INTERNACIONAL
         <h2>Noticias</h2>
         <div class="grid">
             <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Lucha contra la corrupción">
+                <div class="card-content">
+                    <h3>La lucha contra la corrupción continúa</h3>
+                    <p>El bloque de seguridad interviene cinco instituciones públicas en Durán.</p>
+                    <a href="https://mileniumtvi.com/la-lucha-contra-la-corrupcion-continua-el-bloque-de-seguridad-interviene-cinco-instituciones-publicas-en-duran" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Presidente-Noboa-reuniones-italianas.jpg" alt="Noticia Destacada">
                 <div class="card-content">
                     <h3>Noticia Destacada</h3>

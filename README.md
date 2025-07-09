@@ -270,6 +270,14 @@ MILENIUM TELEVISION INTERNACIONAL
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia destacada y primera -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Caso Santiago Díaz">
+                <div class="card-content">
+                    <h3>Caso Santiago Díaz</h3>
+                    <p>Santiago Díaz era el legislador alterno de Priscila Schettini, y se principalizó luego de que a Schettini se le suspendieran sus derechos políticos. Está acusado de violación a una menor del enlace <a href="https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor">https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor</a></p>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Lucha contra la corrupción">
                 <div class="card-content">
@@ -310,7 +318,6 @@ MILENIUM TELEVISION INTERNACIONAL
                     <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia agregada -->
             <div class="card">
                 <img src="https://pbs.twimg.com/media/GvXiaxLXEAAFS-9.jpg?format=jpg&name=small" alt="Caso de Violación">
                 <div class="card-content">

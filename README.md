@@ -272,6 +272,14 @@ MILENIUM TELEVISION INTERNACIONAL
         <div class="grid">
             <!-- Nueva noticia destacada y primera -->
             <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Relevo de Mando Policial">
+                <div class="card-content">
+                    <h3>Relevo de Mando Policial</h3>
+                    <p>El presidente Daniel Noboa oficializó el relevo del mando policial: Pablo Dávila es el nuevo Comandante General.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-oficializo-el-relevo-del-mando-policial-pablo-davila-es-el-nuevo-comandante-general" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Caso Santiago Díaz">
                 <div class="card-content">
                     <h3>Caso Santiago Díaz</h3>

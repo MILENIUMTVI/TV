@@ -275,7 +275,8 @@ MILENIUM TELEVISION INTERNACIONAL
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Caso Santiago Díaz">
                 <div class="card-content">
                     <h3>Caso Santiago Díaz</h3>
-                    <p>Santiago Díaz era el legislador alterno de Priscila Schettini, y se principalizó luego de que a Schettini se le suspendieran sus derechos políticos. Está acusado de violación a una menor del enlace <a href="https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor">https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor</a></p>
+                    <p>Santiago Díaz era el legislador alterno de Priscila Schettini, y se principalizó luego de que a Schettini se le suspendieran sus derechos políticos. Está acusado de violación a una menor.</p>
+                    <a href="https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">

@@ -1,4 +1,4 @@
-# <span style="color: #8A0707;">MTVI</span>
+# <span style="color: #8A0707;">TV</span>
 MILENIUM TELEVISION INTERNACIONAL
 <html lang="es">
 <head>
@@ -354,6 +354,20 @@ MILENIUM TELEVISION INTERNACIONAL
                 <div class="card-content">
                     <h3>Caso de Violación a Menor</h3>
                     <p>Una menor de apenas 12 años, presuntamentre fue víctima de violación por parte de un sujeto identificado como Joseph Santiago Díaz Asque RC5, el reemplazo de Prisclila Schettini en la Asamblea del enlace <a href="https://x.com/mileniumtvi/status/1942707934242169275">https://x.com/mileniumtvi/status/1942707934242169275</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Noticia en Imágenes -->
+    <section id="imagenes" class="section">
+        <h2>Noticia en Imágenes</h2>
+        <div class="grid">
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ceremonia de Cambio de Mando">
+                <div class="card-content">
+                    <h3>Ceremonia de Cambio de Mando</h3>
+                    <p><a href="https://mileniumtvi.com/ceremonia-de-cambio-de-mando-policial-quito-09072025" target="_blank">https://mileniumtvi.com/ceremonia-de-cambio-de-mando-policial-quito-09072025</a></p>
                 </div>
             </div>
         </div>

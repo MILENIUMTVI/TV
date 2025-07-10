@@ -314,7 +314,7 @@ MILENIUM TELEVISION INTERNACIONAL
                 <div class="card-content">
                     <h3>La lucha contra la corrupción continúa</h3>
                     <p>El bloque de seguridad interviene cinco instituciones públicas en Durán.</p>
-                    <a href="https://mileniumtvi.com/la-lucha-contra-la-corrupcion-continua-el-bloque-de-seguridad-interviene-cinco-instituciones-publicas-en-duran" target="_blank">Leer más</a>
+                    <a href="https://mileniumtvi.com/la-lucha-contra-la-corrupcion-continua-el-bloque-de-seguridad-intervene-cinco-instituciones-publicas-en-duran" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">
@@ -364,7 +364,7 @@ MILENIUM TELEVISION INTERNACIONAL
         <h2>Noticia en Imágenes</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ceremonia de Cambio de Mando">
+                <img src="https://via.placeholder.com/250x150" alt="Ceremonia de Cambio de Mando">
                 <div class="card-content">
                     <h3>Ceremonia de Cambio de Mando</h3>
                     <p><a href="https://mileniumtvi.com/ceremonia-de-cambio-de-mando-policial-quito-09072025" target="_blank">https://mileniumtvi.com/ceremonia-de-cambio-de-mando-policial-quito-09072025</a></p>

@@ -272,6 +272,14 @@ MILENIUM TELEVISION INTERNACIONAL
         <div class="grid">
             <!-- Nueva noticia destacada y primera -->
             <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Retiro de Firmas RC5">
+                <div class="card-content">
+                    <h3>Retiro de Firmas RC5</h3>
+                    <p>Cuatro Asambleístas de RC5 han retirado su firma del proyecto de ley presentado por su ex compañero de bancada Santiago Díaz en el que se propone que el consentimiento para una relación sexual sea a partir de los 14 años y no desde los 18.</p>
+                    <a href="https://mileniumtvi.com/ex-companeros-de-la-bancada-la-revolucion-ciudadana-comenzaron-a-retirar-sus-firmas" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Relevo de Mando Policial">
                 <div class="card-content">
                     <h3>Relevo de Mando Policial</h3>

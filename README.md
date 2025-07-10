@@ -272,6 +272,14 @@ MILENIUM TELEVISION INTERNACIONAL
         <div class="grid">
             <!-- Nueva noticia destacada y primera -->
             <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Operativo en Recinto Ferial">
+                <div class="card-content">
+                    <h3>Operativo en Recinto Ferial</h3>
+                    <p>Operativo de control en los alrededores del Recinto Ferial El Arenal.</p>
+                    <a href="https://mileniumtvi.com/operativo-de-control-en-los-alrededores-del-recinto-ferial-el-arenal" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
                 <div class="card-content">
                     <h3>Certamen Reina de Cuenca</h3>

@@ -1,4 +1,4 @@
-# TV
+# MTVI
 MILENIUM TELEVISION INTERNACIONAL
 <html lang="es">
 <head>
@@ -202,9 +202,7 @@ MILENIUM TELEVISION INTERNACIONAL
     <!-- Header -->
     <header>
         <div class="header-container">
-            <div class="logo">
-                <img src="https://drive.google.com/uc?id=1OIBJ_b_27ObjO0kmGlj3DrpI9D2pWUmX" alt="Logo Canal TV">
-            </div>
+            <!-- Logo retirado según instrucción -->
             <nav>
                 <ul>
                     <li><a href="#live">Transmisiones en Vivo</a></li>

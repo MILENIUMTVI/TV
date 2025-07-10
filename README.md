@@ -272,6 +272,14 @@ MILENIUM TELEVISION INTERNACIONAL
         <div class="grid">
             <!-- Nueva noticia destacada y primera -->
             <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
+                <div class="card-content">
+                    <h3>Certamen Reina de Cuenca</h3>
+                    <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>
+                    <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Retiro de Firmas RC5">
                 <div class="card-content">
                     <h3>Retiro de Firmas RC5</h3>

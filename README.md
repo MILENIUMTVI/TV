@@ -1,5 +1,4 @@
-# <span style="color: #8A0707;">TV</span>
-MILENIUM TELEVISION INTERNACIONAL
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -277,6 +276,24 @@ MILENIUM TELEVISION INTERNACIONAL
                     <a href="https://mileniumtvi.com/operativo-de-control-en-los-alrededores-del-recinto-ferial-el-arenal" target="_blank">Leer más</a>
                 </div>
             </div>
+            <!-- Nueva noticia 1 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
+                <div class="card-content">
+                    <h3>Gobierno anuncia reactivación del SOTE</h3>
+                    <p>El gobierno anuncia la reactivación del SOTE este 17 de julio y un plan de mantenimiento estructural.</p>
+                    <a href="https://mileniumtvi.com/gobierno-anuncia-reactivacion-del-sote-este-17-de-julio-y-un-plan-de-mantenimiento-estructural" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 2 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Condecoración a Daniel Noboa">
+                <div class="card-content">
+                    <h3>Jóvenes condecoran a Daniel Noboa</h3>
+                    <p>Jóvenes estudiantes condecoran al presidente Daniel Noboa por las más de 409.000 becas entregadas en su gestión.</p>
+                    <a href="https://mileniumtvi.com/jovenes-estudiantes-condecoran-al-presidente-daniel-noboa" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
                 <div class="card-content">
@@ -314,7 +331,7 @@ MILENIUM TELEVISION INTERNACIONAL
                 <div class="card-content">
                     <h3>La lucha contra la corrupción continúa</h3>
                     <p>El bloque de seguridad interviene cinco instituciones públicas en Durán.</p>
-                    <a href="https://mileniumtvi.com/la-lucha-contra-la-corrupcion-continua-el-bloque-de-seguridad-intervene-cinco-instituciones-publicas-en-duran" target="_blank">Leer más</a>
+                    <a href="https://mileniumtvi.com/la-lucha-contra-la-corrupcion-continua-el-bloque-de-seguridad-interviene-cinco-instituciones-publicas-en-duran" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">

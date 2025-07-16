@@ -253,7 +253,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 2">
+                <iframe width="100%" height="150" src="https://www.youtube.com/embed/QRV5teEvBlY?si=21Sz5Mp5ZkxKiV1W" title="Serie Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Serie Exclusiva</h3>
                     <p>Una serie que no te puedes perder, disponible en TV Play.</p>
@@ -284,7 +284,7 @@
                     <a href="https://mileniumtvi.com/el-gobierno-nacional-firme-contra-el-crimen" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 3 (insertada como tercera) -->
+            <!-- Nueva noticia 3 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="3er Festival de la Fritada en Sidcay">
                 <div class="card-content">

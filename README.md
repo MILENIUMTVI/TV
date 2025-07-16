@@ -284,7 +284,16 @@
                     <a href="https://mileniumtvi.com/el-gobierno-nacional-firme-contra-el-crimen" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia destacada y primera -->
+            <!-- Nueva noticia 3 (insertada como tercera) -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="3er Festival de la Fritada en Sidcay">
+                <div class="card-content">
+                    <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
+                    <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>
+                    <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia destacada -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Operativo en Recinto Ferial">
                 <div class="card-content">

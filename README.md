@@ -369,11 +369,11 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://img.youtube.com/vi/9-fRmWQ7j6k/hqdefault.jpg" alt="Noticia Local">
+                <img src="https://img.youtube.com/vi/9-fRmWQ7j6k/hqdefault.jpg" alt="Consejo Cantonal Respalda Libertad de Expresión">
                 <div class="card-content">
-                    <h3>Noticia Local</h3>
-                    <p>Últimos acontecimientos locales captados en video, con cobertura exclusiva de eventos en tu comunidad.</p>
-                    <a href="https://youtu.be/9-fRmWQ7j6k?si=nwhEnpf3A4rCIu3E" target="_blank">Ver video</a>
+                    <h3>Consejo Cantonal Respalda Libertad de Expresión</h3>
+                    <p>El Consejo Cantonal de Protección de Derechos defiende la libertad de expresión de un estudiante, promoviendo el respeto a los derechos fundamentales.</p>
+                    <a href="https://mileniumtvi.com/consejo-cantonal-de-proteccion-de-derechos-respalda-la-libertad-de-expresion-de-un-estudiante" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">

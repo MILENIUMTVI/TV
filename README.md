@@ -253,7 +253,7 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="150" src="https://www.youtube.com/embed/QRV5teEvBlY?si=21Sz5Mp5ZkxKiV1W" title="Serie Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY?si=21Sz5Mp5ZkxKiV1W" title="Serie Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Serie Exclusiva</h3>
                     <p>Una serie que no te puedes perder, disponible en TV Play.</p>

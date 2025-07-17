@@ -246,7 +246,7 @@
         <h2>TV Play</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://www.canva.com/design/DAGrNUbFdSQ/O2JWkQP-9spi5KLvdhz-3Q/view?utm_content=DAGrNUbFdSQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5670f93789" alt="Programa 1">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk?si=jCPAkkJu3cfYakvQ" title="Programa Estelar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Programa Estelar</h3>
                     <p>Disfruta de nuestro programa insignia con invitados especiales.</p>

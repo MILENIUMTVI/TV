@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -266,6 +267,42 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia 1 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gabinete Ministerial en Tena">
+                <div class="card-content">
+                    <h3>Gabinete Ministerial en Tena</h3>
+                    <p>El presidente Daniel Noboa lideró el 17 de julio un gabinete ministerial en Tena, abordando temas clave para el desarrollo nacional.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-de-la-republica-daniel-noboa-azin-lidero-este-17-de-julio-el-gabinete-ministerial-desarrollado-en-la-ciudad-de-tena" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 2 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Aumento en Educación Inicial">
+                <div class="card-content">
+                    <h3>Aumento en Educación Inicial</h3>
+                    <p>El ingreso a la educación inicial en los centros infantiles del MIES creció al 72%, fortaleciendo el acceso educativo.</p>
+                    <a href="https://mileniumtvi.com/el-ingreso-a-la-educacion-inicial-de-ninas-y-ninos-de-los-centros-infantiles-del-mies-aumento-al-72-por-ciento" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 3 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Crédito Agro Violeta">
+                <div class="card-content">
+                    <h3>Crédito Agro Violeta</h3>
+                    <p>El Crédito Agro Violeta impulsa el desarrollo de mujeres agrícolas con financiamiento para proyectos productivos.</p>
+                    <a href="https://mileniumtvi.com/credito-agro-violeta-la-iniciativa-productiva-que-impulsa-el-desarrollo-de-la-mujer-agricola-en-el-nuevo-ecuador" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Noticia previa (Transformación digital en la Amazonía) -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Transformación digital en la Amazonía">
+                <div class="card-content">
+                    <h3>Transformación digital en la Amazonía</h3>
+                    <p>San Juan de Muyuna recibe acceso a Internet 4G y formación tecnológica gratuita para fomentar la inclusión digital.</p>
+                    <a href="https://mileniumtvi.com/san-juan-de-muyuna-recibe-acceso-a-internet-4g-y-formacion-tecnologica-gratuita" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Sistemas de Agua Potable y Alcantarillado">

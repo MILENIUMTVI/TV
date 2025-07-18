@@ -478,6 +478,17 @@
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
+            <!-- Nueva noticia destacada -->
+            <div class="card">
+                <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">
+                    <img src="https://via.placeholder.com/250x150" alt="Hyundai Mighty EX en Cuenca">
+                </a>
+                <div class="card-content">
+                    <h3>Hyundai Mighty EX en Cuenca</h3>
+                    <p>Hyundai presentó su renovada línea de camiones Mighty EX en Cuenca, destacando modelos como EX6, EX6 GT, EX8 y EX10 con potencia y diseño renovado.</p>
+                    <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">
                     <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras comprometidas">

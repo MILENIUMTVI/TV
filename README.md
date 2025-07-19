@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -517,6 +516,17 @@
                     <h3>Blog del Mes</h3>
                     <p>Descubre cómo los nuevos lazos entre Ecuador y Emiratos Árabes abren oportunidades para el comercio y la innovación tecnológica.</p>
                     <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia -->
+            <div class="card">
+                <a href="https://mileniumtvi.com/ya-puedes-viajar-en-tren-por-la-ruta-nariz-del-diablo-de-ecuador">
+                    <img src="https://via.placeholder.com/250x150" alt="Ruta Nariz del Diablo">
+                </a>
+                <div class="card-content">
+                    <h3>Ruta Nariz del Diablo</h3>
+                    <p>Ya está disponible el viaje en tren por la icónica Ruta Nariz del Diablo, ofreciendo una experiencia única en Ecuador.</p>
+                    <a href="https://mileniumtvi.com/ya-puedes-viajar-en-tren-por-la-ruta-nariz-del-diablo-de-ecuador">Leer más</a>
                 </div>
             </div>
         </div>

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -268,6 +269,15 @@
         <div class="grid">
             <!-- Nueva noticia insertada como primera -->
             <div class="card">
+                <img src="https://img.youtube.com/vi/rTpLI125NQA/hqdefault.jpg" alt="Noticia en Video">
+                <div class="card-content">
+                    <h3>Noticia en Video</h3>
+                    <p>Últimas actualizaciones y eventos destacados presentados en un nuevo video informativo.</p>
+                    <a href="https://www.youtube.com/embed/rTpLI125NQA" target="_blank">Ver video</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 1 -->
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Anuncios del Lunes">
                 <div class="card-content">
                     <h3>Anuncios del Lunes</h3>
@@ -275,7 +285,7 @@
                     <a href="https://mileniumtvi.com/reduccion-de-la-pobreza-reinsercion-escolar-pago-a-docentes-y-record-historico-en-exportaciones-entre-los-anuncios-de-este-lunes" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 1 -->
+            <!-- Nueva noticia 2 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gabinete Ministerial en Tena">
                 <div class="card-content">
@@ -284,7 +294,7 @@
                     <a href="https://mileniumtvi.com/el-presidente-de-la-republica-daniel-noboa-azin-lidero-este-17-de-julio-el-gabinete-ministerial-desarrollado-en-la-ciudad-de-tena" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 2 -->
+            <!-- Nueva noticia 3 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Aumento en Educación Inicial">
                 <div class="card-content">
@@ -293,7 +303,7 @@
                     <a href="https://mileniumtvi.com/el-ingreso-a-la-educacion-inicial-de-ninas-y-ninos-de-los-centros-infantiles-del-mies-aumento-al-72-por-ciento" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 3 -->
+            <!-- Nueva noticia 4 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Crédito Agro Violeta">
                 <div class="card-content">

@@ -505,6 +505,17 @@
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
+            <!-- Nueva noticia insertada como primera -->
+            <div class="card">
+                <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">
+                    <img src="https://via.placeholder.com/250x150" alt="Extradición de Fito Macías">
+                </a>
+                <div class="card-content">
+                    <h3>Extradición de Fito Macías</h3>
+                    <p>José Adolfo Fito Macías, líder de la organización criminal transnacional Los Choneros, fue extraditado, marcando un paso importante en la lucha contra el crimen organizado.</p>
+                    <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia destacada -->
             <div class="card">
                 <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">

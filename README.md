@@ -266,6 +266,15 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia insertada como primera -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Anuncios del Lunes">
+                <div class="card-content">
+                    <h3>Anuncios del Lunes</h3>
+                    <p>Se reporta reducción de pobreza, reinserción escolar, pago a docentes y récord histórico en exportaciones entre los anuncios de este lunes.</p>
+                    <a href="https://mileniumtvi.com/reduccion-de-la-pobreza-reinsercion-escolar-pago-a-docentes-y-record-historico-en-exportaciones-entre-los-anuncios-de-este-lunes" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gabinete Ministerial en Tena">

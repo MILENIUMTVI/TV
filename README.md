@@ -461,6 +461,15 @@
     <section id="imagenes" class="section">
         <h2>Noticia en Imágenes</h2>
         <div class="grid">
+            <!-- Nueva noticia insertada como primera -->
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Accidente en Bangladés">
+                <div class="card-content">
+                    <h3>Accidente en Bangladés</h3>
+                    <p>Al menos 16 personas, en su mayoría estudiantes, murieron tras el choque de un avión de entrenamiento contra un campus en Daca, con un centenar de heridos.</p>
+                    <a href="https://mileniumtvi.com/al-menos-16-muertos-en-accidente-de-avion-en-bangladess" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Ceremonia de Cambio de Mando">
                 <div class="card-content">

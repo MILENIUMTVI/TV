@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -423,12 +422,13 @@
                     <a href="https://mileniumtvi.com/presidente-noboa-mantuvo-reuniones-bilaterales-con-las-maximas-autoridades-de-la-politica-italiana" target="_blank">Leer más</a>
                 </div>
             </div>
+            <!-- Nueva Noticia Local -->
             <div class="card">
-                <img src="https://img.youtube.com/vi/U9X45mxZcls/hqdefault.jpg" alt="Noticia Local">
+                <img src="https://img.youtube.com/vi/-a8ElTs6Pds/hqdefault.jpg" alt="Noticia Local">
                 <div class="card-content">
                     <h3>Noticia Local</h3>
-                    <p>Eventos comunitarios destacados captados en video, mostrando la riqueza cultural y social de nuestra región.</p>
-                    <a href="https://youtu.be/U9X45mxZcls?si=h68Vp7W9HZPJmf48" target="_blank">Ver video</a>
+                    <p>La Dirección de Obras Públicas de Cuenca suspende temporalmente trabajos de bacheo y asfaltado por falta de materiales de la Refinería de Esmeraldas.</p>
+                    <a href="https://www.youtube.com/embed/-a8ElTs6Pds" target="_blank">Ver video</a>
                 </div>
             </div>
             <div class="card">

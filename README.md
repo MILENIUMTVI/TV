@@ -1,4 +1,3 @@
-<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -266,6 +265,15 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia como primera -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ecuador y Emiratos Árabes Unidos fortalecen relaciones">
+                <div class="card-content">
+                    <h3>Ecuador y Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas</h3>
+                    <p>Ecuador y los Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas a través de acuerdos bilaterales que promueven la cooperación en áreas como el comercio, la inversión y la seguridad. Esta alianza busca impulsar el desarrollo económico mutuo y fomentar intercambios culturales. Las reuniones recientes entre representantes de ambos países destacan el compromiso con una asociación estratégica a largo plazo.</p>
+                    <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-continuan-fortaleciendo-sus-relaciones-diplomaticas" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia insertada como primera -->
             <div class="card">
                 <img src="https://img.youtube.com/vi/rTpLI125NQA/hqdefault.jpg" alt="Noticia en Video">

@@ -476,7 +476,6 @@
             <div class="card">
                 <img src="https://pbs.twimg.com/media/GvXiaxLXEAAFS-9.jpg?format=jpg&name=small" alt="Caso de Violación">
                 <div class="card-content">
- حت
                     <h3>Caso de Violación a Menor</h3>
                     <p>Una menor de apenas 12 años, presuntamentre fue víctima de violación por parte de un sujeto identificado como Joseph Santiago Díaz Asque RC5, el reemplazo de Prisclila Schettini en la Asamblea del enlace <a href="https://x.com/mileniumtvi/status/1942707934242169275">https://x.com/mileniumtvi/status/1942707934242169275</a></p>
                 </div>
@@ -532,6 +531,17 @@
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
+            <!-- Nueva noticia destacada como ESPECTÁCULO -->
+            <div class="card">
+                <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">
+                    <img src="https://via.placeholder.com/250x150" alt="Tributo a Bon Jovi en Cuenca">
+                </a>
+                <div class="card-content">
+                    <h3>Banda Tributo a Bon Jovi en Cuenca</h3>
+                    <p>La banda británica oficial de tributo a Bon Jovi llega por primera vez a Cuenca, ofreciendo un espectáculo inolvidable con los grandes éxitos de la legendaria banda de rock.</p>
+                    <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia insertada como primera -->
             <div class="card">
                 <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">

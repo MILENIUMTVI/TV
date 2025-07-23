@@ -1,3 +1,4 @@
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -252,6 +253,7 @@
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen>
         </iframe>
+        <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta:  ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
     </section>
 
     <!-- TV Play -->
@@ -279,6 +281,33 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia 1 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana se suma a la ordenanza del lote mínimo">
+                <div class="card-content">
+                    <h3>Santa Ana se suma a la construcción de la ordenanza del lote mínimo</h3>
+                    <p>La parroquia Santa Ana se incorpora al proceso de elaboración de la ordenanza sobre el lote mínimo, promoviendo el desarrollo urbano sostenible y regulando el uso del suelo en la región.</p>
+                    <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 2 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
+                <div class="card-content">
+                    <h3>Entrega de beneficios a las juntas de agua potable y riego de Pichincha</h3>
+                    <p>Se realiza la entrega de beneficios a las juntas de agua potable y riego en Pichincha, mejorando el acceso al agua y apoyando la agricultura local mediante recursos y asistencia técnica.</p>
+                    <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 3 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Inversión histórica para familias afectadas por lluvias">
+                <div class="card-content">
+                    <h3>El gobierno destina inversión histórica de USD 12 millones para mejorar atención a familias afectadas por lluvias</h3>
+                    <p>El gobierno asigna una inversión histórica de 12 millones de dólares para mejorar la atención a familias impactadas por las lluvias, enfocándose en apoyo inmediato, reconstrucción y prevención de desastres.</p>
+                    <a href="https://mileniumtvi.com/el-gobierno-destina-inversion-historica-de-usd-12-millones-para-mejorar-atencion-a-familias-afectadas-por-lluvias" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia como primera -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ecuador y Emiratos Árabes Unidos fortalecen relaciones">

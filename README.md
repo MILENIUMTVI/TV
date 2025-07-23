@@ -243,19 +243,15 @@
     <!-- Entrevistas -->
     <section id="entrevistas" class="section live-stream">
         <h2>Entrevistas</h2>
-        <video
-            id="entrevistas-player"
-            class="video-js vjs-default-skin"
-            controls
-            preload="auto"
+        <iframe
             width="800"
             height="450"
-            data-setup='{}'>
-            <source src="https://571561.gvideo.io/cmaf/571561_2313405/master.m3u8" type="application/x-mpegURL">
-            <p class="vjs-no-js">
-                Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-            </p>
-        </video>
+            src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi"
+            title="Entrevista Exclusiva"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
     </section>
 
     <!-- TV Play -->

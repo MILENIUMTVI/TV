@@ -1,3 +1,4 @@
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -564,6 +565,17 @@
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
+            <!-- Nueva noticia destacada como principal -->
+            <div class="card">
+                <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">
+                    <img src="https://via.placeholder.com/250x150" alt="Prevención de enfermedades crónicas">
+                </a>
+                <div class="card-content">
+                    <h3>80% de enfermedades crónicas prevenibles con autocuidado</h3>
+                    <p>Expertos destacan que el 80% de las enfermedades crónicas pueden prevenirse con prácticas de autocuidado, promoviendo hábitos saludables para mejorar la calidad de vida.</p>
+                    <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia destacada como ESPECTÁCULO -->
             <div class="card">
                 <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">

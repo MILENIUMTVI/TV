@@ -1,4 +1,3 @@
-<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -281,6 +280,15 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia destacada como primera -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca, ciudad más segura de Sudamérica">
+                <div class="card-content">
+                    <h3>Cuenca, ciudad más segura de Sudamérica según Numbeo</h3>
+                    <p>Cuenca ha sido reconocida como la ciudad más segura de Sudamérica por el índice Numbeo, destacando por sus bajos índices de criminalidad y la calidad de vida que ofrece a sus habitantes.</p>
+                    <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana se suma a la ordenanza del lote mínimo">

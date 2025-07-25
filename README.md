@@ -1,3 +1,4 @@
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -280,6 +281,33 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia 1 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="490 años de Guayaquil">
+                <div class="card-content">
+                    <h3>490 años de Guayaquil</h3>
+                    <p>Guayaquil celebra sus 490 años de fundación con eventos culturales, desfiles y actividades que resaltan su historia y contribución al país.</p>
+                    <a href="https://mileniumtvi.com/490-anios-de-guayaquil" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 2 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Respaldo a la Fuerza Naval Ecuatoriana">
+                <div class="card-content">
+                    <h3>El presidente Daniel Noboa Azin ratifica su respaldo a la Fuerza Naval Ecuatoriana</h3>
+                    <p>El presidente Daniel Noboa Azin confirma su apoyo a la Fuerza Naval Ecuatoriana, destacando su rol en la defensa y seguridad marítima del Ecuador.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-azin-ratifica-su-respaldo-a-la-fuerza-naval-ecuatoriana" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nueva noticia 3 -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Plan de eficiencia administrativa">
+                <div class="card-content">
+                    <h3>El gobierno pone en marcha plan de eficiencia administrativa</h3>
+                    <p>El gobierno lanza un plan de eficiencia administrativa para optimizar recursos, reducir burocracia y mejorar el servicio público.</p>
+                    <a href="https://mileniumtvi.com/el-gobierno-pone-en-marcha-plan-de-eficiencia-administrativa" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia destacada como primera -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca, ciudad más segura de Sudamérica">

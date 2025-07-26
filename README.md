@@ -281,6 +281,14 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Presidente Noboa en Guayaquil">
+                <div class="card-content">
+                    <h3>El presidente Noboa honró a la Perla del Pacífico en sus 490 años de fundación</h3>
+                    <p>El presidente Daniel Noboa honró a Guayaquil, conocida como la Perla del Pacífico, en la celebración de sus 490 años de fundación, destacando su importancia histórica, cultural y económica para el Ecuador.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-honro-a-la-perla-del-pacifico-en-sus-490-anios-de-fundacion" target="_blank">Leer más</a>
+                </div>
+            </div>
             <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="490 años de Guayaquil">

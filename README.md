@@ -161,6 +161,38 @@
             margin: 1rem auto;
         }
 
+        /* Entrevistas Section */
+        .entrevistas-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .entrevistas-container .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            padding-bottom: 56.25%; /* Mantiene proporción 16:9 */
+            height: 0;
+            overflow: hidden;
+        }
+
+        .entrevistas-container .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .entrevistas-container p {
+            font-size: 1rem;
+            color: #333;
+            max-width: 800px;
+            text-align: center;
+        }
+
         /* Footer */
         footer {
             background: #0d47a1;
@@ -192,6 +224,16 @@
 
             .live-stream .video-js {
                 height: 300px;
+            }
+
+            .entrevistas-container .video-wrapper {
+                max-width: 100%;
+                padding-bottom: 56.25%; /* Mantener proporción 16:9 */
+            }
+
+            .entrevistas-container p {
+                font-size: 0.9rem;
+                padding: 0 1rem;
             }
         }
     </style>
@@ -244,26 +286,28 @@
     <!-- Entrevistas -->
     <section id="entrevistas" class="section live-stream">
         <h2>Entrevistas</h2>
-        <iframe
-            width="800"
-            height="450"
-            src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I"
-            title="Entrevista al Presidente de Ecuador Daniel Noboa Azín"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-        </iframe>
-        <p>Entrevista al Presidente de Ecuador Daniel Noboa Azín</p>
-        <iframe
-            width="800"
-            height="450"
-            src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi"
-            title="Entrevista Exclusiva"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-        </iframe>
-        <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta:  ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
+        <div class="entrevistas-container">
+            <div class="video-wrapper">
+                <iframe
+                    src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I"
+                    title="Entrevista al Presidente de Ecuador Daniel Noboa Azín"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <p>Entrevista al Presidente de Ecuador Daniel Noboa Azín</p>
+            <div class="video-wrapper">
+                <iframe
+                    src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi"
+                    title="Entrevista Exclusiva"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta:  ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
+        </div>
     </section>
 
     <!-- TV Play -->
@@ -610,7 +654,17 @@
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
-            <!-- Nueva noticia destacada como principal -->
+            <!-- Nueva noticia destacada como primera -->
+            <div class="card">
+                <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">
+                    <img src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025">
+                </a>
+                <div class="card-content">
+                    <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
+                    <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
+                    <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">
                     <img src="https://via.placeholder.com/250x150" alt="Prevención de enfermedades crónicas">

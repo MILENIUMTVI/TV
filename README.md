@@ -247,6 +247,16 @@
         <iframe
             width="800"
             height="450"
+            src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I"
+            title="Entrevista al Presidente de Ecuador Daniel Noboa Azín"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+        <p>Entrevista al Presidente de Ecuador Daniel Noboa Azín</p>
+        <iframe
+            width="800"
+            height="450"
             src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi"
             title="Entrevista Exclusiva"
             frameborder="0"

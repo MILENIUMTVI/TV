@@ -335,6 +335,15 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <!-- Nueva noticia insertada como primera -->
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Jóvenes en Acción">
+                <div class="card-content">
+                    <h3>Jóvenes en Acción abrirá plazas de empleo para 80 mil personas más</h3>
+                    <p>El programa Jóvenes en Acción abrirá oportunidades laborales para 80,000 personas, impulsando el empleo juvenil y el desarrollo económico en Ecuador.</p>
+                    <a href="https://mileniumtvi.com/jovenes-en-accion-abrira-plazas-de-empleo-para-80-mil-personas-mas" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Presidente Noboa en Guayaquil">
                 <div class="card-content">
@@ -343,7 +352,6 @@
                     <a href="https://mileniumtvi.com/el-presidente-noboa-honro-a-la-perla-del-pacifico-en-sus-490-anios-de-fundacion" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="490 años de Guayaquil">
                 <div class="card-content">
@@ -352,7 +360,6 @@
                     <a href="https://mileniumtvi.com/490-anios-de-guayaquil" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 2 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Respaldo a la Fuerza Naval Ecuatoriana">
                 <div class="card-content">
@@ -361,7 +368,6 @@
                     <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-azin-ratifica-su-respaldo-a-la-fuerza-naval-ecuatoriana" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 3 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Plan de eficiencia administrativa">
                 <div class="card-content">
@@ -370,7 +376,6 @@
                     <a href="https://mileniumtvi.com/el-gobierno-pone-en-marcha-plan-de-eficiencia-administrativa" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia destacada como primera -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca, ciudad más segura de Sudamérica">
                 <div class="card-content">
@@ -379,7 +384,6 @@
                     <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana se suma a la ordenanza del lote mínimo">
                 <div class="card-content">
@@ -388,7 +392,6 @@
                     <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 2 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
                 <div class="card-content">
@@ -397,7 +400,6 @@
                     <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 3 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Inversión histórica para familias afectadas por lluvias">
                 <div class="card-content">
@@ -406,7 +408,6 @@
                     <a href="https://mileniumtvi.com/el-gobierno-destina-inversion-historica-de-usd-12-millones-para-mejorar-atencion-a-familias-afectadas-por-lluvias" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia como primera -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ecuador y Emiratos Árabes Unidos fortalecen relaciones">
                 <div class="card-content">
@@ -415,7 +416,6 @@
                     <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-continuan-fortaleciendo-sus-relaciones-diplomaticas" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia insertada como primera -->
             <div class="card">
                 <img src="https://img.youtube.com/vi/rTpLI125NQA/hqdefault.jpg" alt="Noticia en Video">
                 <div class="card-content">
@@ -424,7 +424,6 @@
                     <a href="https://www.youtube.com/embed/rTpLI125NQA" target="_blank">Ver video</a>
                 </div>
             </div>
-            <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Anuncios del Lunes">
                 <div class="card-content">
@@ -433,7 +432,6 @@
                     <a href="https://mileniumtvi.com/reduccion-de-la-pobreza-reinsercion-escolar-pago-a-docentes-y-record-historico-en-exportaciones-entre-los-anuncios-de-este-lunes" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 2 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gabinete Ministerial en Tena">
                 <div class="card-content">
@@ -442,7 +440,6 @@
                     <a href="https://mileniumtvi.com/el-presidente-de-la-republica-daniel-noboa-azin-lidero-este-17-de-julio-el-gabinete-ministerial-desarrollado-en-la-ciudad-de-tena" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 3 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Aumento en Educación Inicial">
                 <div class="card-content">
@@ -451,7 +448,6 @@
                     <a href="https://mileniumtvi.com/el-ingreso-a-la-educacion-inicial-de-ninas-y-ninos-de-los-centros-infantiles-del-mies-aumento-al-72-por-ciento" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 4 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Crédito Agro Violeta">
                 <div class="card-content">
@@ -460,7 +456,6 @@
                     <a href="https://mileniumtvi.com/credito-agro-violeta-la-iniciativa-productiva-que-impulsa-el-desarrollo-de-la-mujer-agricola-en-el-nuevo-ecuador" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Noticia previa (Transformación digital en la Amazonía) -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Transformación digital en la Amazonía">
                 <div class="card-content">
@@ -469,7 +464,6 @@
                     <a href="https://mileniumtvi.com/san-juan-de-muyuna-recibe-acceso-a-internet-4g-y-formacion-tecnologica-gratuita" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Sistemas de Agua Potable y Alcantarillado">
                 <div class="card-content">
@@ -478,7 +472,6 @@
                     <a href="https://mileniumtvi.com/sistemas-de-agua-potable-y-alcantarillado-pluvial-para-baba" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 2 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gobierno Firme Contra el Crimen">
                 <div class="card-content">
@@ -487,7 +480,6 @@
                     <a href="https://mileniumtvi.com/el-gobierno-nacional-firme-contra-el-crimen" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 3 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="3er Festival de la Fritada en Sidcay">
                 <div class="card-content">
@@ -496,7 +488,6 @@
                     <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia destacada -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Operativo en Recinto Ferial">
                 <div class="card-content">
@@ -505,7 +496,6 @@
                     <a href="https://mileniumtvi.com/operativo-de-control-en-los-alrededores-del-recinto-ferial-el-arenal" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 1 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
                 <div class="card-content">
@@ -514,7 +504,6 @@
                     <a href="https://mileniumtvi.com/gobierno-anuncia-reactivacion-del-sote-este-17-de-julio-y-un-plan-de-mantenimiento-estructural" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia 2 -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Condecoración a Daniel Noboa">
                 <div class="card-content">
@@ -571,7 +560,6 @@
                     <a href="https://mileniumtvi.com/presidente-noboa-mantuvo-reuniones-bilaterales-con-las-maximas-autoridades-de-la-politica-italiana" target="_blank">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva Noticia Local -->
             <div class="card">
                 <img src="https://img.youtube.com/vi/-a8ElTs6Pds/hqdefault.jpg" alt="Noticia Local">
                 <div class="card-content">
@@ -594,13 +582,6 @@
                     <h3>Empresarios Italianos y Presidente Noboa</h3>
                     <p>Empresarios italianos dialogaron con el Presidente Daniel Noboa sobre inversiones en sectores estratégicos.</p>
                     <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://pbs.twimg.com/media/GvXiaxLXEAAFS-9.jpg?format=jpg&name=small" alt="Caso de Violación">
-                <div class="card-content">
-                    <h3>Caso de Violación a Menor</h3>
-                    <p>Una menor de apenas 12 años, presuntamentre fue víctima de violación por parte de un sujeto identificado como Joseph Santiago Díaz Asque RC5, el reemplazo de Prisclila Schettini en la Asamblea del enlace <a href="https://x.com/mileniumtvi/status/1942707934242169275">https://x.com/mileniumtvi/status/1942707934242169275</a></p>
                 </div>
             </div>
         </div>

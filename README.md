@@ -134,7 +134,22 @@
             object-fit: cover;
         }
 
-        .mlive-stream {
+        .card-content {
+            padding: 1rem;
+        }
+
+        .card-content h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-content p {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        /* Live Stream Section */
+        .live-stream {
             background: #f9f9f9;
             text-align: center;
         }
@@ -272,7 +287,6 @@
     <section id="entrevistas" class="section live-stream">
         <h2>Entrevistas</h2>
         <div class="entrevistas-container">
-            <!-- Nueva entrevista insertada como primera -->
             <div class="video-wrapper">
                 <iframe
                     src="https://www.youtube.com/embed/t6AcnjKj4xo"
@@ -333,6 +347,14 @@
         <div class="grid">
             <!-- Nueva noticia insertada como primera -->
             <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Suspensión de operaciones de la Cooperativa CREA Ltda.">
+                <div class="card-content">
+                    <h3>Suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda.</h3>
+                    <p>La SEPS dispone la suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda., garantizando la protección de los depósitos de los socios.</p>
+                    <a href="https://mileniumtvi.com/suspension-de-operaciones-y-liquidacion-forzosa-de-la-cooperativa-crea-ltda" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Jóvenes en Acción">
                 <div class="card-content">
                     <h3>Jóvenes en Acción abrirá plazas de empleo para 80 mil personas más</h3>
@@ -357,7 +379,6 @@
                 </div>
             </div>
             <div class="card">
-_reading_file_2.txt
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Respaldo a la Fuerza Naval Ecuatoriana">
                 <div class="card-content">
                     <h3>El presidente Daniel Noboa Azin ratifica su respaldo a la Fuerza Naval Ecuatoriana</h3>
@@ -573,14 +594,6 @@ _reading_file_2.txt
                     <a href="https://mileniumtvi.com/opinion" target="_blank">Leer más</a>
                 </div>
             </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/06/Empresarios-italianos.jpg" alt="Noticia Empresarios Italianos">
-                <div class="card-content">
-                    <h3>Empresarios Italianos y Presidente Noboa</h3>
-                    <p>Empresarios italianos dialogaron con el Presidente Daniel Noboa sobre inversiones en sectores estratégicos.</p>
-                    <a href="https://mileniumtvi.com/empresarios-italianos-en-areas-estrategicas-dialogaron-con-el-presidente-daniel-noboa-sobre-inversion-en-sectores-estrategicos" target="_blank">Leer más</a>
-                </div>
-            </div>
         </div>
     </section>
 
@@ -588,7 +601,6 @@ _reading_file_2.txt
     <section id="imagenes" class="section">
         <h2>Noticia en Imágenes</h2>
         <div class="grid">
-            <!-- Nueva noticia insertada como primera -->
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Accidente en Bangladés">
                 <div class="card-content">
@@ -632,7 +644,6 @@ _reading_file_2.txt
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
-            <!-- Nueva noticia destacada como primera -->
             <div class="card">
                 <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">
                     <img src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025">
@@ -641,9 +652,7 @@ _reading_file_2.txt
                     <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
                     <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
                     <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">Leer más</a>
-                </遂
-
-        <!-- Continuación de la sección Publicaciones -->
+                </div>
             </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">
@@ -655,7 +664,6 @@ _reading_file_2.txt
                     <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia destacada como ESPECTÁCULO -->
             <div class="card">
                 <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">
                     <img src="https://via.placeholder.com/250x150" alt="Tributo a Bon Jovi en Cuenca">
@@ -666,7 +674,6 @@ _reading_file_2.txt
                     <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia insertada como primera -->
             <div class="card">
                 <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">
                     <img src="https://via.placeholder.com/250x150" alt="Extradición de Fito Macías">
@@ -677,7 +684,6 @@ _reading_file_2.txt
                     <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia destacada -->
             <div class="card">
                 <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">
                     <img src="https://via.placeholder.com/250x150" alt="Hyundai Mighty EX en Cuenca">
@@ -718,7 +724,6 @@ _reading_file_2.txt
                     <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
                 </div>
             </div>
-            <!-- Nueva noticia -->
             <div class="card">
                 <a href="https://mileniumtvi.com/ya-puedes-viajar-en-tren-por-la-ruta-nariz-del-diablo-de-ecuador">
                     <img src="https://via.placeholder.com/250x150" alt="Ruta Nariz del Diablo">
@@ -738,8 +743,6 @@ _reading_file_2.txt
         <p>En nuestro canal, tu voz importa. Contáctanos para cualquier queja, sugerencia o consulta.</p>
         <form>
             <input type="text" placeholder="Nombre" required>
-            <input忙
-
             <input type="email" placeholder="Correo Electrónico" required>
             <textarea placeholder="Tu mensaje" required></textarea>
             <button type="submit">Enviar</button>

@@ -345,7 +345,6 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
-            <!-- Nueva noticia insertada como primera -->
             <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Suspensión de operaciones de la Cooperativa CREA Ltda.">
                 <div class="card-content">
@@ -392,30 +391,6 @@
                     <h3>El gobierno pone en marcha plan de eficiencia administrativa</h3>
                     <p>El gobierno lanza un plan de eficiencia administrativa para optimizar recursos, reducir burocracia y mejorar el servicio público.</p>
                     <a href="https://mileniumtvi.com/el-gobierno-pone-en-marcha-plan-de-eficiencia-administrativa" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca, ciudad más segura de Sudamérica">
-                <div class="card-content">
-                    <h3>Cuenca, ciudad más segura de Sudamérica según Numbeo</h3>
-                    <p>Cuenca ha sido reconocida como la ciudad más segura de Sudamérica por el índice Numbeo, destacando por sus bajos índices de criminalidad y la calidad de vida que ofrece a sus habitantes.</p>
-                    <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana se suma a la ordenanza del lote mínimo">
-                <div class="card-content">
-                    <h3>Santa Ana se suma a la construcción de la ordenanza del lote mínimo</h3>
-                    <p>La parroquia Santa Ana se incorpora al proceso de elaboración de la ordenanza sobre el lote mínimo, promoviendo el desarrollo urbano sostenible y regulando el uso del suelo en la región.</p>
-                    <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
-                <div class="card-content">
-                    <h3>Entrega de beneficios a las juntas de agua potable y riego de Pichincha</h3>
-                    <p>Se realiza la entrega de beneficios a las juntas de agua potable y riego en Pichincha, mejorando el acceso al agua y apoyando la agricultura local mediante recursos y asistencia técnica.</p>
-                    <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">
@@ -483,27 +458,11 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Sistemas de Agua Potable y Alcantarillado">
-                <div class="card-content">
-                    <h3>Sistemas de Agua Potable y Alcantarillado para Baba</h3>
-                    <p>Se implementan nuevos sistemas de agua potable y alcantarillado pluvial en Baba para mejorar la calidad de vida y la infraestructura local.</p>
-                    <a href="https://mileniumtvi.com/sistemas-de-agua-potable-y-alcantarillado-pluvial-para-baba" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gobierno Firme Contra el Crimen">
                 <div class="card-content">
                     <h3>El Gobierno Nacional Firme Contra el Crimen</h3>
                     <p>El gobierno nacional refuerza medidas contra el crimen organizado, implementando estrategias para garantizar la seguridad ciudadana.</p>
                     <a href="https://mileniumtvi.com/el-gobierno-nacional-firme-contra-el-crimen" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="3er Festival de la Fritada en Sidcay">
-                <div class="card-content">
-                    <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
-                    <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>
-                    <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">
@@ -528,14 +487,6 @@
                     <h3>Jóvenes condecoran a Daniel Noboa</h3>
                     <p>Jóvenes estudiantes condecoran al presidente Daniel Noboa por las más de 409.000 becas entregadas en su gestión.</p>
                     <a href="https://mileniumtvi.com/jovenes-estudiantes-condecoran-al-presidente-daniel-noboa" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
-                <div class="card-content">
-                    <h3>Certamen Reina de Cuenca</h3>
-                    <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>
-                    <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank">Leer más</a>
                 </div>
             </div>
             <div class="card">
@@ -579,6 +530,77 @@
                 </div>
             </div>
             <div class="card">
+                <img src="https://www.canva.com/design/DAGrNUMTC64/a-pMihPoo9L1C55W5vU0jg/watch?utm_content=DAGrNUMTC64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea15cd559" alt="Editorial">
+                <div class="card-content">
+                    <h3>Editorial</h3>
+                    <p>Explora las opiniones y análisis de nuestros expertos sobre los temas más relevantes.</p>
+                    <a href="https://mileniumtvi.com/opinion" target="_blank">Leer más</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Noticias Locales -->
+    <section id="locales" class="section">
+        <h2>Noticias Locales</h2>
+        <div class="grid">
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cumbe aportó a la construcción participativa del lote mínimo">
+                <div class="card-content">
+                    <h3>Cumbe aportó a la construcción participativa del lote mínimo</h3>
+                    <p>Cumbe contribuye a la construcción participativa de la ordenanza del lote mínimo, promoviendo el desarrollo urbano sostenible.</p>
+                    <a href="https://mileniumtvi.com/cumbe-aporto-a-la-construccion-participativa-del-lote-minimo" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca, ciudad más segura de Sudamérica">
+                <div class="card-content">
+                    <h3>Cuenca, ciudad más segura de Sudamérica según Numbeo</h3>
+                    <p>Cuenca ha sido reconocida como la ciudad más segura de Sudamérica por el índice Numbeo, destacando por sus bajos índices de criminalidad y la calidad de vida que ofrece a sus habitantes.</p>
+                    <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana se suma a la ordenanza del lote mínimo">
+                <div class="card-content">
+                    <h3>Santa Ana se suma a la construcción de la ordenanza del lote mínimo</h3>
+                    <p>La parroquia Santa Ana se incorpora al proceso de elaboración de la ordenanza sobre el lote mínimo, promoviendo el desarrollo urbano sostenible y regulando el uso del suelo en la región.</p>
+                    <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
+                <div class="card-content">
+                    <h3>Entrega de beneficios a las juntas de agua potable y riego de Pichincha</h3>
+                    <p>Se realiza la entrega de beneficios a las juntas de agua potable y riego en Pichincha, mejorando el acceso al agua y apoyando la agricultura local mediante recursos y asistencia técnica.</p>
+                    <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Sistemas de Agua Potable y Alcantarillado para Baba">
+                <div class="card-content">
+                    <h3>Sistemas de Agua Potable y Alcantarillado para Baba</h3>
+                    <p>Se implementan nuevos sistemas de agua potable y alcantarillado pluvial en Baba para mejorar la calidad de vida y la infraestructura local.</p>
+                    <a href="https://mileniumtvi.com/sistemas-de-agua-potable-y-alcantarillado-pluvial-para-baba" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="3er Festival de la Fritada en Sidcay">
+                <div class="card-content">
+                    <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
+                    <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>
+                    <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
+                <div class="card-content">
+                    <h3>Certamen Reina de Cuenca</h3>
+                    <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>
+                    <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://img.youtube.com/vi/-a8ElTs6Pds/hqdefault.jpg" alt="Noticia Local">
                 <div class="card-content">
                     <h3>Noticia Local</h3>
@@ -587,11 +609,43 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.canva.com/design/DAGrNUMTC64/a-pMihPoo9L1C55W5vU0jg/watch?utm_content=DAGrNUMTC64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea15cd559" alt="Editorial">
+                <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">
+                    <img src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025">
+                </a>
                 <div class="card-content">
-                    <h3>Editorial</h3>
-                    <p>Explora las opiniones y análisis de nuestros expertos sobre los temas más relevantes.</p>
-                    <a href="https://mileniumtvi.com/opinion" target="_blank">Leer más</a>
+                    <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
+                    <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
+                    <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">
+                    <img src="https://via.placeholder.com/250x150" alt="Tributo a Bon Jovi en Cuenca">
+                </a>
+                <div class="card-content">
+                    <h3>Banda Tributo a Bon Jovi en Cuenca</h3>
+                    <p>La banda británica oficial de tributo a Bon Jovi llega por primera vez a Cuenca, ofreciendo un espectáculo inolvidable con los grandes éxitos de la legendaria banda de rock.</p>
+                    <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">
+                    <img src="https://via.placeholder.com/250x150" alt="Hyundai Mighty EX en Cuenca">
+                </a>
+                <div class="card-content">
+                    <h3>Hyundai Mighty EX en Cuenca</h3>
+                    <p>Hyundai presentó su renovada línea de camiones Mighty EX en Cuenca, destacando modelos como EX6, EX6 GT, EX8 y EX10 con potencia y diseño renovado.</p>
+                    <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">
+                    <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras comprometidas">
+                </a>
+                <div class="card-content">
+                    <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
+                    <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
+                    <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">Leer más</a>
                 </div>
             </div>
         </div>
@@ -645,16 +699,6 @@
         <h2>Publicaciones</h2>
         <div class="grid">
             <div class="card">
-                <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">
-                    <img src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025">
-                </a>
-                <div class="card-content">
-                    <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
-                    <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
-                    <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
                 <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">
                     <img src="https://via.placeholder.com/250x150" alt="Prevención de enfermedades crónicas">
                 </a>
@@ -665,16 +709,6 @@
                 </div>
             </div>
             <div class="card">
-                <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">
-                    <img src="https://via.placeholder.com/250x150" alt="Tributo a Bon Jovi en Cuenca">
-                </a>
-                <div class="card-content">
-                    <h3>Banda Tributo a Bon Jovi en Cuenca</h3>
-                    <p>La banda británica oficial de tributo a Bon Jovi llega por primera vez a Cuenca, ofreciendo un espectáculo inolvidable con los grandes éxitos de la legendaria banda de rock.</p>
-                    <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
                 <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">
                     <img src="https://via.placeholder.com/250x150" alt="Extradición de Fito Macías">
                 </a>
@@ -682,26 +716,6 @@
                     <h3>Extradición de Fito Macías</h3>
                     <p>José Adolfo Fito Macías, líder de la organización criminal transnacional Los Choneros, fue extraditado, marcando un paso importante en la lucha contra el crimen organizado.</p>
                     <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">
-                    <img src="https://via.placeholder.com/250x150" alt="Hyundai Mighty EX en Cuenca">
-                </a>
-                <div class="card-content">
-                    <h3>Hyundai Mighty EX en Cuenca</h3>
-                    <p>Hyundai presentó su renovada línea de camiones Mighty EX en Cuenca, destacando modelos como EX6, EX6 GT, EX8 y EX10 con potencia y diseño renovado.</p>
-                    <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">
-                    <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras comprometidas">
-                </a>
-                <div class="card-content">
-                    <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
-                    <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
-                    <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">Leer más</a>
                 </div>
             </div>
             <div class="card">

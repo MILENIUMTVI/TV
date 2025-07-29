@@ -134,22 +134,7 @@
             object-fit: cover;
         }
 
-        .card-content {
-            padding: 1rem;
-        }
-
-        .card-content h3 {
-            font-size: 1.2rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .card-content p {
-            font-size: 0.9rem;
-            color: #666;
-        }
-
-        /* Live Stream Section */
-        .live-stream {
+        .mlive-stream {
             background: #f9f9f9;
             text-align: center;
         }
@@ -287,6 +272,17 @@
     <section id="entrevistas" class="section live-stream">
         <h2>Entrevistas</h2>
         <div class="entrevistas-container">
+            <!-- Nueva entrevista insertada como primera -->
+            <div class="video-wrapper">
+                <iframe
+                    src="https://www.youtube.com/embed/t6AcnjKj4xo"
+                    title="Suspensión de operaciones de la Cooperativa CREA Ltda."
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <p>La SEPS dispone la suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda. y garantiza la protección de los depósitos de los socios.</p>
             <div class="video-wrapper">
                 <iframe
                     src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I"
@@ -361,6 +357,7 @@
                 </div>
             </div>
             <div class="card">
+_reading_file_2.txt
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Respaldo a la Fuerza Naval Ecuatoriana">
                 <div class="card-content">
                     <h3>El presidente Daniel Noboa Azin ratifica su respaldo a la Fuerza Naval Ecuatoriana</h3>
@@ -644,7 +641,9 @@
                     <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
                     <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
                     <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025">Leer más</a>
-                </div>
+                </遂
+
+        <!-- Continuación de la sección Publicaciones -->
             </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">
@@ -739,6 +738,8 @@
         <p>En nuestro canal, tu voz importa. Contáctanos para cualquier queja, sugerencia o consulta.</p>
         <form>
             <input type="text" placeholder="Nombre" required>
+            <input忙
+
             <input type="email" placeholder="Correo Electrónico" required>
             <textarea placeholder="Tu mensaje" required></textarea>
             <button type="submit">Enviar</button>

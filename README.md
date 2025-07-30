@@ -474,7 +474,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/7/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
                 <div class="card-content">
                     <h3>Gobierno anuncia reactivación del SOTE</h3>
                     <p>El gobierno anuncia la reactivación del SOTE este 17 de julio y un plan de mantenimiento estructural.</p>
@@ -656,12 +656,11 @@
         <h2>Noticia en Imágenes</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://img.youtube.com/vi/z77l-H4H664/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
+                <img src="https://img.youtube.com/vi/z1xQfEvFjA8/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
                 <div class="card-content">
                     <h3>Inauguración Central Termoeléctrica El Descanso II</h3>
-                    <p>Este 30 de julio de 2025, el presidente de la República, Daniel Noboa Azin, inauguró la Central Termoeléctrica Terrestre El Descanso II, ubicada en el cantón Azogues, provincia del Cañar. La nueva infraestructura Montserrat
-                    infraestructura aportará 20 megavatios (MW) al Sistema Eléctrico Nacional.</p>
-                    <a href="https://youtu.be/z77l-H4H664?si=nyH2AGWPCm1Obmeh" target="_blank">Ver video</a>
+                    <p>Este 30 de julio de 2025, el presidente de la República, Daniel Noboa Azin, inauguró la Central Termoeléctrica Terrestre El Descanso II, ubicada en el cantón Azogues, provincia del Cañar. La nueva infraestructura aportará 20 megavatios (MW) al Sistema Eléctrico Nacional.</p>
+                    <a href="https://youtu.be/z1xQfEvFjA8?si=deueu9QrihN2rcYY" target="_blank">Ver video</a>
                 </div>
             </div>
             <div class="card">
@@ -669,7 +668,7 @@
                 <div class="card-content">
                     <h3>Accidente en Cuenca - Girón - Pasaje</h3>
                     <p>2 personas fallecieron en un grave accidente de tránsito en la vía Cuenca - Girón - Pasaje este martes. Uno es un niño de 4 años de edad que falleció de inmediato tras el impacto.</p>
-                    <a href="https://youtu.be/z77l-H4H664?si=OMVl3Dh1klvGU4ec" target="_blank">Ver video</a>
+                    <a href="https://youtu.be/z77l-H4H664?si=Ey-LekZGWl7tz1-D" target="_blank">Ver video</a>
                 </div>
             </div>
         </div>

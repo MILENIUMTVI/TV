@@ -656,18 +656,20 @@
         <h2>Noticia en Imágenes</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://via.placeholder.com/250x150" alt="Accidente en Bangladés">
+                <img src="https://img.youtube.com/vi/z77l-H4H664/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
                 <div class="card-content">
-                    <h3>Accidente en Bangladés</h3>
-                    <p>Al menos 16 personas, en su mayoría estudiantes, murieron tras el choque de un avión de entrenamiento contra un campus en Daca, con un centenar de heridos.</p>
-                    <a href="https://mileniumtvi.com/al-menos-16-muertos-en-accidente-de-avion-en-bangladess" target="_blank">Leer más</a>
+                    <h3>Inauguración Central Termoeléctrica El Descanso II</h3>
+                    <p>Este 30 de julio de 2025, el presidente de la República, Daniel Noboa Azin, inauguró la Central Termoeléctrica Terrestre El Descanso II, ubicada en el cantón Azogues, provincia del Cañar. La nueva infraestructura Montserrat
+                    infraestructura aportará 20 megavatios (MW) al Sistema Eléctrico Nacional.</p>
+                    <a href="https://youtu.be/z77l-H4H664?si=nyH2AGWPCm1Obmeh" target="_blank">Ver video</a>
                 </div>
             </div>
             <div class="card">
-                <img src="https://via.placeholder.com/250x150" alt="Ceremonia de Cambio de Mando">
+                <img src="https://img.youtube.com/vi/z77l-H4H664/hqdefault.jpg" alt="Accidente en Cuenca - Girón - Pasaje">
                 <div class="card-content">
-                    <h3>Ceremonia de Cambio de Mando</h3>
-                    <p><a href="https://mileniumtvi.com/ceremonia-de-cambio-de-mando-policial-quito-09072025" target="_blank">https://mileniumtvi.com/ceremonia-de-cambio-de-mando-policial-quito-09072025</a></p>
+                    <h3>Accidente en Cuenca - Girón - Pasaje</h3>
+                    <p>2 personas fallecieron en un grave accidente de tránsito en la vía Cuenca - Girón - Pasaje este martes. Uno es un niño de 4 años de edad que falleció de inmediato tras el impacto.</p>
+                    <a href="https://youtu.be/z77l-H4H664?si=OMVl3Dh1klvGU4ec" target="_blank">Ver video</a>
                 </div>
             </div>
         </div>

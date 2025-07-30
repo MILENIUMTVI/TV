@@ -250,6 +250,7 @@
                     <li><a href="#news">Noticias</a></li>
                     <li><a href="#videos">Videos</a></li>
                     <li><a href="#posts">Publicaciones</a></li>
+                    <li><a href="#imagenes">Noticia en Imágenes</a></li>
                     <li><a href="#defensa">Defensa del Televidente</a></li>
                 </ul>
             </nav>
@@ -292,7 +293,7 @@
                     src="https://www.youtube.com/embed/t6AcnjKj4xo"
                     title="Suspensión de operaciones de la Cooperativa CREA Ltda."
                     frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allow="accelerometer; autocomplete; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen>
                 </iframe>
             </div>
@@ -474,7 +475,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/7/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
                 <div class="card-content">
                     <h3>Gobierno anuncia reactivación del SOTE</h3>
                     <p>El gobierno anuncia la reactivación del SOTE este 17 de julio y un plan de mantenimiento estructural.</p>
@@ -699,6 +700,16 @@
     <section id="posts" class="section">
         <h2>Publicaciones</h2>
         <div class="grid">
+            <div class="card">
+                <a href="https://mileniumtvi.com/mas-de-100-ciudadanos-de-perucho-se-certifican-en-herramientas-digitales-y-rompen-la-brecha-tecnologica">
+                    <img src="https://via.placeholder.com/250x150" alt="Transformación Digital en Perucho">
+                </a>
+                <div class="card-content">
+                    <h3>Transformación Digital en Perucho</h3>
+                    <p>La parroquia rural de Perucho en Quito vivió este miércoles 30 de julio, una jornada de transformación digital.</p>
+                    <a href="https://mileniumtvi.com/mas-de-100-ciudadanos-de-perucho-se-certifican-en-herramientas-digitales-y-rompen-la-brecha-tecnologica">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">
                     <img src="https://via.placeholder.com/250x150" alt="Prevención de enfermedades crónicas">

@@ -654,6 +654,16 @@
                     <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">Leer más</a>
                 </div>
             </div>
+            <div class="card">
+                <a href="https://mileniumtvi.com/calificacion-de-riesgo-entidades-del-sector-financiero-popular-y-solidario">
+                    <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Calificación de Riesgo de Entidades Financieras">
+                </a>
+                <div class="card-content">
+                    <h3>Calificación de Riesgo de Entidades del Sector Financiero Popular y Solidario</h3>
+                    <p>La Superintendencia de Economía Popular y Solidaria presenta la calificación de riesgo de las entidades del sector financiero, promoviendo transparencia y estabilidad en el sistema cooperativo.</p>
+                    <a href="https://mileniumtvi.com/calificacion-de-riesgo-entidades-del-sector-financiero-popular-y-solidario" target="_blank">Leer más</a>
+                </div>
+            </div>
         </div>
     </section>
 

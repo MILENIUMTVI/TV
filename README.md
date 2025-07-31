@@ -349,8 +349,13 @@
             <div class="card">
                 <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/562e8c28248e38a7b465e5ed53564c3c" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
-                    <h3>Noticiero de Ecuador TV</h3>
                     <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
+                </div>
+            </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card-content">
+                    <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
                 </div>
             </div>
         </div>

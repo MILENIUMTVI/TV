@@ -28,6 +28,7 @@
             position: sticky;
             top: 0;
             z-index: 1000;
+            overflow-x: hidden; /* Evita desbordamiento horizontal */
         }
 
         .header-container {
@@ -47,6 +48,7 @@
             display: flex;
             gap: 1.5rem;
             align-items: center; /* Alinea verticalmente los elementos del menú */
+            flex-wrap: wrap; /* Permite que los elementos se ajusten en varias líneas si es necesario */
         }
 
         nav ul li a {
@@ -342,6 +344,13 @@
                 <div class="card-content">
                     <h3>Serie Exclusiva</h3>
                     <p>Una serie que no te puedes perder, disponible en TV Play.</p>
+                </div>
+            </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/562e8c28248e38a7b465e5ed53564c3c" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Noticiero de Ecuador TV</h3>
+                    <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
                 </div>
             </div>
         </div>
@@ -652,16 +661,6 @@
                     <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
                     <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
                     <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/calificacion-de-riesgo-entidades-del-sector-financiero-popular-y-solidario">
-                    <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Calificación de Riesgo de Entidades Financieras">
-                </a>
-                <div class="card-content">
-                    <h3>Calificación de Riesgo de Entidades del Sector Financiero Popular y Solidario</h3>
-                    <p>La Superintendencia de Economía Popular y Solidaria presenta la calificación de riesgo de las entidades del sector financiero, promoviendo transparencia y estabilidad en el sistema cooperativo.</p>
-                    <a href="https://mileniumtvi.com/calificacion-de-riesgo-entidades-del-sector-financiero-popular-y-solidario" target="_blank">Leer más</a>
                 </div>
             </div>
         </div>

@@ -360,6 +360,20 @@
                     <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
                 </div>
             </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/941f7f312ff650256dfc57dea174e794" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Noticiero DW</h3>
+                    <p>Noticiero DW 31 de julio 2025.</p>
+                </div>
+            </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c660bb40370c506d39eff881f3e72262" title="Noticiero RTVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Noticiero RTVE</h3>
+                    <p>Noticiero RTVE 31 de julio 2025.</p>
+                </div>
+            </div>
         </div>
     </section>
 

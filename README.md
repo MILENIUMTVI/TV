@@ -218,8 +218,13 @@
 
             nav ul {
                 flex-direction: column;
-                gap: 1rem;
+                gap: 0.8rem; /* Reducido para evitar desbordamiento */
                 align-items: center; /* Mantener alineación en vista móvil */
+            }
+
+            nav ul li a {
+                font-size: 0.9rem; /* Tamaño de fuente reducido para vista móvil */
+                padding: 0.5rem; /* Añade algo de padding para mejor legibilidad */
             }
 
             .live-stream .video-js {
@@ -293,7 +298,7 @@
                     src="https://www.youtube.com/embed/t6AcnjKj4xo"
                     title="Suspensión de operaciones de la Cooperativa CREA Ltda."
                     frameborder="0"
-                    allow="accelerometer; autocomplete; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen>
                 </iframe>
             </div>
@@ -656,6 +661,14 @@
     <section id="imagenes" class="section">
         <h2>Noticia en Imágenes</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://img.youtube.com/vi/3Ws3KFTv4pE/hqdefault.jpg" alt="Distribuidor de Tráfico Monay - ÍESS">
+                <div class="card-content">
+                    <h3>Distribuidor de Tráfico Monay - ÍESS</h3>
+                    <p>El presidente de la República, Daniel Noboa Azín, lideró el evento simbólico de colocación de la primera piedra de la construcción del distribuidor de tráfico Monay - ÍESS ubicada en Azuay. Además, se anunció la licitación para la rehabilitación de la vía Cuenca – Molleturo – El Empalme, corredor estratégico que conecta esa zona con todo el país. El acto se realizó este martes, 30 de julio de 2025.</p>
+                    <a href="https://youtu.be/3Ws3KFTv4pE" target="_blank">Ver video</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://img.youtube.com/vi/z1xQfEvFjA8/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
                 <div class="card-content">

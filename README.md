@@ -441,7 +441,7 @@
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ecuador y Emiratos Árabes Unidos fortalecen relaciones">
                 <div class="card-content">
                     <h3>Ecuador y Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas</h3>
-                    <p>Ecuador y los Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas a través de acuerdos bilaterales que promueven la cooperación en áreas como el comercio, la inversión y la seguridad. Esta alianza busca impulsar el desarrollo económico mutuo y fomentar intercambios culturales. Las reuniones recientes entre representantes de ambos países destacan el compromiso con una asociación estratégica a largo plazo.</p>
+                    <p>Ecuador y los Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas a través de acuerdos bilaterales que promueven la cooperación en áreas como el comercio, la inversión y la seguridad.</p>
                     <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-continuan-fortaleciendo-sus-relaciones-diplomaticas" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -529,7 +529,7 @@
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Retiro de Firmas RC5">
                 <div class="card-content">
                     <h3>Retiro de Firmas RC5</h3>
-                    <p>Cuatro Asambleístas de RC5 han retirado su firma del proyecto de ley presentado por su ex compañero de bancada Santiago Díaz en el que se propone que el consentimiento para una relación sexual sea a partir de los 14 años y no desde los 18.</p>
+                    <p>Cuatro Asambleístas de RC5 han retirado su firma del proyecto de ley presentado por su ex compañero de bancada Santiago Díaz.</p>
                     <a href="https://mileniumtvi.com/ex-companeros-de-la-bancada-la-revolucion-ciudadana-comenzaron-a-retirar-sus-firmas" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -545,7 +545,7 @@
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Caso Santiago Díaz">
                 <div class="card-content">
                     <h3>Caso Santiago Díaz</h3>
-                    <p>Santiago Díaz era el legislador alterno de Priscila Schettini, y se principalizó luego de que a Schettini se le suspendieran sus derechos políticos. Está acusado de violación a una menor.</p>
+                    <p>Santiago Díaz, acusado de violación a una menor, era el legislador alterno de Priscila Schettini.</p>
                     <a href="https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -561,7 +561,7 @@
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Presidente-Noboa-reuniones-italianas.jpg" alt="Noticia Destacada">
                 <div class="card-content">
                     <h3>Noticia Destacada</h3>
-                    <p>Presidente Noboa mantuvo reuniones bilaterales con las máximas autoridades de la política italiana para fortalecer cooperación y seguridad.</p>
+                    <p>Presidente Noboa mantuvo reuniones bilaterales con las máximas autoridades de la política italiana.</p>
                     <a href="https://mileniumtvi.com/presidente-noboa-mantuvo-reuniones-bilaterales-con-las-maximas-autoridades-de-la-politica-italiana" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -571,6 +571,47 @@
                     <h3>Editorial</h3>
                     <p>Explora las opiniones y análisis de nuestros expertos sobre los temas más relevantes.</p>
                     <a href="https://mileniumtvi.com/opinion" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <!-- Nuevas noticias agregadas -->
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Centro Deportivo y Cultural en Bajo Alto">
+                <div class="card-content">
+                    <h3>El presidente Noboa inauguró el Centro Deportivo y Cultural en Bajo Alto</h3>
+                    <p>El presidente Daniel Noboa inauguró un Centro Deportivo y Cultural en Bajo Alto, El Guabo, para promover actividades recreativas y culturales en la comunidad.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-inauguro-el-centro-deportivo-y-cultural-en-la-comuna-bajo-alto-del-canton-el-guabo" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Desarrollo agrícola en Azogues">
+                <div class="card-content">
+                    <h3>El presidente Noboa impulsa el desarrollo agrícola en Azogues</h3>
+                    <p>Daniel Noboa entregó beneficios en Azogues para fortalecer el sector agrícola, apoyando a productores con recursos para mejorar la productividad.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-impulsa-el-desarrollo-agricola-en-azogues-con-la-entrega-de-nuevos-beneficios" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Nuevo respaldo energético para Ecuador">
+                <div class="card-content">
+                    <h3>Nuevo respaldo energético para Ecuador</h3>
+                    <p>El gobierno impulsa iniciativas para fortalecer el suministro energético, garantizando estabilidad y sostenibilidad en el sector eléctrico nacional.</p>
+                    <a href="https://mileniumtvi.com/nuevo-respaldo-energetico-para-ecuador" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Distribuidor de Tráfico Monay - ÍESS en Azuay">
+                <div class="card-content">
+                    <h3>El distribuidor de tráfico Monay - ÍESS en Azuay</h3>
+                    <p>Daniel Noboa lideró la colocación de la primera piedra del distribuidor de tráfico Monay - ÍESS en Azuay, mejorando la movilidad regional.</p>
+                    <a href="https://mileniumtvi.com/el-distribuidor-de-trafico-monay-iess-en-azuay" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Cooperación con EE.UU.">
+                <div class="card-content">
+                    <h3>El gobierno de Noboa fortalece la cooperación con EE.UU.</h3>
+                    <p>El gobierno de Noboa refuerza la cooperación con EE.UU. en seguridad, comercio y desarrollo, promoviendo una alianza estratégica bilateral.</p>
+                    <a href="https://mileniumtvi.com/el-gobierno-de-noboa-fortalece-la-cooperacion-con-eeuu" target="_blank">Leer más</a>
                 </div>
             </div>
         </div>
@@ -695,7 +736,7 @@
                 <img src="https://img.youtube.com/vi/3Ws3KFTv4pE/hqdefault.jpg" alt="Distribuidor de Tráfico Monay - ÍESS">
                 <div class="card-content">
                     <h3>Distribuidor de Tráfico Monay - ÍESS</h3>
-                    <p>El presidente de la República, Daniel Noboa Azín, lideró el evento simbólico de colocación de la primera piedra de la construcción del distribuidor de tráfico Monay - ÍESS ubicada en Azuay. Además, se anunció la licitación para la rehabilitación de la vía Cuenca – Molleturo – El Empalme, corredor estratégico que conecta esa zona con todo el país. El acto se realizó este martes, 30 de julio de 2025.</p>
+                    <p>El presidente de la República, Daniel Noboa Azín, lideró el evento simbólico de colocación de la primera piedra de la construcción del distribuidor de tráfico Monay - ÍESS ubicada en Azuay.</p>
                     <a href="https://youtu.be/3Ws3KFTv4pE" target="_blank">Ver video</a>
                 </div>
             </div>
@@ -703,7 +744,7 @@
                 <img src="https://img.youtube.com/vi/z1xQfEvFjA8/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
                 <div class="card-content">
                     <h3>Inauguración Central Termoeléctrica El Descanso II</h3>
-                    <p>Este 30 de julio de 2025, el presidente de la República, Daniel Noboa Azin, inauguró la Central Termoeléctrica Terrestre El Descanso II, ubicada en el cantón Azogues, provincia del Cañar. La nueva infraestructura aportará 20 megavatios (MW) al Sistema Eléctrico Nacional.</p>
+                    <p>Este 30 de julio de 2025, el presidente de la República, Daniel Noboa Azin, inauguró la Central Termoeléctrica Terrestre El Descanso II, ubicada en el cantón Azogues, provincia del Cañar.</p>
                     <a href="https://youtu.be/z1xQfEvFjA8?si=deueu9QrihN2rcYY" target="_blank">Ver video</a>
                 </div>
             </div>
@@ -711,7 +752,7 @@
                 <img src="https://img.youtube.com/vi/z77l-H4H664/hqdefault.jpg" alt="Accidente en Cuenca - Girón - Pasaje">
                 <div class="card-content">
                     <h3>Accidente en Cuenca - Girón - Pasaje</h3>
-                    <p>2 personas fallecieron en un grave accidente de tránsito en la vía Cuenca - Girón - Pasaje este martes. Uno es un niño de 4 años de edad que falleció de inmediato tras el impacto.</p>
+                    <p>2 personas fallecieron en un grave accidente de tránsito en la vía Cuenca - Girón - Pasaje este martes. Uno es un niño de 4 años de edad.</p>
                     <a href="https://youtu.be/z77l-H4H664?si=Ey-LekZGWl7tz1-D" target="_blank">Ver video</a>
                 </div>
             </div>
@@ -759,7 +800,7 @@
                 </a>
                 <div class="card-content">
                     <h3>80% de enfermedades crónicas prevenibles con autocuidado</h3>
-                    <p>Expertos destacan que el 80% de las enfermedades crónicas pueden prevenirse con prácticas de autocuidado, promoviendo hábitos saludables para mejorar la calidad de vida.</p>
+                    <p>Expertos destacan que el 80% de las enfermedades crónicas pueden prevenirse con prácticas de autocuidado, promoviendo hábitos saludables.</p>
                     <a href="https://mileniumtvi.com/el-80--de-las-enfermedades-cronicas-se-pueden-prevenir-con-autocuidadopor-ciento-">Leer más</a>
                 </div>
             </div>
@@ -769,7 +810,7 @@
                 </a>
                 <div class="card-content">
                     <h3>Extradición de Fito Macías</h3>
-                    <p>José Adolfo Fito Macías, líder de la organización criminal transnacional Los Choneros, fue extraditado, marcando un paso importante en la lucha contra el crimen organizado.</p>
+                    <p>José Adolfo Fito Macías, líder de Los Choneros, fue extraditado, marcando un hito en la lucha contra el crimen organizado.</p>
                     <a href="https://mileniumtvi.com/jose-adolfo-fito-macias-villamar-lider-de-la-organizacion-criminal-transnacional-los-choneros-fue-extraditado">Leer más</a>
                 </div>
             </div>
@@ -779,7 +820,7 @@
                 </a>
                 <div class="card-content">
                     <h3>Artículo Especial</h3>
-                    <p>Ecuador y Emiratos Árabes Unidos firman acuerdos para impulsar turismo, conectividad aérea y seguridad, promoviendo intercambios culturales y comerciales.</p>
+                    <p>Ecuador y Emiratos Árabes Unidos firman acuerdos para impulsar turismo, conectividad aérea y seguridad, promoviendo intercambios culturales.</p>
                     <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
                 </div>
             </div>
@@ -789,7 +830,7 @@
                 </a>
                 <div class="card-content">
                     <h3>Blog del Mes</h3>
-                    <p>Descubre cómo los nuevos lazos entre Ecuador y Emiratos Árabes abren oportunidades para el comercio y la innovación tecnológica.</p>
+                    <p>Descubre cómo los lazos entre Ecuador y Emiratos Árabes abren oportunidades para el comercio y la innovación tecnológica.</p>
                     <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">Leer más</a>
                 </div>
             </div>

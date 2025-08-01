@@ -382,203 +382,10 @@
         <h2>Noticias</h2>
         <div class="grid">
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Suspensión de operaciones de la Cooperativa CREA Ltda.">
-                <div class="card-content">
-                    <h3>Suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda.</h3>
-                    <p>La SEPS dispone la suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda., garantizando la protección de los depósitos de los socios.</p>
-                    <a href="https://mileniumtvi.com/suspension-de-operaciones-y-liquidacion-forzosa-de-la-cooperativa-crea-ltda" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Jóvenes en Acción">
-                <div class="card-content">
-                    <h3>Jóvenes en Acción abrirá plazas de empleo para 80 mil personas más</h3>
-                    <p>El programa Jóvenes en Acción abrirá oportunidades laborales para 80,000 personas, impulsando el empleo juvenil y el desarrollo económico en Ecuador.</p>
-                    <a href="https://mileniumtvi.com/jovenes-en-accion-abrira-plazas-de-empleo-para-80-mil-personas-mas" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Presidente Noboa en Guayaquil">
-                <div class="card-content">
-                    <h3>El presidente Noboa honró a la Perla del Pacífico en sus 490 años de fundación</h3>
-                    <p>El presidente Daniel Noboa honró a Guayaquil, conocida como la Perla del Pacífico, en la celebración de sus 490 años de fundación, destacando su importancia histórica, cultural y económica para el Ecuador.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-honro-a-la-perla-del-pacifico-en-sus-490-anios-de-fundacion" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="490 años de Guayaquil">
-                <div class="card-content">
-                    <h3>490 años de Guayaquil</h3>
-                    <p>Guayaquil celebra sus 490 años de fundación con eventos culturales, desfiles y actividades que resaltan su historia y contribución al país.</p>
-                    <a href="https://mileniumtvi.com/490-anios-de-guayaquil" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Respaldo a la Fuerza Naval Ecuatoriana">
-                <div class="card-content">
-                    <h3>El presidente Daniel Noboa Azin ratifica su respaldo a la Fuerza Naval Ecuatoriana</h3>
-                    <p>El presidente Daniel Noboa Azin confirma su apoyo a la Fuerza Naval Ecuatoriana, destacando su rol en la defensa y seguridad marítima del Ecuador.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-azin-ratifica-su-respaldo-a-la-fuerza-naval-ecuatoriana" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Plan de eficiencia administrativa">
-                <div class="card-content">
-                    <h3>El gobierno pone en marcha plan de eficiencia administrativa</h3>
-                    <p>El gobierno lanza un plan de eficiencia administrativa para optimizar recursos, reducir burocracia y mejorar el servicio público.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-pone-en-marcha-plan-de-eficiencia-administrativa" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Inversión histórica para familias afectadas por lluvias">
-                <div class="card-content">
-                    <h3>El gobierno destina inversión histórica de USD 12 millones para mejorar atención a familias afectadas por lluvias</h3>
-                    <p>El gobierno asigna una inversión histórica de 12 millones de dólares para mejorar la atención a familias impactadas por las lluvias, enfocándose en apoyo inmediato, reconstrucción y prevención de desastres.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-destina-inversion-historica-de-usd-12-millones-para-mejorar-atencion-a-familias-afectadas-por-lluvias" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Ecuador y Emiratos Árabes Unidos fortalecen relaciones">
-                <div class="card-content">
-                    <h3>Ecuador y Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas</h3>
-                    <p>Ecuador y los Emiratos Árabes Unidos continúan fortaleciendo sus relaciones diplomáticas a través de acuerdos bilaterales que promueven la cooperación en áreas como el comercio, la inversión y la seguridad.</p>
-                    <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-continuan-fortaleciendo-sus-relaciones-diplomaticas" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://img.youtube.com/vi/rTpLI125NQA/hqdefault.jpg" alt="Noticia en Video">
-                <div class="card-content">
-                    <h3>Noticia en Video</h3>
-                    <p>Últimas actualizaciones y eventos destacados presentados en un nuevo video informativo.</p>
-                    <a href="https://www.youtube.com/embed/rTpLI125NQA" target="_blank">Ver video</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Anuncios del Lunes">
-                <div class="card-content">
-                    <h3>Anuncios del Lunes</h3>
-                    <p>Se reporta reducción de pobreza, reinserción escolar, pago a docentes y récord histórico en exportaciones entre los anuncios de este lunes.</p>
-                    <a href="https://mileniumtvi.com/reduccion-de-la-pobreza-reinsercion-escolar-pago-a-docentes-y-record-historico-en-exportaciones-entre-los-anuncios-de-este-lunes" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gabinete Ministerial en Tena">
-                <div class="card-content">
-                    <h3>Gabinete Ministerial en Tena</h3>
-                    <p>El presidente Daniel Noboa lideró el 17 de julio un gabinete ministerial en Tena, abordando temas clave para el desarrollo nacional.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-de-la-republica-daniel-noboa-azin-lidero-este-17-de-julio-el-gabinete-ministerial-desarrollado-en-la-ciudad-de-tena" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Aumento en Educación Inicial">
-                <div class="card-content">
-                    <h3>Aumento en Educación Inicial</h3>
-                    <p>El ingreso a la educación inicial en los centros infantiles del MIES creció al 72%, fortaleciendo el acceso educativo.</p>
-                    <a href="https://mileniumtvi.com/el-ingreso-a-la-educacion-inicial-de-ninas-y-ninos-de-los-centros-infantiles-del-mies-aumento-al-72-por-ciento" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Crédito Agro Violeta">
-                <div class="card-content">
-                    <h3>Crédito Agro Violeta</h3>
-                    <p>El Crédito Agro Violeta impulsa el desarrollo de mujeres agrícolas con financiamiento para proyectos productivos.</p>
-                    <a href="https://mileniumtvi.com/credito-agro-violeta-la-iniciativa-productiva-que-impulsa-el-desarrollo-de-la-mujer-agricola-en-el-nuevo-ecuador" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Transformación digital en la Amazonía">
-                <div class="card-content">
-                    <h3>Transformación digital en la Amazonía</h3>
-                    <p>San Juan de Muyuna recibe acceso a Internet 4G y formación tecnológica gratuita para fomentar la inclusión digital.</p>
-                    <a href="https://mileniumtvi.com/san-juan-de-muyuna-recibe-acceso-a-internet-4g-y-formacion-tecnologica-gratuita" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Gobierno Firme Contra el Crimen">
-                <div class="card-content">
-                    <h3>El Gobierno Nacional Firme Contra el Crimen</h3>
-                    <p>El gobierno nacional refuerza medidas contra el crimen organizado, implementando estrategias para garantizar la seguridad ciudadana.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-nacional-firme-contra-el-crimen" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Operativo en Recinto Ferial">
-                <div class="card-content">
-                    <h3>Operativo en Recinto Ferial</h3>
-                    <p>Operativo de control en los alrededores del Recinto Ferial El Arenal.</p>
-                    <a href="https://mileniumtvi.com/operativo-de-control-en-los-alrededores-del-recinto-ferial-el-arenal" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Reactivación del SOTE">
-                <div class="card-content">
-                    <h3>Gobierno anuncia reactivación del SOTE</h3>
-                    <p>El gobierno anuncia la reactivación del SOTE este 17 de julio y un plan de mantenimiento estructural.</p>
-                    <a href="https://mileniumtvi.com/gobierno-anuncia-reactivacion-del-sote-este-17-de-julio-y-un-plan-de-mantenimiento-estructural" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Condecoración a Daniel Noboa">
-                <div class="card-content">
-                    <h3>Jóvenes condecoran a Daniel Noboa</h3>
-                    <p>Jóvenes estudiantes condecoran al presidente Daniel Noboa por las más de 409.000 becas entregadas en su gestión.</p>
-                    <a href="https://mileniumtvi.com/jovenes-estudiantes-condecoran-al-presidente-daniel-noboa" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Retiro de Firmas RC5">
-                <div class="card-content">
-                    <h3>Retiro de Firmas RC5</h3>
-                    <p>Cuatro Asambleístas de RC5 han retirado su firma del proyecto de ley presentado por su ex compañero de bancada Santiago Díaz.</p>
-                    <a href="https://mileniumtvi.com/ex-companeros-de-la-bancada-la-revolucion-ciudadana-comenzaron-a-retirar-sus-firmas" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Relevo de Mando Policial">
-                <div class="card-content">
-                    <h3>Relevo de Mando Policial</h3>
-                    <p>El presidente Daniel Noboa oficializó el relevo del mando policial: Pablo Dávila es el nuevo Comandante General.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-oficializo-el-relevo-del-mando-policial-pablo-davila-es-el-nuevo-comandante-general" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Caso Santiago Díaz">
-                <div class="card-content">
-                    <h3>Caso Santiago Díaz</h3>
-                    <p>Santiago Díaz, acusado de violación a una menor, era el legislador alterno de Priscila Schettini.</p>
-                    <a href="https://mileniumtvi.com/santiago-diaz-era-el-legislador-alterno-de-priscila-schettini-y-se-principalizo-luego-de-que-a-schettini-se-le-suspendieran-sus-derechos-politicos-esta-acusado-de-violacion-a-una-menor" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Lucha contra la corrupción">
-                <div class="card-content">
-                    <h3>La lucha contra la corrupción continúa</h3>
-                    <p>El bloque de seguridad interviene cinco instituciones públicas en Durán.</p>
-                    <a href="https://mileniumtvi.com/la-lucha-contra-la-corrupcion-continua-el-bloque-de-seguridad-interviene-cinco-instituciones-publicas-en-duran" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Presidente-Noboa-reuniones-italianas.jpg" alt="Noticia Destacada">
-                <div class="card-content">
-                    <h3>Noticia Destacada</h3>
-                    <p>Presidente Noboa mantuvo reuniones bilaterales con las máximas autoridades de la política italiana.</p>
-                    <a href="https://mileniumtvi.com/presidente-noboa-mantuvo-reuniones-bilaterales-con-las-maximas-autoridades-de-la-politica-italiana" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://www.canva.com/design/DAGrNUMTC64/a-pMihPoo9L1C55W5vU0jg/watch?utm_content=DAGrNUMTC64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ea15cd559" alt="Editorial">
-                <div class="card-content">
-                    <h3>Editorial</h3>
-                    <p>Explora las opiniones y análisis de nuestros expertos sobre los temas más relevantes.</p>
-                    <a href="https://mileniumtvi.com/opinion" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <!-- Nuevas noticias agregadas -->
-            <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Centro Deportivo y Cultural en Bajo Alto">
                 <div class="card-content">
                     <h3>El presidente Noboa inauguró el Centro Deportivo y Cultural en Bajo Alto</h3>
-                    <p>El presidente Daniel Noboa inauguró un Centro Deportivo y Cultural en Bajo Alto, El Guabo, para promover actividades recreativas y culturales en la comunidad.</p>
+                    <p>El presidente Daniel Noboa inauguró un Centro Deportivo y Cultural en la comuna Bajo Alto, El Guabo, que ofrece espacios para actividades recreativas y culturales, fomentando la integración comunitaria y el desarrollo local.</p>
                     <a href="https://mileniumtvi.com/el-presidente-noboa-inauguro-el-centro-deportivo-y-cultural-en-la-comuna-bajo-alto-del-canton-el-guabo" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -586,7 +393,7 @@
                 <img src="https://via.placeholder.com/250x150" alt="Desarrollo agrícola en Azogues">
                 <div class="card-content">
                     <h3>El presidente Noboa impulsa el desarrollo agrícola en Azogues</h3>
-                    <p>Daniel Noboa entregó beneficios en Azogues para fortalecer el sector agrícola, apoyando a productores con recursos para mejorar la productividad.</p>
+                    <p>En Azogues, el presidente Daniel Noboa entregó recursos y beneficios a productores agrícolas, promoviendo la modernización del sector y el aumento de la productividad, con un enfoque en la sostenibilidad.</p>
                     <a href="https://mileniumtvi.com/el-presidente-noboa-impulsa-el-desarrollo-agricola-en-azogues-con-la-entrega-de-nuevos-beneficios" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -594,7 +401,7 @@
                 <img src="https://via.placeholder.com/250x150" alt="Nuevo respaldo energético para Ecuador">
                 <div class="card-content">
                     <h3>Nuevo respaldo energético para Ecuador</h3>
-                    <p>El gobierno impulsa iniciativas para fortalecer el suministro energético, garantizando estabilidad y sostenibilidad en el sector eléctrico nacional.</p>
+                    <p>El gobierno impulsa un plan estratégico para fortalecer el sector energético, asegurando un suministro eléctrico estable y sostenible mediante nuevas inversiones y proyectos de infraestructura energética.</p>
                     <a href="https://mileniumtvi.com/nuevo-respaldo-energetico-para-ecuador" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -602,7 +409,7 @@
                 <img src="https://via.placeholder.com/250x150" alt="Distribuidor de Tráfico Monay - ÍESS en Azuay">
                 <div class="card-content">
                     <h3>El distribuidor de tráfico Monay - ÍESS en Azuay</h3>
-                    <p>Daniel Noboa lideró la colocación de la primera piedra del distribuidor de tráfico Monay - ÍESS en Azuay, mejorando la movilidad regional.</p>
+                    <p>El presidente Daniel Noboa lideró la colocación de la primera piedra del distribuidor de tráfico Monay - ÍESS en Azuay, una obra que optimizará la movilidad y aliviará la congestión vehicular en la región.</p>
                     <a href="https://mileniumtvi.com/el-distribuidor-de-trafico-monay-iess-en-azuay" target="_blank">Leer más</a>
                 </div>
             </div>
@@ -610,7 +417,7 @@
                 <img src="https://via.placeholder.com/250x150" alt="Cooperación con EE.UU.">
                 <div class="card-content">
                     <h3>El gobierno de Noboa fortalece la cooperación con EE.UU.</h3>
-                    <p>El gobierno de Noboa refuerza la cooperación con EE.UU. en seguridad, comercio y desarrollo, promoviendo una alianza estratégica bilateral.</p>
+                    <p>El gobierno de Daniel Noboa consolida la alianza con EE.UU. mediante acuerdos en seguridad, comercio y desarrollo, promoviendo beneficios mutuos y fortaleciendo la cooperación bilateral.</p>
                     <a href="https://mileniumtvi.com/el-gobierno-de-noboa-fortalece-la-cooperacion-con-eeuu" target="_blank">Leer más</a>
                 </div>
             </div>

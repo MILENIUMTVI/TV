@@ -347,7 +347,7 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/562e8c28248e38a7b465e5ed53564c3c" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/b3716180466af9bbf2aa867df20eaa13" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero de Ecuador TV</h3>
                     <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
@@ -361,14 +361,14 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/941f7f312ff650256dfc57dea174e794" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c6996bb0fdf7cf66618348d67907cc78" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
                     <p>Noticiero DW 31 de julio 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c660bb40370c506d39eff881f3e72262" title="Noticiero RTVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/d60e16fb2d85eb3cef755e0296f651a2" title="Noticiero RTVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero RTVE</h3>
                     <p>Noticiero RTVE 31 de julio 2025.</p>
@@ -548,7 +548,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://img.youtube.com/vi/z1xQfEvFjA8/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
+                <img src="https://img.youtube.com/vi/3Ws3KFTv4pE/hqdefault.jpg" alt="Inauguración Central Termoeléctrica El Descanso II">
                 <div class="card-content">
                     <h3>Inauguración Central Termoeléctrica El Descanso II</h3>
                     <p>Este 30 de julio de 2025, el presidente de la República, Daniel Noboa Azin, inauguró la Central Termoeléctrica Terrestre El Descanso II, ubicada en el cantón Azogues, provincia del Cañar.</p>

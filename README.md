@@ -354,24 +354,24 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-setup='{"autoplay": false}'></iframe>
                 <div class="card-content">
                     <h3>Viaje al centro de la tele - Los Reyes del popurrí</h3>
                     <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c6996bb0fdf7cf66618348d67907cc78" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c92246b4b186fc745838ce0d162bf6d9" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-setup='{"autoplay": false}'></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
-                    <p>Noticiero DW 31 de julio 2025.</p>
+                    <p>SW Noticias 4 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/d60e16fb2d85eb3cef755e0296f651a2" title="Noticiero RTVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6d8edbaa8833d5ceed9d4d53402db27a" title="Telediario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-setup='{"autoplay": false}'></iframe>
                 <div class="card-content">
-                    <h3>Noticiero RTVE</h3>
-                    <p>Noticiero RTVE 31 de julio 2025.</p>
+                    <h3>Telediario</h3>
+                    <p>Noticiero RTVE 4 de agosto 2025.</p>
                 </div>
             </div>
         </div>

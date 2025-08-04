@@ -382,6 +382,22 @@
         <h2>Noticias</h2>
         <div class="grid">
             <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Atención a pacientes oncológicos">
+                <div class="card-content">
+                    <h3>El Gobierno Nacional garantiza la atención de pacientes oncológicos</h3>
+                    <p>El Gobierno Nacional duplicó los pagos a Solca para garantizar la atención a pacientes oncológicos, al transferir USD 26,2 millones en lo que va de este año.</p>
+                    <a href="https://mileniumtvi.com/el-gobierno-nacional-garantiza-la-atencion-de-pacientes-oncologicos-pago-a-solca-usd-26-millones-en-lo-que-va-del-anio" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Celebración de la lactancia materna">
+                <div class="card-content">
+                    <h3>Ecuador camino hoy por el mejor alimento del mundo</h3>
+                    <p>Más de 11 mil voces se unen en Ecuador para celebrar el poder de la lactancia materna.</p>
+                    <a href="https://mileniumtvi.com/ecuador-camino-hoy-por-el-mejor-alimento-del-mundo" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Centro Deportivo y Cultural en Bajo Alto">
                 <div class="card-content">
                     <h3>El presidente Noboa inauguró el Centro Deportivo y Cultural en Bajo Alto</h3>

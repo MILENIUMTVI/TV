@@ -354,21 +354,21 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-setup='{"autoplay": false}'></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b?autoplay=0" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Viaje al centro de la tele - Los Reyes del popurrí</h3>
                     <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c92246b4b186fc745838ce0d162bf6d9" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-setup='{"autoplay": false}'></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c92246b4b186fc745838ce0d162bf6d9?autoplay=0" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
                     <p>SW Noticias 4 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6d8edbaa8833d5ceed9d4d53402db27a" title="Telediario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-setup='{"autoplay": false}'></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6d8edbaa8833d5ceed9d4d53402db27a?autoplay=0" title="Telediario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
                     <p>Noticiero RTVE 4 de agosto 2025.</p>
@@ -381,6 +381,30 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Consulta popular de Noboa">
+                <div class="card-content">
+                    <h3>Consulta popular planteada por el presidente Noboa</h3>
+                    <p>La consulta popular planteada por el presidente Noboa tendría 7 preguntas y se realizaría el domingo 14 de diciembre.</p>
+                    <a href="https://mileniumtvi.com/la-consulta-popular-planteada-por-el-presidente-noboa-tendria-7-preguntas-y-seria-el-domingo-14-de-diciembre" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Ecuador y Royal Caribbean">
+                <div class="card-content">
+                    <h3>Ecuador y Royal Caribbean</h3>
+                    <p>Ecuador fortalece el turismo con un acuerdo estratégico con Royal Caribbean para promover cruceros en la costa ecuatoriana.</p>
+                    <a href="https://mileniumtvi.com/ecuador-y-royal-caribbean" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Minería responsable en Ecuador">
+                <div class="card-content">
+                    <h3>Ecuador fortalece la minería responsable</h3>
+                    <p>Ecuador impulsa la minería responsable con nuevas políticas que equilibran el desarrollo económico y la sostenibilidad ambiental.</p>
+                    <a href="https://mileniumtvi.com/ecuador-fortalece-la-mineria-responsable" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Atención a pacientes oncológicos">
                 <div class="card-content">

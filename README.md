@@ -28,7 +28,7 @@
             position: sticky;
             top: 0;
             z-index: 1000;
-            width: 100%; /* Fondo ocupa todo el ancho */
+            width: 100vw; /* Fondo ocupa el ancho completo de la pantalla */
         }
 
         .header-container {
@@ -393,7 +393,7 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/b3716180466af9bbf2aa867df20eaa13" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/21edc30065853fe936367b19712782ca" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero de Ecuador TV</h3>
                     <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
@@ -407,14 +407,14 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c92246b4b186fc745838ce0d162bf6d9" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/89ddfba75a7f02397801ccbe3d32d471" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
                     <p>SW Noticias 4 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6d8edbaa8833d5ceed9d4d53402db27a" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/bd8012295d9c5fa7d978f100ed3bbab9" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
                     <p>Noticiero RTVE 4 de agosto 2025.</p>

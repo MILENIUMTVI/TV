@@ -28,11 +28,11 @@
             position: sticky;
             top: 0;
             z-index: 1000;
-            overflow-x: hidden; /* Evita desbordamiento horizontal */
+            width: 100%; /* Fondo ocupa todo el ancho */
         }
 
         .header-container {
-            max-width: 1200px;
+            max-width: 1400px; /* Ampliado para más espacio */
             margin: 0 auto;
             display: flex;
             justify-content: space-between;
@@ -46,9 +46,12 @@
         nav ul {
             list-style: none;
             display: flex;
-            gap: 1.5rem;
-            align-items: center; /* Alinea verticalmente los elementos del menú */
-            flex-wrap: wrap; /* Permite que los elementos se ajusten en varias líneas si es necesario */
+            gap: 1rem; /* Reducido para evitar desbordamiento */
+            align-items: center;
+            flex-wrap: nowrap; /* Una sola fila */
+            overflow-x: auto; /* Desplazamiento horizontal en móviles */
+            white-space: nowrap;
+            padding: 0.5rem 0;
         }
 
         nav ul li a {
@@ -56,8 +59,8 @@
             text-decoration: none;
             font-weight: bold;
             transition: color 0.3s;
-            line-height: 1; /* Normaliza altura de línea */
-            white-space: nowrap; /* Evita división de texto */
+            font-size: 0.95rem; /* Tamaño ajustado */
+            padding: 0.5rem;
         }
 
         nav ul li a:hover {
@@ -77,7 +80,7 @@
         }
 
         .hero h1 {
-            font-size: 3rem;
+            font-size: 2.5rem; /* Reducido para mejor legibilidad en móviles */
             margin-bottom: 1rem;
         }
 
@@ -85,7 +88,7 @@
             background: #ffd700;
             border: none;
             padding: 0.75rem 1.5rem;
-            font-size: 1.2rem;
+            font-size: 1.1rem;
             cursor: pointer;
             border-radius: 5px;
             transition: background 0.3s;
@@ -97,25 +100,25 @@
 
         /* Sections */
         .section {
-            padding: 3rem 2rem;
-            max-width: 1200px;
+            padding: 2rem 1rem; /* Reducido para móviles */
+            max-width: 1400px;
             margin: 0 auto;
         }
 
         .section h2 {
-            font-size: 2rem;
-            margin-bottom: 1.5rem;
-            color: #ffd700; /* Amarillo dorado igual que footer a */
+            font-size: 1.8rem; /* Ajustado */
+            margin-bottom: 1.2rem;
+            color: #ffd700;
         }
 
         #live h2 {
-            color: #1a73e8; /* Azul original para Transmisiones en Vivo */
+            color: #1a73e8;
         }
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /* Ajustado para móviles */
+            gap: 1rem;
         }
 
         .card {
@@ -132,21 +135,21 @@
 
         .card img {
             width: 100%;
-            height: 150px;
+            height: 140px; /* Ajustado */
             object-fit: cover;
         }
 
         .card-content {
-            padding: 1rem;
+            padding: 0.8rem;
         }
 
         .card-content h3 {
-            font-size: 1.2rem;
-            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+            margin-bottom: 0.4rem;
         }
 
         .card-content p {
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             color: #666;
         }
 
@@ -168,14 +171,14 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 1.5rem;
+            gap: 1rem;
         }
 
         .entrevistas-container .video-wrapper {
             position: relative;
             width: 100%;
             max-width: 800px;
-            padding-bottom: 56.25%; /* Mantiene proporción 16:9 */
+            padding-bottom: 56.25%;
             height: 0;
             overflow: hidden;
         }
@@ -189,7 +192,7 @@
         }
 
         .entrevistas-container p {
-            font-size: 1rem;
+            font-size: 0.95rem;
             color: #333;
             max-width: 800px;
             text-align: center;
@@ -199,7 +202,7 @@
         footer {
             background: #0d47a1;
             color: white;
-            padding: 2rem;
+            padding: 1.5rem;
             text-align: center;
         }
 
@@ -215,32 +218,66 @@
         /* Responsive */
         @media (max-width: 768px) {
             .hero h1 {
-                font-size: 2rem;
+                font-size: 1.8rem;
             }
 
             nav ul {
-                flex-direction: column;
-                gap: 0.8rem; /* Reducido para evitar desbordamiento */
-                align-items: center; /* Mantener alineación en vista móvil */
+                gap: 0.5rem;
+                padding: 0.5rem;
             }
 
             nav ul li a {
-                font-size: 0.9rem; /* Tamaño de fuente reducido para vista móvil */
-                padding: 0.5rem; /* Añade algo de padding para mejor legibilidad */
+                font-size: 0.85rem;
+                padding: 0.4rem;
             }
 
             .live-stream .video-js {
-                height: 300px;
+                height: 200px; /* Ajustado para móviles */
             }
 
             .entrevistas-container .video-wrapper {
                 max-width: 100%;
-                padding-bottom: 56.25%; /* Mantener proporción 16:9 */
+                padding-bottom: 56.25%;
             }
 
             .entrevistas-container p {
-                font-size: 0.9rem;
-                padding: 0 1rem;
+                font-size: 0.85rem;
+                padding: 0 0.8rem;
+            }
+
+            .section {
+                padding: 1.5rem 0.8rem;
+            }
+
+            .section h2 {
+                font-size: 1.5rem;
+            }
+
+            .card img {
+                height: 120px;
+            }
+
+            .card-content h3 {
+                font-size: 1rem;
+            }
+
+            .card-content p {
+                font-size: 0.8rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 {
+                font-size: 1.5rem;
+            }
+
+            .hero button {
+                font-size: 1rem;
+                padding: 0.6rem 1.2rem;
+            }
+
+            .grid {
+                grid-template-columns: 1fr; /* Una columna en pantallas muy pequeñas */
             }
         }
     </style>
@@ -249,7 +286,6 @@
     <!-- Header -->
     <header>
         <div class="header-container">
-            <!-- Logo retirado según instrucción -->
             <nav>
                 <ul>
                     <li><a href="#live">Transmisiones en Vivo</a></li>
@@ -297,10 +333,20 @@
         <div class="entrevistas-container">
             <div class="video-wrapper">
                 <iframe
+                    src="https://www.youtube.com/embed/XgmQAEQdTFI"
+                    title="Análisis de la Situación de las Instituciones Financieras"
+                    frameborder="0"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <p>Un análisis de la Situación de las Instituciones financieras del país con el analista: Ing. Hernán Bravo</p>
+            <div class="video-wrapper">
+                <iframe
                     src="https://www.youtube.com/embed/t6AcnjKj4xo"
                     title="Suspensión de operaciones de la Cooperativa CREA Ltda."
                     frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen>
                 </iframe>
             </div>
@@ -310,7 +356,7 @@
                     src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I"
                     title="Entrevista al Presidente de Ecuador Daniel Noboa Azín"
                     frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen>
                 </iframe>
             </div>
@@ -320,11 +366,11 @@
                     src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi"
                     title="Entrevista Exclusiva"
                     frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen>
                 </iframe>
             </div>
-            <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta:  ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
+            <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta: ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
         </div>
     </section>
 
@@ -333,42 +379,42 @@
         <h2>TV Play</h2>
         <div class="grid">
             <div class="card">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk?si=jCPAkkJu3cfYakvQ" title="Programa Estelar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Programa Estelar</h3>
                     <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY?si=21Sz5Mp5ZkxKiV1W" title="Serie Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Serie Exclusiva</h3>
                     <p>Una serie que no te puedes perder, disponible en TV Play.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/b3716180466af9bbf2aa867df20eaa13" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/b3716180466af9bbf2aa867df20eaa13" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero de Ecuador TV</h3>
                     <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b?autoplay=0" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Viaje al centro de la tele - Los Reyes del popurrí</h3>
                     <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c92246b4b186fc745838ce0d162bf6d9?autoplay=0" title="Noticiero DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/c92246b4b186fc745838ce0d162bf6d9" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
                     <p>SW Noticias 4 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6d8edbaa8833d5ceed9d4d53402db27a?autoplay=0" title="Telediario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6d8edbaa8833d5ceed9d4d53402db27a" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
                     <p>Noticiero RTVE 4 de agosto 2025.</p>
@@ -381,6 +427,38 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Labor de cuidadores">
+                <div class="card-content">
+                    <h3>El presidente Noboa reconoció la labor de cuidadores</h3>
+                    <p>El presidente Noboa destacó la importancia de quienes dedican su vida a cuidar a los más vulnerables del país, entregando reconocimientos y apoyo.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-reconocio-la-labor-de-quienes-dedican-su-vida-a-cuidar-a-los-mas-vulnerables-del-pais" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Impulso a la agricultura">
+                <div class="card-content">
+                    <h3>Impulso a la agricultura y empleo rural</h3>
+                    <p>El Gobierno Nacional impulsa la agricultura con la entrega de beneficios productivos y fomento de plazas laborales para la juventud rural.</p>
+                    <a href="https://mileniumtvi.com/el-gobierno-nacional-impulsa-la-agricultura-con-la-entrega-de-beneficios-productivos-y-fomento-de-plazas-laborales-para-la-juventud-rural" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Crédito internacional">
+                <div class="card-content">
+                    <h3>Crédito de USD 250 millones para Ecuador</h3>
+                    <p>La confianza internacional en Ecuador se fortalece con la recepción de un crédito por USD 250 millones para proyectos de desarrollo.</p>
+                    <a href="https://mileniumtvi.com/la-confianza-internacional-en-ecuador-se-fortalece-el-pais-recibio-un-credito-por-usd-250-millones" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Fortalecimiento penitenciario">
+                <div class="card-content">
+                    <h3>Fortalecimiento del sistema penitenciario</h3>
+                    <p>El presidente Noboa fortalece el sistema penitenciario con la entrega de más de 4000 chalecos de protección balística y uniformes para guías.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-fortalece-el-sistema-penitenciario-entrego-mas-de-4000-chalecos-de-proteccion-balistica-y-uniformes-para-guias" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Consulta popular de Noboa">
                 <div class="card-content">
@@ -611,14 +689,14 @@
         <h2>Videos</h2>
         <div class="grid">
             <div class="card">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Video Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/MHjAUKw1VAE" title="Video Viral" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Video Viral</h3>
                     <p>Mira los videos más populares de la semana.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/WIc2_BaF0Mo?si=GMguO6tXNOpN9GYc" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/WIc2_BaF0Mo?si=GMguO6tXNOpN9GYc" title="Entrevista Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Entrevista Exclusiva</h3>
                     <p>Una charla con una celebridad que no te puedes perder.</p>
@@ -663,7 +741,7 @@
             </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
-                    <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Artículo Especial">
+                    <img src="https://via.placeholder.com/250x150" alt="Artículo Especial">
                 </a>
                 <div class="card-content">
                     <h3>Artículo Especial</h3>
@@ -673,7 +751,7 @@
             </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/ecuador-y-emiratos-arabes-unidos-fortalecen-lazos-de-cooperacion">
-                    <img src="https://tu-servidor.com/imagenes/articulo-ecuador-emiratos.jpg" alt="Blog del Mes">
+                    <img src="https://via.placeholder.com/250x150" alt="Blog del Mes">
                 </a>
                 <div class="card-content">
                     <h3>Blog del Mes</h3>

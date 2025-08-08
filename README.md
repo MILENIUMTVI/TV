@@ -379,42 +379,42 @@
         <h2>TV Play</h2>
         <div class="grid">
             <div class="card">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Programa Estelar</h3>
                     <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Serie Exclusiva</h3>
                     <p>Una serie que no te puedes perder, disponible en TV Play.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/21edc30065853fe936367b19712782ca" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/21edc30065853fe936367b19712782ca" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero de Ecuador TV</h3>
                     <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Viaje al centro de la tele - Los Reyes del popurrí</h3>
                     <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/89ddfba75a7f02397801ccbe3d32d471" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/89ddfba75a7f02397801ccbe3d32d471" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
                     <p>SW Noticias 4 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/bd8012295d9c5fa7d978f100ed3bbab9" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/bd8012295d9c5fa7d978f100ed3bbab9" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
                     <p>Noticiero RTVE 4 de agosto 2025.</p>
@@ -547,6 +547,16 @@
         <h2>Noticias Locales</h2>
         <div class="grid">
             <div class="card">
+                <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris">
+                    <img src="https://via.placeholder.com/250x150" alt="Cacao ecuatoriano en París">
+                </a>
+                <div class="card-content">
+                    <h3>El cacao ecuatoriano brilla en el Salón del Chocolate de París</h3>
+                    <p>El cacao ecuatoriano destacó en el Salón del Chocolate de París, recibiendo reconocimientos por su calidad y sostenibilidad, consolidando a Ecuador como líder en el mercado global.</p>
+                    <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cumbe aportó a la construcción participativa del lote mínimo">
                 <div class="card-content">
                     <h3>Cumbe aportó a la construcción participativa del lote mínimo</h3>
@@ -587,7 +597,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="3er Festival de la Fritada en Sidcay">
+                <img src="https://mileniumtvi.com/wp-content/uploads//screen_shot_2025-07-30_at_10.09.33_am.png" alt="3er Festival de la Fritada en Sidcay">
                 <div class="card-content">
                     <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
                     <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>

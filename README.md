@@ -379,7 +379,7 @@
                     width="100%"
                     height="315"
                     data-setup='{}'>
-                    <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef 55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
+                    <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                     </p>
@@ -491,8 +491,15 @@
     <!-- Noticias -->
     <section id="news" class="section">
         <h2>Noticias</h2>
-       囊
         <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Visitas oficiales de Noboa">
+                <div class="card-content">
+                    <h3>El presidente Noboa desarrollará visitas oficiales a Brasil, Uruguay, Argentina y Japón</h3>
+                    <p>El presidente Daniel Noboa realizará visitas oficiales en agosto a Brasil, Uruguay, Argentina y Japón para fortalecer la cooperación internacional.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-desarrollara-visitas-oficiales-a-brasil-uruguay-argentina-y-japon-este-agosto" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Labor de cuidadores">
                 <div class="card-content">
@@ -595,14 +602,6 @@
                     <h3>El distribuidor de tráfico Monay - ÍESS en Azuay</h3>
                     <p>El presidente Daniel Noboa lideró la colocación de la primera piedra del distribuidor de tráfico Monay - ÍESS en Azuay, una obra que optimizará la movilidad y aliviará la congestión vehicular en la región.</p>
                     <a href="https://mileniumtvi.com/el-distribuidor-de-trafico-monay-iess-en-azuay" target="_blank">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img src="https://via.placeholder.com/250x150" alt="Cooperación con EE.UU.">
-                <div class="card-content">
-                    <h3>El gobierno de Noboa fortalece la cooperación con EE.UU.</h3>
-                    <p>El gobierno de Daniel Noboa consolida la alianza con EE.UU. mediante acuerdos en seguridad, comercio y desarrollo, promoviendo beneficios mutuos y fortaleciendo la cooperación bilateral.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-de-noboa-fortalece-la-cooperacion-con-eeuu" target="_blank">Leer más</a>
                 </div>
             </div>
         </div>

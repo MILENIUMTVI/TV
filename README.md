@@ -312,19 +312,84 @@
     <!-- Transmisiones en Vivo -->
     <section id="live" class="section live-stream">
         <h2>Transmisiones en Vivo</h2>
-        <video
-            id="live-stream-player"
-            class="video-js vjs-default-skin"
-            controls
-            preload="auto"
-            width="800"
-            height="450"
-            data-setup='{}'>
-            <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
-            <p class="vjs-no-js">
-                Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-            </p>
-        </video>
+        <div class="grid">
+            <div class="card">
+                <video
+                    id="live-stream-player-1"
+                    class="video-js vjs-default-skin"
+                    controls
+                    preload="auto"
+                    width="100%"
+                    height="315"
+                    data-setup='{}'>
+                    <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
+                    <p class="vjs-no-js">
+                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                    </p>
+                </video>
+                <div class="card-content">
+                    <h3>MTVI Principal</h3>
+                    <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
+                </div>
+            </div>
+            <div class="card">
+                <video
+                    id="live-stream-player-2"
+                    class="video-js vjs-default-skin"
+                    controls
+                    preload="auto"
+                    width="100%"
+                    height="315"
+                    data-setup='{}'>
+                    <source src="https://571561.gvideo.io/cmaf/571561_2798196/master.m3u8" type="application/x-mpegURL">
+                    <p class="vjs-no-js">
+                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                    </p>
+                </video>
+                <div class="card-content">
+                    <h3>MTVI2 Musical</h3>
+                    <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
+                </div>
+            </div>
+            <div class="card">
+                <video
+                    id="live-stream-player-3"
+                    class="video-js vjs-default-skin"
+                    controls
+                    preload="auto"
+                    width="100%"
+                    height="315"
+                    data-setup='{}'>
+                    <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
+                    <p class="vjs-no-js">
+                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                    </p>
+                </video>
+                <div class="card-content">
+                    <h3>MTVI3 Películas</h3>
+                    <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
+                </div>
+            </div>
+            <div class="card">
+                <video
+                    id="live-stream-player-4"
+                    class="video-js vjs-default-skin"
+                    controls
+                    preload="auto"
+                    width="100%"
+                    height="315"
+                    data-setup='{}'>
+                    <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef 55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
+                    <p class="vjs-no-js">
+                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                    </p>
+                </video>
+                <div class="card-content">
+                    <h3>MTVI4 Series</h3>
+                    <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- Entrevistas -->
@@ -407,17 +472,17 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/89ddfba75a7f02397801ccbe3d32d471" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/30869a1c602997da0e4c9323417ffc82" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
-                    <p>SW Noticias 4 de agosto 2025.</p>
+                    <p>DW Noticias 12 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/bd8012295d9c5fa7d978f100ed3bbab9" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/e09307f894a04e7406c792ed7fdb3686" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
-                    <p>Noticiero RTVE 4 de agosto 2025.</p>
+                    <p>Noticias 12 de agosto 2025.</p>
                 </div>
             </div>
         </div>
@@ -426,6 +491,7 @@
     <!-- Noticias -->
     <section id="news" class="section">
         <h2>Noticias</h2>
+       囊
         <div class="grid">
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Labor de cuidadores">

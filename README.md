@@ -465,24 +465,38 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/416f5c45086bb542102c47b546c2a77b" title="Viaje al centro de la tele - Los Reyes del popurrí" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/5d804afd7690880df7c104d12e735c18" title="Reporte Especial" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
-                    <h3>Viaje al centro de la tele - Los Reyes del popurrí</h3>
-                    <p>Viaje al centro de la tele - Los Reyes del popurrí.</p>
+                    <h3>Reporte Especial</h3>
+                    <p>Un análisis profundo de los eventos más relevantes del momento, con entrevistas y reportajes exclusivos.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/30869a1c602997da0e4c9323417ffc82" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/ace1f14d19a324c1c673e3cd9498b081" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
-                    <p>DW Noticias 12 de agosto 2025.</p>
+                    <p>DW Noticias 15 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/e09307f894a04e7406c792ed7fdb3686" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/08fd90b3560b564a093c14838fb1169f" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
-                    <p>Noticias 12 de agosto 2025.</p>
+                    <p>Noticias 15 de agosto 2025.</p>
+                </div>
+            </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/555265dbcfc35802b9183246e425b1d2" title="Especial: Cultura Ecuatoriana" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Especial: Cultura Ecuatoriana</h3>
+                    <p>Un recorrido por las tradiciones, gastronomía y arte que definen la riqueza cultural de Ecuador.</p>
+                </div>
+            </div>
+            <div class="card">
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/6f2793f43bdeadfa7c6923474ca4ec61" title="Especial: Innovación en Ecuador" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <div class="card-content">
+                    <h3>Especial: Innovación en Ecuador</h3>
+                    <p>Descubre los avances tecnológicos y proyectos innovadores que están transformando el futuro de Ecuador.</p>
                 </div>
             </div>
         </div>
@@ -492,6 +506,22 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Obras viales en la carretera E487">
+                <div class="card-content">
+                    <h3>El presidente Noboa dio inicio a obras viales en la carretera E487</h3>
+                    <p>El presidente Daniel Noboa dio inicio a las obras viales en la carretera E487, un proyecto clave para mejorar la conectividad y el desarrollo económico en las regiones afectadas.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-noboa-dio-inicio-a-obras-viales-en-la-carretera-e487" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Proyectos agrícolas, comercio y turismo comunitario">
+                <div class="card-content">
+                    <h3>El gobierno de Daniel Noboa impulsa el desarrollo de proyectos agrícolas, de comercio y turismo comunitario</h3>
+                    <p>El gobierno de Daniel Noboa promueve iniciativas para fortalecer la agricultura, el comercio y el turismo comunitario, con proyectos que buscan generar empleo y desarrollo sostenible en comunidades locales.</p>
+                    <a href="https://mileniumtvi.com/el-gobierno-de-daniel-noboa-impulsa-el-desarrollo-de-proyectos-agricolas-de-comercio-y-turismo-comunitario-" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Visitas oficiales de Noboa">
                 <div class="card-content">
@@ -611,6 +641,16 @@
     <section id="locales" class="section">
         <h2>Noticias Locales</h2>
         <div class="grid">
+            <div class="card">
+                <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica">
+                    <img src="https://via.placeholder.com/250x150" alt="El Alcalde de Latinoamérica">
+                </a>
+                <div class="card-content">
+                    <h3>El Alcalde de Latinoamérica</h3>
+                    <p>Un reconocimiento al liderazgo regional en la gestión municipal, destacando iniciativas que transforman comunidades en América Latina.</p>
+                    <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris">
                     <img src="https://via.placeholder.com/250x150" alt="Cacao ecuatoriano en París">

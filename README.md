@@ -312,83 +312,71 @@
     <!-- Transmisiones en Vivo -->
     <section id="live" class="section live-stream">
         <h2>Transmisiones en Vivo</h2>
-        <div class="grid">
-            <div class="card">
+        <div class="entrevistas-container">
+            <div class="video-wrapper">
                 <video
                     id="live-stream-player-1"
                     class="video-js vjs-default-skin"
                     controls
                     preload="auto"
                     width="100%"
-                    height="315"
+                    height="100%"
                     data-setup='{}'>
                     <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                     </p>
                 </video>
-                <div class="card-content">
-                    <h3>MTVI Principal</h3>
-                    <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
-                </div>
             </div>
-            <div class="card">
+            <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
+            <div class="video-wrapper">
                 <video
                     id="live-stream-player-2"
                     class="video-js vjs-default-skin"
                     controls
                     preload="auto"
                     width="100%"
-                    height="315"
+                    height="100%"
                     data-setup='{}'>
                     <source src="https://571561.gvideo.io/cmaf/571561_2798196/master.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                     </p>
                 </video>
-                <div class="card-content">
-                    <h3>MTVI2 Musical</h3>
-                    <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
-                </div>
             </div>
-            <div class="card">
+            <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
+            <div class="video-wrapper">
                 <video
                     id="live-stream-player-3"
                     class="video-js vjs-default-skin"
                     controls
                     preload="auto"
                     width="100%"
-                    height="315"
+                    height="100%"
                     data-setup='{}'>
                     <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                     </p>
                 </video>
-                <div class="card-content">
-                    <h3>MTVI3 Películas</h3>
-                    <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
-                </div>
             </div>
-            <div class="card">
+            <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
+            <div class="video-wrapper">
                 <video
                     id="live-stream-player-4"
                     class="video-js vjs-default-skin"
                     controls
                     preload="auto"
                     width="100%"
-                    height="315"
+                    height="100%"
                     data-setup='{}'>
                     <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                     </p>
                 </video>
-                <div class="card-content">
-                    <h3>MTVI4 Series</h3>
-                    <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
-                </div>
             </div>
+            <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
         </div>
     </section>
 
@@ -506,6 +494,38 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Mi Tienda del Nuevo Ecuador">
+                <div class="card-content">
+                    <h3>Mi Tienda del Nuevo Ecuador</h3>
+                    <p>El programa "Mi Tienda del Nuevo Ecuador" impulsa el emprendimiento y el comercio local, apoyando a pequeños negocios con recursos y capacitación para su crecimiento.</p>
+                    <a href="https://mileniumtvi.com/mi-tienda-del-nuevo-ecuador" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="600 mujeres recibirán becas educativas">
+                <div class="card-content">
+                    <h3>600 Mujeres Recibirán Becas Educativas</h3>
+                    <p>El gobierno ecuatoriano otorgará becas educativas a 600 mujeres, promoviendo la igualdad de género y el acceso a la educación para fortalecer su desarrollo profesional.</p>
+                    <a href="https://mileniumtvi.com/600-mujeres-recibiran-becas-educativas" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Cooperación en seguridad entre Ecuador y Uruguay">
+                <div class="card-content">
+                    <h3>En Montevideo, los Presidentes de Ecuador y Uruguay Fortalecen Cooperación en Materia de Seguridad</h3>
+                    <p>En Montevideo, los presidentes de Ecuador y Uruguay firman acuerdos para fortalecer la cooperación en seguridad, enfocándose en la lucha contra el crimen organizado y el narcotráfico.</p>
+                    <a href="https://mileniumtvi.com/en-montevideo-los-presidentes-de-ecuador-y-uruguay-fortalecen-cooperacion-en-materia-de-seguridad-" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Agenda oficial de Daniel Noboa en Argentina">
+                <div class="card-content">
+                    <h3>El Presidente Daniel Noboa Inició su Agenda Oficial en Argentina con Encuentros con Empresarios</h3>
+                    <p>El presidente Daniel Noboa comenzó su visita oficial en Argentina con reuniones clave con empresarios, buscando atraer inversiones y fortalecer lazos comerciales.</p>
+                    <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-inicio-su-agenda-oficial-en-argentina-con-encuentros-con-empresarios" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Obras viales en la carretera E487">
                 <div class="card-content">

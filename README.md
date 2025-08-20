@@ -654,6 +654,14 @@
                     <a href="https://mileniumtvi.com/el-distribuidor-de-trafico-monay-iess-en-azuay" target="_blank">Leer más</a>
                 </div>
             </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Becas de Inteligencia Artificial">
+                <div class="card-content">
+                    <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
+                    <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
+                    <a href="https://mileniumtvi.com/ecuador-lanza-10-mil-becas-de-inteligencia-artificial-gracias-a-la-cooperacion-con-emiratos-arabes-unidos" target="_blank">Leer más</a>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -783,6 +791,16 @@
                     <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
                     <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
                     <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa">
+                    <img src="https://via.placeholder.com/250x150" alt="Guangarcucho, obra de ETAPA">
+                </a>
+                <div class="card-content">
+                    <h3>Guangarcucho, la obra más grande de ETAPA</h3>
+                    <p>Guangarcucho se consolida como la obra más grande y de mayor inversión tecnológica en la historia de ETAPA, transformando la infraestructura de servicios.</p>
+                    <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" target="_blank">Leer más</a>
                 </div>
             </div>
         </div>

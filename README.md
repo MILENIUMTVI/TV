@@ -460,17 +460,17 @@
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/ace1f14d19a324c1c673e3cd9498b081" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/0e4a18b7c0265558e0c95f489d83dd99" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Noticiero DW</h3>
-                    <p>DW Noticias 15 de agosto 2025.</p>
+                    <p>DW Noticias 20 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
-                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/08fd90b3560b564a093c14838fb1169f" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/b65815507e7fe88dab65fcb50004bb6b" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
                 <div class="card-content">
                     <h3>Telediario</h3>
-                    <p>Noticias 15 de agosto 2025.</p>
+                    <p>Noticias 20 de agosto 2025.</p>
                 </div>
             </div>
             <div class="card">
@@ -494,6 +494,30 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Puntos Digitales en Galápagos">
+                <div class="card-content">
+                    <h3>Gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos</h3>
+                    <p>El gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos, mejorando el acceso a internet y la conectividad en las islas.</p>
+                    <a href="https://mileniumtvi.com/gobierno-de-daniel-noboa-inaugura-tres-puntos-digitales-gratuitos-en-galapagos-" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Starlink en Galápagos">
+                <div class="card-content">
+                    <h3>CNT lleva Starlink a Galápagos</h3>
+                    <p>La CNT implementa el Community Gateway de Starlink en Galápagos, ofreciendo velocidades similares a la fibra óptica desde el espacio.</p>
+                    <a href="https://mileniumtvi.com/la-cnt-lleva-el-community-gateway-de-starlink-para-ofrecer-velocidades-similares-a-las-de-fibra-optica-desde-el-espacio-a-las-islas-galapagos-" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Becas de Inteligencia Artificial">
+                <div class="card-content">
+                    <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
+                    <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
+                    <a href="https://mileniumtvi.com/ecuador-lanza-10-mil-becas-de-inteligencia-artificial-gracias-a-la-cooperacion-con-emiratos-arabes-unidos" target="_blank">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Mi Tienda del Nuevo Ecuador">
                 <div class="card-content">
@@ -654,14 +678,6 @@
                     <a href="https://mileniumtvi.com/el-distribuidor-de-trafico-monay-iess-en-azuay" target="_blank">Leer más</a>
                 </div>
             </div>
-            <div class="card">
-                <img src="https://via.placeholder.com/250x150" alt="Becas de Inteligencia Artificial">
-                <div class="card-content">
-                    <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
-                    <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
-                    <a href="https://mileniumtvi.com/ecuador-lanza-10-mil-becas-de-inteligencia-artificial-gracias-a-la-cooperacion-con-emiratos-arabes-unidos" target="_blank">Leer más</a>
-                </div>
-            </div>
         </div>
     </section>
 
@@ -738,7 +754,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cert certified Reina de Cuenca">
                 <div class="card-content">
                     <h3>Certamen Reina de Cuenca</h3>
                     <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>

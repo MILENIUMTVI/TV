@@ -495,6 +495,22 @@
         <h2>Noticias</h2>
         <div class="grid">
             <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Cancelan partido de Copa Sudamericana">
+                <div class="card-content">
+                    <h3>Cancelan partido de Copa Sudamericana por graves incidentes</h3>
+                    <p>Un partido de la Copa Sudamericana fue cancelado debido a graves incidentes, priorizando la seguridad de los asistentes.</p>
+                    <a href="https://mileniumtvi.com/cancelan-partido-de-copa-sudamericana-por-graves-incidentes" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://via.placeholder.com/250x150" alt="Compra masiva y transparente de medicamentos">
+                <div class="card-content">
+                    <h3>Compra masiva y transparente de medicamentos</h3>
+                    <p>El Comité Nacional de Salud Pública anunció la compra masiva y transparente de medicamentos en su primera sesión ordinaria, garantizando acceso a la salud.</p>
+                    <a href="https://mileniumtvi.com/comite-nacional-de-salud-publica-anuncio-la-compra-masiva-y-transparente-de-medicamentos-en-su-primera-sesion-ordinaria" target="_blank">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <img src="https://via.placeholder.com/250x150" alt="Puntos Digitales en Galápagos">
                 <div class="card-content">
                     <h3>Gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos</h3>
@@ -754,7 +770,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cert certified Reina de Cuenca">
+                <img src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Certamen Reina de Cuenca">
                 <div class="card-content">
                     <h3>Certamen Reina de Cuenca</h3>
                     <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>

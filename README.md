@@ -445,10 +445,10 @@
             </div>
         </div>
         <div class="card">
-            <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/21edc30065853fe936367b19712782ca" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/f75e237bc0207badc2fecad460e30cb9" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
             <div class="card-content">
                 <h3>Noticiero de Ecuador TV</h3>
-                <p>Noticiero de Ecuador TV 31 de julio de 2025.</p>
+                <p>Noticiero de Ecuador TV 27 de agosto de 2025.</p>
             </div>
         </div>
         <div class="card">
@@ -459,17 +459,17 @@
             </div>
         </div>
         <div class="card">
-            <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/0e4a18b7c0265558e0c95f489d83dd99" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/1affeb5405341f96743005dd2d1b3174" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
             <div class="card-content">
                 <h3>Noticiero DW</h3>
-                <p>DW Noticias 20 de agosto 2025.</p>
+                <p>DW Noticias 27 de agosto 2025.</p>
             </div>
         </div>
         <div class="card">
-            <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/b65815507e7fe88dab65fcb50004bb6b" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://app.viloud.tv/watch/video/99f1f1826ad6b2598be8da4a80202b2f" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" autoplay="false" allowfullscreen></iframe>
             <div class="card-content">
                 <h3>Telediario</h3>
-                <p>Noticias 20 de agosto 2025.</p>
+                <p>Noticias 27 de agosto 2025.</p>
             </div>
         </div>
         <div class="card">
@@ -493,6 +493,22 @@
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
+        <div class="card">
+            <img src="https://via.placeholder.com/250x150" alt="En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana">
+            <div class="card-content">
+                <h3>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana</h3>
+                <p>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana.</p>
+                <a href="https://mileniumtvi.com/en-tokio-el-presidente-noboa-destaco-el-esfuerzo-y-la-integracion-de-la-comunidad-ecuatoriana" target="_blank">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://via.placeholder.com/250x150" alt="El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión">
+            <div class="card-content">
+                <h3>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión</h3>
+                <p>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión.</p>
+                <a href="https://mileniumtvi.com/el-presidente-noboa-lidero-el-seminario-de-promocion-de-ecuador-en-japon-se-fortalecen-lazos-comerciales-y-de-inversion" target="_blank">Leer más</a>
+            </div>
+        </div>
         <div class="card">
             <img src="https://via.placeholder.com/250x150" alt="Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral">
             <div class="card-content">
@@ -1018,4 +1034,3 @@
     });
 </script></body>
 </html>
-

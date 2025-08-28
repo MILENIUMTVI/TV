@@ -21,273 +21,305 @@
             font-family: 'Arial', sans-serif;
         }
 
-    body {
-        background-color: #4682B4;
-        color: #333;
-    }
+        body {
+            background-color: #4682B4;
+            color: #333;
+        }
 
-    /* Header */
-    header {
-        background: linear-gradient(90deg, #1a73e8, #0d47a1);
-        color: white;
-        padding: 1rem 2rem;
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        width: 100vw; /* Fondo ocupa el ancho completo de la pantalla */
-    }
+        /* Header */
+        header {
+            background: linear-gradient(90deg, #1a73e8, #0d47a1);
+            color: white;
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            width: 100vw;
+        }
 
-    .header-container {
-        max-width: 1400px; /* Ampliado para más espacio */
-        margin: 0 auto;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
+        .header-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-    .logo img {
-        height: 50px;
-    }
+        .logo img {
+            height: 50px;
+        }
 
-    nav ul {
-        list-style: none;
-        display: flex;
-        gap: 1rem; /* Reducido para evitar desbordamiento */
-        align-items: center;
-        flex-wrap: nowrap; /* Una sola fila */
-        overflow-x: auto; /* Desplazamiento horizontal en móviles */
-        white-space: nowrap;
-        padding: 0.5rem 0;
-    }
-
-    nav ul li a {
-        color: white;
-        text-decoration: none;
-        font-weight: bold;
-        transition: color 0.3s;
-        font-size: 0.95rem; /* Tamaño ajustado */
-        padding: 0.5rem;
-    }
-
-    nav ul li a:hover, nav ul li a:focus {
-        color: #ffd700;
-        outline: 2px solid #ffd700;
-    }
-
-    /* Hero Section */
-    .hero {
-        background: url('https://mileniumtvi.com/banner-hero.jpg') no-repeat center/cover; /* Reemplaza con imagen real */
-        height: 500px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        color: white;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-    }
-
-    .hero h1 {
-        font-size: 2.5rem; /* Reducido para mejor legibilidad en móviles */
-        margin-bottom: 1rem;
-    }
-
-    .hero button {
-        background: #ffd700;
-        border: none;
-        padding: 0.75rem 1.5rem;
-        font-size: 1.1rem;
-        cursor: pointer;
-        border-radius: 5px;
-        transition: background 0.3s;
-    }
-
-    .hero button:hover {
-        background: #e6c200;
-    }
-
-    /* Sections */
-    .section {
-        padding: 2rem 1rem; /* Reducido para móviles */
-        max-width: 1400px;
-        margin: 0 auto;
-    }
-
-    .section h2 {
-        font-size: 1.8rem; /* Ajustado */
-        margin-bottom: 1.2rem;
-        color: #ffd700;
-    }
-
-    #live h2 {
-        color: #1a73e8;
-    }
-
-    .grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /* Ajustado para móviles */
-        gap: 1rem;
-    }
-
-    .card {
-        background: white;
-        border-radius: 10px;
-        overflow: hidden;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        transition: transform 0.3s;
-    }
-
-    .card:hover {
-        transform: translateY(-5px);
-    }
-
-    .card img {
-        width: 100%;
-        height: 140px; /* Ajustado */
-        object-fit: cover;
-    }
-
-    .card-content {
-        padding: 0.8rem;
-    }
-
-    .card-content h3 {
-        font-size: 1.1rem;
-        margin-bottom: 0.4rem;
-    }
-
-    .card-content p {
-        font-size: 0.85rem;
-        color: #666;
-    }
-
-    /* Live Stream Section */
-    .live-stream {
-        background: #f9f9f9;
-        text-align: center;
-    }
-
-    .live-stream .video-js {
-        width: 100%;
-        max-width: 800px;
-        height: 450px;
-        margin: 1rem auto;
-    }
-
-    /* Entrevistas Section */
-    .entrevistas-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 1rem;
-    }
-
-    .entrevistas-container .video-wrapper {
-        position: relative;
-        width: 100%;
-        max-width: 800px;
-        padding-bottom: 56.25%;
-        height: 0;
-        overflow: hidden;
-    }
-
-    .entrevistas-container .video-wrapper iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-
-    .entrevistas-container p {
-        font-size: 0.95rem;
-        color: #333;
-        max-width: 800px;
-        text-align: center;
-    }
-
-    /* Footer */
-    footer {
-        background: #0d47a1;
-        color: white;
-        padding: 1.5rem;
-        text-align: center;
-    }
-
-    footer a {
-        color: #ffd700;
-        text-decoration: none;
-    }
-
-    footer a:hover {
-        text-decoration: underline;
-    }
-
-    /* Responsive */
-    @media (max-width: 768px) {
-        .hero h1 {
-            font-size: 1.8rem;
+        nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
         }
 
         nav ul {
-            gap: 0.5rem;
-            padding: 0.5rem;
+            list-style: none;
+            display: flex;
+            gap: 0.8rem; /* Reducido para mejor balance */
+            align-items: center;
+            flex-wrap: nowrap;
+            justify-content: center; /* Centra los ítems del menú */
         }
 
         nav ul li a {
-            font-size: 0.85rem;
-            padding: 0.4rem;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s;
+            font-size: 0.95rem;
+            padding: 0.5rem;
         }
 
-        .live-stream .video-js {
-            height: 200px; /* Ajustado para móviles */
+        nav ul li a:hover, nav ul li a:focus {
+            color: #ffd700;
+            outline: 2px solid #ffd700;
         }
 
-        .entrevistas-container .video-wrapper {
-            max-width: 100%;
-            padding-bottom: 56.25%;
-        }
-
-        .entrevistas-container p {
-            font-size: 0.85rem;
-            padding: 0 0.8rem;
-        }
-
-        .section {
-            padding: 1.5rem 0.8rem;
-        }
-
-        .section h2 {
+        .menu-toggle {
+            display: none;
             font-size: 1.5rem;
+            cursor: pointer;
+            color: white;
         }
 
-        .card img {
-            height: 120px;
+        /* Hero Section */
+        .hero {
+            background: url('https://mileniumtvi.com/banner-hero.jpg') no-repeat center/cover; /* Reemplaza con imagen real */
+            height: 500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
         }
 
-        .card-content h3 {
-            font-size: 1rem;
-        }
-
-        .card-content p {
-            font-size: 0.8rem;
-        }
-    }
-
-    @media (max-width: 480px) {
         .hero h1 {
-            font-size: 1.5rem;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
         }
 
         .hero button {
-            font-size: 1rem;
-            padding: 0.6rem 1.2rem;
+            background: #ffd700;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-size: 1.1rem;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .hero button:hover {
+            background: #e6c200;
+        }
+
+        /* Sections */
+        .section {
+            padding: 2rem 1rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .section h2 {
+            font-size: 1.8rem;
+            margin-bottom: 1.2rem;
+            color: #ffd700;
+        }
+
+        #live h2 {
+            color: #1a73e8;
         }
 
         .grid {
-            grid-template-columns: 1fr; /* Una columna en pantallas muy pequeñas */
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1rem;
         }
-    }
-</style></head>
+
+        .card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card img {
+            width: 100%;
+            height: 140px;
+            object-fit: cover;
+        }
+
+        .card-content {
+            padding: 0.8rem;
+        }
+
+        .card-content h3 {
+            font-size: 1.1rem;
+            margin-bottom: 0.4rem;
+        }
+
+        .card-content p {
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        /* Live Stream Section */
+        .live-stream {
+            background: #f9f9f9;
+            text-align: center;
+        }
+
+        .live-stream .video-js {
+            width: 100%;
+            max-width: 800px;
+            height: 450px;
+            margin: 1rem auto;
+        }
+
+        /* Entrevistas Section */
+        .entrevistas-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .entrevistas-container .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .entrevistas-container .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .entrevistas-container p {
+            font-size: 0.95rem;
+            color: #333;
+            max-width: 800px;
+            text-align: center;
+        }
+
+        /* Footer */
+        footer {
+            background: #0d47a1;
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+        }
+
+        footer a {
+            color: #ffd700;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 1.8rem;
+            }
+
+            .menu-toggle {
+                display: block;
+            }
+
+            nav ul {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                background: #0d47a1;
+                padding: 1rem;
+                text-align: center;
+            }
+
+            nav ul.active {
+                display: flex;
+            }
+
+            nav ul li {
+                margin: 0.5rem 0;
+            }
+
+            nav ul li a {
+                font-size: 1rem;
+                padding: 0.5rem;
+            }
+
+            .live-stream .video-js {
+                height: 200px;
+            }
+
+            .entrevistas-container .video-wrapper {
+                max-width: 100%;
+                padding-bottom: 56.25%;
+            }
+
+            .entrevistas-container p {
+                font-size: 0.85rem;
+                padding: 0 0.8rem;
+            }
+
+            .section {
+                padding: 1.5rem 0.8rem;
+            }
+
+            .section h2 {
+                font-size: 1.5rem;
+            }
+
+            .card img {
+                height: 120px;
+            }
+
+            .card-content h3 {
+                font-size: 1rem;
+            }
+
+            .card-content p {
+                font-size: 0.8rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 {
+                font-size: 1.5rem;
+            }
+
+            .hero button {
+                font-size: 1rem;
+                padding: 0.6rem 1.2rem;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
 <body>
     <!-- Header -->
     <header>
@@ -295,6 +327,7 @@
             <div class="logo">
                 <img src="https://mileniumtvi.com/logo.png" alt="Logo de Milenium Tvi"> <!-- Reemplaza con src real -->
             </div>
+            <i class="fas fa-bars menu-toggle" aria-label="Abrir menú"></i>
             <nav>
                 <ul>
                     <li><a href="#live" aria-label="Ir a Transmisiones en Vivo">Transmisiones en Vivo</a></li>
@@ -1010,7 +1043,7 @@
 <section id="defensa" class="section">
     <h2>Defensa del Televidente</h2>
     <p>En nuestro canal, tu voz importa. Contáctanos para cualquier queja, sugerencia o consulta.</p>
-    <form action="/enviar-contacto" method="post"> <!-- Reemplaza con endpoint real -->
+    <form action="/enviar-contacto" method="post">
         <label for="nombre">Nombre:</label>
         <input type="text" id="nombre" placeholder="Nombre" required>
         <label for="email">Correo Electrónico:</label>
@@ -1048,5 +1081,11 @@
 
     // Año dinámico en footer
     document.getElementById('current-year').textContent = new Date().getFullYear();
-</script></body>
+
+    // Toggle menú hamburguesa
+    document.querySelector('.menu-toggle').addEventListener('click', () => {
+        document.querySelector('nav ul').classList.toggle('active');
+    });
+</script>
+</body>
 </html>

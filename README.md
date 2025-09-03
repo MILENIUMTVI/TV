@@ -537,6 +537,30 @@
     <h2>Noticias</h2>
     <div class="grid">
         <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos">
+            <div class="card-content">
+                <h3>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos</h3>
+                <p>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos.</p>
+                <a href="https://mileniumtvi.com/ecuador-y-japon-refuerzan-la-cooperacion-en-energia-comercio-seguridad-y-gestion-de-riesgos-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La digitalización llega a Zapotal">
+            <div class="card-content">
+                <h3>La digitalización llega a Zapotal</h3>
+                <p>La digitalización llega a Zapotal.</p>
+                <a href="https://mileniumtvi.com/la-digitalizacion-llega-a-zapotal" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad">
+            <div class="card-content">
+                <h3>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad</h3>
+                <p>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad.</p>
+                <a href="https://mileniumtvi.com/el-alcalde-de-cuenca-abordo-temas-de-trascendental-importancia-para-la-ciudad" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
             <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa destacando esfuerzo de comunidad ecuatoriana en Tokio">
             <div class="card-content">
                 <h3>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana</h3>

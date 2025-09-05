@@ -34,7 +34,6 @@
             position: sticky;
             top: 0;
             z-index: 1000;
-            width: 100vw;
         }
 
         .header-container {
@@ -61,7 +60,7 @@
             display: flex;
             gap: 0.8rem; /* Reducido para mejor balance */
             align-items: center;
-            flex-wrap: nowrap;
+            flex-wrap: wrap;
             justify-content: center; /* Centra los ítems del menú */
         }
 
@@ -537,6 +536,22 @@
     <h2>Noticias</h2>
     <div class="grid">
         <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Más niños, niñas y madres gestantes recibirán el bono de los 1000 días">
+            <div class="card-content">
+                <h3>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días</h3>
+                <p>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días.</p>
+                <a href="https://mileniumtvi.com/mas-ninos-ninas-y-madres-gestantes-recibiran-el-bono-de-los-1000-dias" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet">
+            <div class="card-content">
+                <h3>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet</h3>
+                <p>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet.</p>
+                <a href="https://mileniumtvi.com/marco-rubio-secretario-de-estado-de-estados-unidos-visito-al-presidente-daniel-noboa-en-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
             <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos">
             <div class="card-content">
                 <h3>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos</h3>
@@ -948,6 +963,14 @@
 <section id="imagenes" class="section">
     <h2>Noticia en Imágenes</h2>
     <div class="grid">
+        <div class="card">
+            <img loading="lazy" src="https://img.youtube.com/vi/2wOBH_5rgJQ/hqdefault.jpg" alt="Visita de Marco Rubio al Presidente Daniel Noboa en Carondelet">
+            <div class="card-content">
+                <h3>Visita de Marco Rubio al Presidente Daniel Noboa en Carondelet</h3>
+                <p>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet.</p>
+                <a href="https://youtu.be/2wOBH_5rgJQ?si=olw4C5W15LH7DtRL" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
         <div class="card">
             <img loading="lazy" src="https://img.youtube.com/vi/3Ws3KFTv4pE/hqdefault.jpg" alt="Evento de colocación de primera piedra para distribuidor de tráfico Monay - ÍESS">
             <div class="card-content">

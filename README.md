@@ -536,6 +536,54 @@
     <h2>Noticias</h2>
     <div class="grid">
         <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República">
+            <div class="card-content">
+                <h3>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República</h3>
+                <p>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República.</p>
+                <a href="https://mileniumtvi.com/la-corte-constitucional-del-ecuador-emitio-tres-dictamenes-relacionados-con-propuestas-de-enmienda-constitucional-reforma-parcial-y-consulta-popular-presentadas-por-el-presidente-de-la-republica" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal">
+            <div class="card-content">
+                <h3>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal</h3>
+                <p>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal.</p>
+                <a href="https://mileniumtvi.com/en-entrevista-con-univision-el-presidente-noboa-destaco-la-cooperacion-con-eeuu-en-seguridad-y-lucha-contra-la-mineria-ilegal" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca">
+            <div class="card-content">
+                <h3>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca</h3>
+                <p>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca.</p>
+                <a href="https://mileniumtvi.com/pleno-de-concejo-cantonal-solicita-que-comision-sobre-proyecto-minero-loma-larga-convocada-por-la-asambleista-camila-leon-se-realice-en-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones">
+            <div class="card-content">
+                <h3>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones</h3>
+                <p>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones.</p>
+                <a href="https://mileniumtvi.com/la-casa-blanca-notifico-oficialmente-al-congreso-sobre-el-ataque-militar-del-2-de-septiembre-en-el-caribe-y-advirtio-que-podrian-venir-nuevas-acciones" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico">
+            <div class="card-content">
+                <h3>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico</h3>
+                <p>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico.</p>
+                <a href="https://mileniumtvi.com/si-nos-ponen-en-una-situacion-peligrosa-seran-derribados-advirtio-el-lider-republicano-horas-despues-de-anunciar-el-envio-de-10-cazas-f-35-a-puerto-rico" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas">
+            <div class="card-content">
+                <h3>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas</h3>
+                <p>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas.</p>
+                <a href="https://mileniumtvi.com/la-guardia-costera-incauta-40000-libras-de-cocaina-en-el-pacifico-y-publica-imagenes-de-las-operaciones-y-del-buque-en-llamas" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
             <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Más niños, niñas y madres gestantes recibirán el bono de los 1000 días">
             <div class="card-content">
                 <h3>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días</h3>

@@ -20,12 +20,10 @@
             box-sizing: border-box;
             font-family: 'Arial', sans-serif;
         }
-
         body {
             background-color: #4682B4;
             color: #333;
         }
-
         /* Header */
         header {
             background: linear-gradient(90deg, #1a73e8, #0d47a1);
@@ -35,7 +33,6 @@
             top: 0;
             z-index: 1000;
         }
-
         .header-container {
             max-width: 1400px;
             margin: 0 auto;
@@ -43,18 +40,15 @@
             justify-content: space-between;
             align-items: center;
         }
-
         .logo img {
             height: 50px;
         }
-
         nav {
             display: flex;
             justify-content: center;
             align-items: center;
             width: 100%;
         }
-
         nav ul {
             list-style: none;
             display: flex;
@@ -63,7 +57,6 @@
             flex-wrap: wrap;
             justify-content: center; /* Centra los ítems del menú */
         }
-
         nav ul li a {
             color: white;
             text-decoration: none;
@@ -72,19 +65,17 @@
             font-size: 0.95rem;
             padding: 0.5rem;
         }
-
-        nav ul li a:hover, nav ul li a:focus {
+        nav ul li a:hover,
+        nav ul li a:focus {
             color: #ffd700;
             outline: 2px solid #ffd700;
         }
-
         .menu-toggle {
             display: none;
             font-size: 1.5rem;
             cursor: pointer;
             color: white;
         }
-
         /* Hero Section */
         .hero {
             background: url('https://mileniumtvi.com/banner-hero.jpg') no-repeat center/cover; /* Reemplaza con imagen real */
@@ -96,12 +87,10 @@
             color: white;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
         }
-
         .hero h1 {
             font-size: 2.5rem;
             margin-bottom: 1rem;
         }
-
         .hero button {
             background: #ffd700;
             border: none;
@@ -111,34 +100,28 @@
             border-radius: 5px;
             transition: background 0.3s;
         }
-
         .hero button:hover {
             background: #e6c200;
         }
-
         /* Sections */
         .section {
             padding: 2rem 1rem;
             max-width: 1400px;
             margin: 0 auto;
         }
-
         .section h2 {
             font-size: 1.8rem;
             margin-bottom: 1.2rem;
             color: #ffd700;
         }
-
         #live h2 {
             color: #1a73e8;
         }
-
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
             gap: 1rem;
         }
-
         .card {
             background: white;
             border-radius: 10px;
@@ -146,44 +129,36 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s;
         }
-
         .card:hover {
             transform: translateY(-5px);
         }
-
         .card img {
             width: 100%;
             height: 140px;
             object-fit: cover;
         }
-
         .card-content {
             padding: 0.8rem;
         }
-
         .card-content h3 {
             font-size: 1.1rem;
             margin-bottom: 0.4rem;
         }
-
         .card-content p {
             font-size: 0.85rem;
             color: #666;
         }
-
         /* Live Stream Section */
         .live-stream {
             background: #f9f9f9;
             text-align: center;
         }
-
         .live-stream .video-js {
             width: 100%;
             max-width: 800px;
             height: 450px;
             margin: 1rem auto;
         }
-
         /* Entrevistas Section */
         .entrevistas-container {
             display: flex;
@@ -191,7 +166,6 @@
             align-items: center;
             gap: 1rem;
         }
-
         .entrevistas-container .video-wrapper {
             position: relative;
             width: 100%;
@@ -200,7 +174,6 @@
             height: 0;
             overflow: hidden;
         }
-
         .entrevistas-container .video-wrapper iframe {
             position: absolute;
             top: 0;
@@ -208,14 +181,12 @@
             width: 100%;
             height: 100%;
         }
-
         .entrevistas-container p {
             font-size: 0.95rem;
             color: #333;
             max-width: 800px;
             text-align: center;
         }
-
         /* Footer */
         footer {
             background: #0d47a1;
@@ -223,26 +194,21 @@
             padding: 1.5rem;
             text-align: center;
         }
-
         footer a {
             color: #ffd700;
             text-decoration: none;
         }
-
         footer a:hover {
             text-decoration: underline;
         }
-
         /* Responsive */
         @media (max-width: 768px) {
             .hero h1 {
                 font-size: 1.8rem;
             }
-
             .menu-toggle {
                 display: block;
             }
-
             nav ul {
                 display: none;
                 flex-direction: column;
@@ -254,65 +220,51 @@
                 padding: 1rem;
                 text-align: center;
             }
-
             nav ul.active {
                 display: flex;
             }
-
             nav ul li {
                 margin: 0.5rem 0;
             }
-
             nav ul li a {
                 font-size: 1rem;
                 padding: 0.5rem;
             }
-
             .live-stream .video-js {
                 height: 200px;
             }
-
             .entrevistas-container .video-wrapper {
                 max-width: 100%;
                 padding-bottom: 56.25%;
             }
-
             .entrevistas-container p {
                 font-size: 0.85rem;
                 padding: 0 0.8rem;
             }
-
             .section {
                 padding: 1.5rem 0.8rem;
             }
-
             .section h2 {
                 font-size: 1.5rem;
             }
-
             .card img {
                 height: 120px;
             }
-
             .card-content h3 {
                 font-size: 1rem;
             }
-
             .card-content p {
                 font-size: 0.8rem;
             }
         }
-
         @media (max-width: 480px) {
             .hero h1 {
                 font-size: 1.5rem;
             }
-
             .hero button {
                 font-size: 1rem;
                 padding: 0.6rem 1.2rem;
             }
-
             .grid {
                 grid-template-columns: 1fr;
             }
@@ -355,14 +307,7 @@
         <h2>Transmisiones en Vivo</h2>
         <div class="entrevistas-container">
             <div class="video-wrapper">
-                <video
-                    id="live-stream-player-1"
-                    class="video-js vjs-default-skin"
-                    controls
-                    preload="auto"
-                    width="100%"
-                    height="100%"
-                    data-setup='{}'>
+                <video id="live-stream-player-1" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="100%" data-setup='{}'>
                     <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -371,14 +316,7 @@
             </div>
             <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
             <div class="video-wrapper">
-                <video
-                    id="live-stream-player-2"
-                    class="video-js vjs-default-skin"
-                    controls
-                    preload="auto"
-                    width="100%"
-                    height="100%"
-                    data-setup='{}'>
+                <video id="live-stream-player-2" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="100%" data-setup='{}'>
                     <source src="https://571561.gvideo.io/cmaf/571561_2798196/master.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -387,14 +325,7 @@
             </div>
             <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
             <div class="video-wrapper">
-                <video
-                    id="live-stream-player-3"
-                    class="video-js vjs-default-skin"
-                    controls
-                    preload="auto"
-                    width="100%"
-                    height="100%"
-                    data-setup='{}'>
+                <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="100%" data-setup='{}'>
                     <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -403,14 +334,7 @@
             </div>
             <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
             <div class="video-wrapper">
-                <video
-                    id="live-stream-player-4"
-                    class="video-js vjs-default-skin"
-                    controls
-                    preload="auto"
-                    width="100%"
-                    height="100%"
-                    data-setup='{}'>
+                <video id="live-stream-player-4" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="100%" data-setup='{}'>
                     <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -426,43 +350,19 @@
         <h2>Entrevistas</h2>
         <div class="entrevistas-container">
             <div class="video-wrapper">
-                <iframe loading="lazy"
-                    src="https://www.youtube.com/embed/XgmQAEQdTFI"
-                    title="Análisis de la Situación de las Instituciones Financieras"
-                    frameborder="0"
-                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen>
-                </iframe>
+                <iframe loading="lazy" src="https://www.youtube.com/embed/XgmQAEQdTFI" title="Análisis de la Situación de las Instituciones Financieras" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p>Un análisis de la Situación de las Instituciones financieras del país con el analista: Ing. Hernán Bravo</p>
             <div class="video-wrapper">
-                <iframe loading="lazy"
-                    src="https://www.youtube.com/embed/t6AcnjKj4xo"
-                    title="Suspensión de operaciones de la Cooperativa CREA Ltda."
-                    frameborder="0"
-                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen>
-                </iframe>
+                <iframe loading="lazy" src="https://www.youtube.com/embed/t6AcnjKj4xo" title="Suspensión de operaciones de la Cooperativa CREA Ltda." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p>La SEPS dispone la suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda. y garantiza la protección de los depósitos de los socios.</p>
             <div class="video-wrapper">
-                <iframe loading="lazy"
-                    src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I"
-                    title="Entrevista al Presidente de Ecuador Daniel Noboa Azín"
-                    frameborder="0"
-                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen>
-                </iframe>
+                <iframe loading="lazy" src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I" title="Entrevista al Presidente de Ecuador Daniel Noboa Azín" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p>Entrevista al Presidente de Ecuador Daniel Noboa Azín</p>
             <div class="video-wrapper">
-                <iframe loading="lazy"
-                    src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi"
-                    title="Entrevista Exclusiva con Hernán Bravo sobre apagones en Ecuador"
-                    frameborder="0"
-                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen>
-                </iframe>
+                <iframe loading="lazy" src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi" title="Entrevista Exclusiva con Hernán Bravo sobre apagones en Ecuador" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta: ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
         </div>
@@ -535,6 +435,41 @@
     <section id="news" class="section">
         <h2>Noticias</h2>
         <div class="grid">
+            <div class="card">
+                <div class="card-content">
+                    <h3>Vicepresidenta María José Pinto promueve el trabajo conjunto por la educación intercultural bilingüe</h3>
+                    <p>La vicepresidenta María José Pinto impulsa iniciativas para fortalecer la educación intercultural bilingüe, promoviendo la inclusión y el respeto a la diversidad cultural en Ecuador.</p>
+                    <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-promueve-el-trabajo-en-conjunto-y-articulado-por-la-educacion-intercultural-bilingue" target="_blank" rel="noopener noreferrer">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content">
+                    <h3>Desde Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos al sector turístico</h3>
+                    <p>En Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos para impulsar el turismo, apoyando el desarrollo económico y la generación de empleo en el sector.</p>
+                    <a href="https://mileniumtvi.com/desde-cotopaxi-el-gobierno-de-daniel-noboa-entrega-creditos-productivos-al-sector-turistico" target="_blank" rel="noopener noreferrer">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content">
+                    <h3>Carolina Jaramillo, portavoz de Carondelet</h3>
+                    <p>Carolina Jaramillo asume el rol de portavoz de Carondelet, fortaleciendo la comunicación oficial del gobierno ecuatoriano con transparencia y claridad.</p>
+                    <a href="https://mileniumtvi.com/carolina-jaramillo-portavoz-de-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content">
+                    <h3>“O aquí me quedo luchando todos los días por ustedes”</h3>
+                    <p>El presidente Daniel Noboa reafirma su compromiso con los ecuatorianos, destacando su dedicación diaria para mejorar la calidad de vida y enfrentar los desafíos del país.</p>
+                    <a href="https://mileniumtvi.com/o-aqui-me-quedo-luchando-todos-los-dias-por-ustedes" target="_blank" rel="noopener noreferrer">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-content">
+                    <h3>Por primera vez, afiliados del Seguro Social Campesino reciben montepio</h3>
+                    <p>El presidente Daniel Noboa hace realidad el acceso al montepio para los afiliados del Seguro Social Campesino, garantizando beneficios para este sector vulnerable.</p>
+                    <a href="https://mileniumtvi.com/por-primera-vez-afiliados-del-seguro-social-campesino-reciben-montepio-daniel-noboa-hace-realidad-el-acceso-a-este-derecho" target="_blank" rel="noopener noreferrer">Leer más</a>
+                </div>
+            </div>
             <div class="card">
                 <img loading="lazy" src="https://via.placeholder.com/250x150" alt="6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad">
                 <div class="card-content">
@@ -855,22 +790,6 @@
                     <a href="https://mileniumtvi.com/el-presidente-noboa-impulsa-el-desarrollo-agricola-en-azogues-con-la-entrega-de-nuevos-beneficios" target="_blank" rel="noopener noreferrer">Leer más</a>
                 </div>
             </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Nuevo plan estratégico para sector energético en Ecuador">
-                <div class="card-content">
-                    <h3>Nuevo respaldo energético para Ecuador</h3>
-                    <p>El gobierno impulsa un plan estratégico para fortalecer el sector energético, asegurando un suministro eléctrico estable y sostenible mediante nuevas inversiones y proyectos de infraestructura energética.</p>
-                    <a href="https://mileniumtvi.com/nuevo-respaldo-energetico-para-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Colocación de primera piedra para distribuidor de tráfico Monay - ÍESS en Azuay">
-                <div class="card-content">
-                    <h3>El distribuidor de tráfico Monay - ÍESS en Azuay</h3>
-                    <p>El presidente Daniel Noboa lideró la colocación de la primera piedra del distribuidor de tráfico Monay - ÍESS en Azuay, una obra que optimizará la movilidad y aliviará la congestión vehicular en la región.</p>
-                    <a href="https://mileniumtvi.com/el-distribuidor-de-trafico-monay-iess-en-azuay" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
         </div>
     </section>
 
@@ -1014,6 +933,7 @@
             </div>
         </div>
     </section>
+
 
     <!-- Noticia en Imágenes -->
     <section id="imagenes" class="section">

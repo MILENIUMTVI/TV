@@ -431,367 +431,313 @@
         </div>
     </section>
 
-    <!-- Noticias -->
-    <section id="news" class="section">
-        <h2>Noticias</h2>
-        <div class="grid">
-            <div class="card">
-                <div class="card-content">
-                    <h3>Vicepresidenta María José Pinto promueve el trabajo conjunto por la educación intercultural bilingüe</h3>
-                    <p>La vicepresidenta María José Pinto impulsa iniciativas para fortalecer la educación intercultural bilingüe, promoviendo la inclusión y el respeto a la diversidad cultural en Ecuador.</p>
-                    <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-promueve-el-trabajo-en-conjunto-y-articulado-por-la-educacion-intercultural-bilingue" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Desde Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos al sector turístico</h3>
-                    <p>En Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos para impulsar el turismo, apoyando el desarrollo económico y la generación de empleo en el sector.</p>
-                    <a href="https://mileniumtvi.com/desde-cotopaxi-el-gobierno-de-daniel-noboa-entrega-creditos-productivos-al-sector-turistico" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Carolina Jaramillo, portavoz de Carondelet</h3>
-                    <p>Carolina Jaramillo asume el rol de portavoz de Carondelet, fortaleciendo la comunicación oficial del gobierno ecuatoriano con transparencia y claridad.</p>
-                    <a href="https://mileniumtvi.com/carolina-jaramillo-portavoz-de-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>“O aquí me quedo luchando todos los días por ustedes”</h3>
-                    <p>El presidente Daniel Noboa reafirma su compromiso con los ecuatorianos, destacando su dedicación diaria para mejorar la calidad de vida y enfrentar los desafíos del país.</p>
-                    <a href="https://mileniumtvi.com/o-aqui-me-quedo-luchando-todos-los-dias-por-ustedes" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Por primera vez, afiliados del Seguro Social Campesino reciben montepio</h3>
-                    <p>El presidente Daniel Noboa hace realidad el acceso al montepio para los afiliados del Seguro Social Campesino, garantizando beneficios para este sector vulnerable.</p>
-                    <a href="https://mileniumtvi.com/por-primera-vez-afiliados-del-seguro-social-campesino-reciben-montepio-daniel-noboa-hace-realidad-el-acceso-a-este-derecho" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad">
-                <div class="card-content">
-                    <h3>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad</h3>
-                    <p>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad, mejorando el acceso a recursos educativos y conectividad.</p>
-                    <a href="https://mileniumtvi.com/6000-estudiantes-de-centros-educativos-de-la-fae-cuenten-con-internet-de-calidad-" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República">
-                <div class="card-content">
-                    <h3>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República</h3>
-                    <p>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República.</p>
-                    <a href="https://mileniumtvi.com/la-corte-constitucional-del-ecuador-emitio-tres-dictamenes-relacionados-con-propuestas-de-enmienda-constitucional-reforma-parcial-y-consulta-popular-presentadas-por-el-presidente-de-la-republica" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal">
-                <div class="card-content">
-                    <h3>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal</h3>
-                    <p>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal.</p>
-                    <a href="https://mileniumtvi.com/en-entrevista-con-univision-el-presidente-noboa-destaco-la-cooperacion-con-eeuu-en-seguridad-y-lucha-contra-la-mineria-ilegal" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca">
-                <div class="card-content">
-                    <h3>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca</h3>
-                    <p>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca.</p>
-                    <a href="https://mileniumtvi.com/pleno-de-concejo-cantonal-solicita-que-comision-sobre-proyecto-minero-loma-larga-convocada-por-la-asambleista-camila-leon-se-realice-en-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones">
-                <div class="card-content">
-                    <h3>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones</h3>
-                    <p>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones.</p>
-                    <a href="https://mileniumtvi.com/la-casa-blanca-notifico-oficialmente-al-congreso-sobre-el-ataque-militar-del-2-de-septiembre-en-el-caribe-y-advirtio-que-podrian-venir-nuevas-acciones" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico">
-                <div class="card-content">
-                    <h3>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico</h3>
-                    <p>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico.</p>
-                    <a href="https://mileniumtvi.com/si-nos-ponen-en-una-situacion-peligrosa-seran-derribados-advirtio-el-lider-republicano-horas-despues-de-anunciar-el-envio-de-10-cazas-f-35-a-puerto-rico" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas">
-                <div class="card-content">
-                    <h3>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas</h3>
-                    <p>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas.</p>
-                    <a href="https://mileniumtvi.com/la-guardia-costera-incauta-40000-libras-de-cocaina-en-el-pacifico-y-publica-imagenes-de-las-operaciones-y-del-buque-en-llamas" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Más niños, niñas y madres gestantes recibirán el bono de los 1000 días">
-                <div class="card-content">
-                    <h3>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días</h3>
-                    <p>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días.</p>
-                    <a href="https://mileniumtvi.com/mas-ninos-ninas-y-madres-gestantes-recibiran-el-bono-de-los-1000-dias" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet">
-                <div class="card-content">
-                    <h3>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet</h3>
-                    <p>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet.</p>
-                    <a href="https://mileniumtvi.com/marco-rubio-secretario-de-estado-de-estados-unidos-visito-al-presidente-daniel-noboa-en-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos">
-                <div class="card-content">
-                    <h3>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos</h3>
-                    <p>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos.</p>
-                    <a href="https://mileniumtvi.com/ecuador-y-japon-refuerzan-la-cooperacion-en-energia-comercio-seguridad-y-gestion-de-riesgos-" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La digitalización llega a Zapotal">
-                <div class="card-content">
-                    <h3>La digitalización llega a Zapotal</h3>
-                    <p>La digitalización llega a Zapotal.</p>
-                    <a href="https://mileniumtvi.com/la-digitalizacion-llega-a-zapotal" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad">
-                <div class="card-content">
-                    <h3>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad</h3>
-                    <p>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad.</p>
-                    <a href="https://mileniumtvi.com/el-alcalde-de-cuenca-abordo-temas-de-trascendental-importancia-para-la-ciudad" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa destacando esfuerzo de comunidad ecuatoriana en Tokio">
-                <div class="card-content">
-                    <h3>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana</h3>
-                    <p>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana.</p>
-                    <a href="https://mileniumtvi.com/en-tokio-el-presidente-noboa-destaco-el-esfuerzo-y-la-integracion-de-la-comunidad-ecuatoriana" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa liderando seminario de promoción en Japón">
-                <div class="card-content">
-                    <h3>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión</h3>
-                    <p>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-lidero-el-seminario-de-promocion-de-ecuador-en-japon-se-fortalecen-lazos-comerciales-y-de-inversion" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidentes Daniel Noboa y Javier Milei en reunión bilateral contra inseguridad y corrupción">
-                <div class="card-content">
-                    <h3>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral</h3>
-                    <p>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral.</p>
-                    <a href="https://mileniumtvi.com/los-presidentes-daniel-noboa-y-javier-milei-coinciden-en-combatir-la-inseguridad-y-la-corrupcion-durante-reunion-bilateral" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Resultados de gira oficial del presidente Noboa a Brasil, Uruguay y Argentina">
-                <div class="card-content">
-                    <h3>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina</h3>
-                    <p>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina.</p>
-                    <a href="https://mileniumtvi.com/la-cooperacion-en-seguridad-y-la-integracion-comercial-son-los-resultados-de-la-gira-oficial-del-presidente-noboa-a-brasil-uruguay-y-argentina" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Sector empresarial japonés y presidente Noboa acelerando acuerdo comercial">
-                <div class="card-content">
-                    <h3>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial</h3>
-                    <p>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial.</p>
-                    <a href="https://mileniumtvi.com/el-sector-empresarial-japones-y-el-presidente-noboa-coinciden-en-la-necesidad-de-acelerar-la-firma-de-un-acuerdo-comercial" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Cancelación de partido de Copa Sudamericana por incidentes">
-                <div class="card-content">
-                    <h3>Cancelan partido de Copa Sudamericana por graves incidentes</h3>
-                    <p>Un partido de la Copa Sudamericana fue cancelado debido a graves incidentes, priorizando la seguridad de los asistentes.</p>
-                    <a href="https://mileniumtvi.com/cancelan-partido-de-copa-sudamericana-por-graves-incidentes" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Compra masiva y transparente de medicamentos por Comité Nacional de Salud Pública">
-                <div class="card-content">
-                    <h3>Compra masiva y transparente de medicamentos</h3>
-                    <p>El Comité Nacional de Salud Pública anunció la compra masiva y transparente de medicamentos en su primera sesión ordinaria, garantizando acceso a la salud.</p>
-                    <a href="https://mileniumtvi.com/comite-nacional-de-salud-publica-anuncio-la-compra-masiva-y-transparente-de-medicamentos-en-su-primera-sesion-ordinaria" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inauguración de puntos digitales gratuitos en Galápagos por gobierno de Daniel Noboa">
-                <div class="card-content">
-                    <h3>Gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos</h3>
-                    <p>El gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos, mejorando el acceso a internet y la conectividad en las islas.</p>
-                    <a href="https://mileniumtvi.com/gobierno-de-daniel-noboa-inaugura-tres-puntos-digitales-gratuitos-en-galapagos-" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="CNT implementando Starlink en Galápagos">
-                <div class="card-content">
-                    <h3>CNT lleva Starlink a Galápagos</h3>
-                    <p>La CNT implementa el Community Gateway de Starlink en Galápagos, ofreciendo velocidades similares a la fibra óptica desde el espacio.</p>
-                    <a href="https://mileniumtvi.com/la-cnt-lleva-el-community-gateway-de-starlink-para-ofrecer-velocidades-similares-a-las-de-fibra-optica-desde-el-espacio-a-las-islas-galapagos-" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Lanzamiento de 10 mil becas de Inteligencia Artificial en Ecuador">
-                <div class="card-content">
-                    <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
-                    <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
-                    <a href="https://mileniumtvi.com/ecuador-lanza-10-mil-becas-de-inteligencia-artificial-gracias-a-la-cooperacion-con-emiratos-arabes-unidos" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Programa Mi Tienda del Nuevo Ecuador impulsando emprendimiento">
-                <div class="card-content">
-                    <h3>Mi Tienda del Nuevo Ecuador</h3>
-                    <p>El programa "Mi Tienda del Nuevo Ecuador" impulsa el emprendimiento y el comercio local, apoyando a pequeños negocios con recursos y capacitación para su crecimiento.</p>
-                    <a href="https://mileniumtvi.com/mi-tienda-del-nuevo-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Becas educativas para 600 mujeres en Ecuador">
-                <div class="card-content">
-                    <h3>600 Mujeres Recibirán Becas Educativas</h3>
-                    <p>El gobierno ecuatoriano otorgará becas educativas a 600 mujeres, promoviendo la igualdad de género y el acceso a la educación para fortalecer su desarrollo profesional.</p>
-                    <a href="https://mileniumtvi.com/600-mujeres-recibiran-becas-educativas" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidentes de Ecuador y Uruguay fortaleciendo cooperación en seguridad">
-                <div class="card-content">
-                    <h3>En Montevideo, los Presidentes de Ecuador y Uruguay Fortalecen Cooperación en Materia de Seguridad</h3>
-                    <p>En Montevideo, los presidentes de Ecuador y Uruguay firman acuerdos para fortalecer la cooperación en seguridad, enfocándose en la lucha contra el crimen organizado y el narcotráfico.</p>
-                    <a href="https://mileniumtvi.com/en-montevideo-los-presidentes-de-ecuador-y-uruguay-fortalecen-cooperacion-en-materia-de-seguridad-" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Agenda oficial del Presidente Daniel Noboa en Argentina con empresarios">
-                <div class="card-content">
-                    <h3>El Presidente Daniel Noboa Inició su Agenda Oficial en Argentina con Encuentros con Empresarios</h3>
-                    <p>El presidente Daniel Noboa comenzó su visita oficial en Argentina con reuniones clave con empresarios, buscando atraer inversiones y fortalecer lazos comerciales.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-inicio-su-agenda-oficial-en-argentina-con-encuentros-con-empresarios" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inicio de obras viales en carretera E487 por presidente Noboa">
-                <div class="card-content">
-                    <h3>El presidente Noboa dio inicio a obras viales en la carretera E487</h3>
-                    <p>El presidente Daniel Noboa dio inicio a las obras viales en la carretera E487, un proyecto clave para mejorar la conectividad y el desarrollo económico en las regiones afectadas.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-dio-inicio-a-obras-viales-en-la-carretera-e487" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Gobierno de Daniel Noboa impulsando proyectos agrícolas, comercio y turismo">
-                <div class="card-content">
-                    <h3>El gobierno de Daniel Noboa impulsa el desarrollo de proyectos agrícolas, de comercio y turismo comunitario</h3>
-                    <p>El gobierno de Daniel Noboa promueve iniciativas para fortalecer la agricultura, el comercio y el turismo comunitario, con proyectos que buscan generar empleo y desarrollo sostenible en comunidades locales.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-de-daniel-noboa-impulsa-el-desarrollo-de-proyectos-agricolas-de-comercio-y-turismo-comunitario-" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Visitas oficiales del presidente Noboa a Brasil, Uruguay, Argentina y Japón">
-                <div class="card-content">
-                    <h3>El presidente Noboa desarrollará visitas oficiales a Brasil, Uruguay, Argentina y Japón</h3>
-                    <p>El presidente Daniel Noboa realizará visitas oficiales en agosto a Brasil, Uruguay, Argentina y Japón para fortalecer la cooperación internacional.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-desarrollara-visitas-oficiales-a-brasil-uruguay-argentina-y-japon-este-agosto" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Reconocimiento del presidente Noboa a labor de cuidadores">
-                <div class="card-content">
-                    <h3>El presidente Noboa reconoció la labor de cuidadores</h3>
-                    <p>El presidente Noboa destacó la importancia de quienes dedican su vida a cuidar a los más vulnerables del país, entregando reconocimientos y apoyo.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-reconocio-la-labor-de-quienes-dedican-su-vida-a-cuidar-a-los-mas-vulnerables-del-pais" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Impulso del Gobierno Nacional a agricultura y empleo rural">
-                <div class="card-content">
-                    <h3>Impulso a la agricultura y empleo rural</h3>
-                    <p>El Gobierno Nacional impulsa la agricultura con la entrega de beneficios productivos y fomento de plazas laborales para la juventud rural.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-nacional-impulsa-la-agricultura-con-la-entrega-de-beneficios-productivos-y-fomento-de-plazas-laborales-para-la-juventud-rural" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Crédito de USD 250 millones fortaleciendo confianza internacional en Ecuador">
-                <div class="card-content">
-                    <h3>Crédito de USD 250 millones para Ecuador</h3>
-                    <p>La confianza internacional en Ecuador se fortalece con la recepción de un crédito por USD 250 millones para proyectos de desarrollo.</p>
-                    <a href="https://mileniumtvi.com/la-confianza-internacional-en-ecuador-se-fortalece-el-pais-recibio-un-credito-por-usd-250-millones" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Fortalecimiento del sistema penitenciario por presidente Noboa">
-                <div class="card-content">
-                    <h3>Fortalecimiento del sistema penitenciario</h3>
-                    <p>El presidente Noboa fortalece el sistema penitenciario con la entrega de más de 4000 chalecos de protección balística y uniformes para guías.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-fortalece-el-sistema-penitenciario-entrego-mas-de-4000-chalecos-de-proteccion-balistica-y-uniformes-para-guias" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Consulta popular con 7 preguntas planteada por presidente Noboa">
-                <div class="card-content">
-                    <h3>Consulta popular planteada por el presidente Noboa</h3>
-                    <p>La consulta popular planteada por el presidente Noboa tendría 7 preguntas y se realizaría el domingo 14 de diciembre.</p>
-                    <a href="https://mileniumtvi.com/la-consulta-popular-planteada-por-el-presidente-noboa-tendria-7-preguntas-y-seria-el-domingo-14-de-diciembre" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Acuerdo estratégico entre Ecuador y Royal Caribbean para turismo">
-                <div class="card-content">
-                    <h3>Ecuador y Royal Caribbean</h3>
-                    <p>Ecuador fortalece el turismo con un acuerdo estratégico con Royal Caribbean para promover cruceros en la costa ecuatoriana.</p>
-                    <a href="https://mileniumtvi.com/ecuador-y-royal-caribbean" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Políticas para minería responsable en Ecuador">
-                <div class="card-content">
-                    <h3>Ecuador fortalece la minería responsable</h3>
-                    <p>Ecuador impulsa la minería responsable con nuevas políticas que equilibran el desarrollo económico y la sostenibilidad ambiental.</p>
-                    <a href="https://mileniumtvi.com/ecuador-fortalece-la-mineria-responsable" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Gobierno Nacional garantizando atención a pacientes oncológicos con pagos a Solca">
-                <div class="card-content">
-                    <h3>El Gobierno Nacional garantiza la atención de pacientes oncológicos</h3>
-                    <p>El Gobierno Nacional duplicó los pagos a Solca para garantizar la atención a pacientes oncológicos, al transferir USD 26,2 millones en lo que va de este año.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-nacional-garantiza-la-atencion-de-pacientes-oncologicos-pago-a-solca-usd-26-millones-en-lo-que-va-del-anio" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Celebración del poder de la lactancia materna en Ecuador">
-                <div class="card-content">
-                    <h3>Ecuador camino hoy por el mejor alimento del mundo</h3>
-                    <p>Más de 11 mil voces se unen en Ecuador para celebrar el poder de la lactancia materna.</p>
-                    <a href="https://mileniumtvi.com/ecuador-camino-hoy-por-el-mejor-alimento-del-mundo" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inauguración de Centro Deportivo y Cultural en Bajo Alto por presidente Noboa">
-                <div class="card-content">
-                    <h3>El presidente Noboa inauguró el Centro Deportivo y Cultural en Bajo Alto</h3>
-                    <p>El presidente Daniel Noboa inauguró un Centro Deportivo y Cultural en la comuna Bajo Alto, El Guabo, que ofrece espacios para actividades recreativas y culturales, fomentando la integración comunitaria y el desarrollo local.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-inauguro-el-centro-deportivo-y-cultural-en-la-comuna-bajo-alto-del-canton-el-guabo" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Impulso al desarrollo agrícola en Azogues por presidente Noboa">
-                <div class="card-content">
-                    <h3>El presidente Noboa impulsa el desarrollo agrícola en Azogues</h3>
-                    <p>En Azogues, el presidente Daniel Noboa entregó recursos y beneficios a productores agrícolas, promoviendo la modernización del sector y el aumento de la productividad, con un enfoque en la sostenibilidad.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-impulsa-el-desarrollo-agricola-en-azogues-con-la-entrega-de-nuevos-beneficios" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
+   <!-- Noticias -->
+<section id="news" class="section">
+    <h2>Noticias</h2>
+    <div class="grid">
+        <div class="card">
+            <div class="card-content">
+                <h3>Ventas en Ecuador crecen en septiembre pese a focalizados intentos de paralización</h3>
+                <p>Las ventas en Ecuador registraron un crecimiento en septiembre, superando intentos focalizados de paralización, impulsando la economía local.</p>
+                <a href="https://mileniumtvi.com/ventas-en-ecuador-crecen-en-septiembre-pese-a-focalizados-intentos-de-paralizacion" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-    </section>
+        <div class="card">
+            <div class="card-content">
+                <h3>La vida cambió para doña María con la adecuación de su vivienda y acceso a servicios básicos</h3>
+                <p>Doña María mejora su calidad de vida gracias a la adecuación de su vivienda y el acceso a servicios básicos, como parte de iniciativas sociales en Ecuador.</p>
+                <a href="https://mileniumtvi.com/la-vida-cambio-para-dona-maria-con-la-adecuacion-de-su-vivienda-y-acceso-a-servicios-basicos" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>“Nadie nos va a impedir llegar a las comunidades”: presidente Noboa entregó créditos y herramientas para Imbabura</h3>
+                <p>El presidente Daniel Noboa entregó créditos y herramientas a comunidades de Imbabura, reafirmando su compromiso con el desarrollo local.</p>
+                <a href="https://mileniumtvi.com/nadie-nos-va-a-impedir-llegar-a-las-comunidades-presidente-noboa-entrego-creditos-y-herramientas-para-imbabura" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Agricultores de Tungurahua recibieron bonos Raíces y otros insumos productivos, en todo el país ya son más de 81,000 beneficiarios</h3>
+                <p>Agricultores de Tungurahua reciben bonos Raíces e insumos productivos, sumándose a los más de 81,000 beneficiarios a nivel nacional.</p>
+                <a href="https://mileniumtvi.com/agricultores-de-tungurahua-recibieron-bonos-raices-y-otros-insumos-productivos-en-todo-el-pais-ya-son-mas-de-81000-beneficiarios" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Presidente Daniel Noboa entrega USD 6 millones para la economía popular y solidaria de Tungurahua</h3>
+                <p>El presidente Daniel Noboa destinó USD 6 millones para fortalecer la economía popular y solidaria en Tungurahua, apoyando a emprendedores locales.</p>
+                <a href="https://mileniumtvi.com/presidente-daniel-noboa-entrega-usd-6-millones-para-la-economia-popular-y-solidaria-de-tungurahua" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Familias de Tungurahua cumplen su sueño de tener casa propia</h3>
+                <p>Familias de Tungurahua logran tener casa propia gracias a programas del gobierno que promueven el acceso a viviendas dignas.</p>
+                <a href="https://mileniumtvi.com/familias-de-tungurahua-cumplen-su-sueno-de-tener-casa-propia-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Vicepresidenta María José Pinto promueve el trabajo conjunto por la educación intercultural bilingüe</h3>
+                <p>La vicepresidenta María José Pinto impulsa iniciativas para fortalecer la educación intercultural bilingüe, promoviendo la inclusión y el respeto a la diversidad cultural en Ecuador.</p>
+                <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-promueve-el-trabajo-en-conjunto-y-articulado-por-la-educacion-intercultural-bilingue" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Desde Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos al sector turístico</h3>
+                <p>En Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos para impulsar el turismo, apoyando el desarrollo económico y la generación de empleo en el sector.</p>
+                <a href="https://mileniumtvi.com/desde-cotopaxi-el-gobierno-de-daniel-noboa-entrega-creditos-productivos-al-sector-turistico" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Carolina Jaramillo, portavoz de Carondelet</h3>
+                <p>Carolina Jaramillo asume el rol de portavoz de Carondelet, fortaleciendo la comunicación oficial del gobierno ecuatoriano con transparencia y claridad.</p>
+                <a href="https://mileniumtvi.com/carolina-jaramillo-portavoz-de-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>“O aquí me quedo luchando todos los días por ustedes”</h3>
+                <p>El presidente Daniel Noboa reafirma su compromiso con los ecuatorianos, destacando su dedicación diaria para mejorar la calidad de vida y enfrentar los desafíos del país.</p>
+                <a href="https://mileniumtvi.com/o-aqui-me-quedo-luchando-todos-los-dias-por-ustedes" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Por primera vez, afiliados del Seguro Social Campesino reciben montepio</h3>
+                <p>El presidente Daniel Noboa hace realidad el acceso al montepio para los afiliados del Seguro Social Campesino, garantizando beneficios para este sector vulnerable.</p>
+                <a href="https://mileniumtvi.com/por-primera-vez-afiliados-del-seguro-social-campesino-reciben-montepio-daniel-noboa-hace-realidad-el-acceso-a-este-derecho" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad">
+            <div class="card-content">
+                <h3>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad</h3>
+                <p>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad, mejorando el acceso a recursos educativos y conectividad.</p>
+                <a href="https://mileniumtvi.com/6000-estudiantes-de-centros-educativos-de-la-fae-cuenten-con-internet-de-calidad-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República">
+            <div class="card-content">
+                <h3>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República</h3>
+                <p>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República.</p>
+                <a href="https://mileniumtvi.com/la-corte-constitucional-del-ecuador-emitio-tres-dictamenes-relacionados-con-propuestas-de-enmienda-constitucional-reforma-parcial-y-consulta-popular-presentadas-por-el-presidente-de-la-republica" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal">
+            <div class="card-content">
+                <h3>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal</h3>
+                <p>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal.</p>
+                <a href="https://mileniumtvi.com/en-entrevista-con-univision-el-presidente-noboa-destaco-la-cooperacion-con-eeuu-en-seguridad-y-lucha-contra-la-mineria-ilegal" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca">
+            <div class="card-content">
+                <h3>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca</h3>
+                <p>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca.</p>
+                <a href="https://mileniumtvi.com/pleno-de-concejo-cantonal-solicita-que-comision-sobre-proyecto-minero-loma-larga-convocada-por-la-asambleista-camila-leon-se-realice-en-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones">
+            <div class="card-content">
+                <h3>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones</h3>
+                <p>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones.</p>
+                <a href="https://mileniumtvi.com/la-casa-blanca-notifico-oficialmente-al-congreso-sobre-el-ataque-militar-del-2-de-septiembre-en-el-caribe-y-advirtio-que-podrian-venir-nuevas-acciones" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico">
+            <div class="card-content">
+                <h3>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico</h3>
+                <p>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico.</p>
+                <a href="https://mileniumtvi.com/si-nos-ponen-en-una-situacion-peligrosa-seran-derribados-advirtio-el-lider-republicano-horas-despues-de-anunciar-el-envio-de-10-cazas-f-35-a-puerto-rico" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas">
+            <div class="card-content">
+                <h3>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas</h3>
+                <p>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas.</p>
+                <a href="https://mileniumtvi.com/la-guardia-costera-incauta-40000-libras-de-cocaina-en-el-pacifico-y-publica-imagenes-de-las-operaciones-y-del-buque-en-llamas" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Más niños, niñas y madres gestantes recibirán el bono de los 1000 días">
+            <div class="card-content">
+                <h3>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días</h3>
+                <p>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días.</p>
+                <a href="https://mileniumtvi.com/mas-ninos-ninas-y-madres-gestantes-recibiran-el-bono-de-los-1000-dias" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet">
+            <div class="card-content">
+                <h3>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet</h3>
+                <p>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet.</p>
+                <a href="https://mileniumtvi.com/marco-rubio-secretario-de-estado-de-estados-unidos-visito-al-presidente-daniel-noboa-en-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos">
+            <div class="card-content">
+                <h3>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos</h3>
+                <p>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos.</p>
+                <a href="https://mileniumtvi.com/ecuador-y-japon-refuerzan-la-cooperacion-en-energia-comercio-seguridad-y-gestion-de-riesgos-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La digitalización llega a Zapotal">
+            <div class="card-content">
+                <h3>La digitalización llega a Zapotal</h3>
+                <p>La digitalización llega a Zapotal.</p>
+                <a href="https://mileniumtvi.com/la-digitalizacion-llega-a-zapotal" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad">
+            <div class="card-content">
+                <h3>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad</h3>
+                <p>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad.</p>
+                <a href="https://mileniumtvi.com/el-alcalde-de-cuenca-abordo-temas-de-trascendental-importancia-para-la-ciudad" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa destacando esfuerzo de comunidad ecuatoriana en Tokio">
+            <div class="card-content">
+                <h3>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana</h3>
+                <p>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana.</p>
+                <a href="https://mileniumtvi.com/en-tokio-el-presidente-noboa-destaco-el-esfuerzo-y-la-integracion-de-la-comunidad-ecuatoriana" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa liderando seminario de promoción en Japón">
+            <div class="card-content">
+                <h3>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión</h3>
+                <p>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión.</p>
+                <a href="https://mileniumtvi.com/el-presidente-noboa-lidero-el-seminario-de-promocion-de-ecuador-en-japon-se-fortalecen-lazos-comerciales-y-de-inversion" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidentes Daniel Noboa y Javier Milei en reunión bilateral contra inseguridad y corrupción">
+            <div class="card-content">
+                <h3>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral</h3>
+                <p>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral.</p>
+                <a href="https://mileniumtvi.com/los-presidentes-daniel-noboa-y-javier-milei-coinciden-en-combatir-la-inseguridad-y-la-corrupcion-durante-reunion-bilateral" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Resultados de gira oficial del presidente Noboa a Brasil, Uruguay y Argentina">
+            <div class="card-content">
+                <h3>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina</h3>
+                <p>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina.</p>
+                <a href="https://mileniumtvi.com/la-cooperacion-en-seguridad-y-la-integracion-comercial-son-los-resultados-de-la-gira-oficial-del-presidente-noboa-a-brasil-uruguay-y-argentina" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Sector empresarial japonés y presidente Noboa acelerando acuerdo comercial">
+            <div class="card-content">
+                <h3>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial</h3>
+                <p>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial.</p>
+                <a href="https://mileniumtvi.com/el-sector-empresarial-japones-y-el-presidente-noboa-coinciden-en-la-necesidad-de-acelerar-la-firma-de-un-acuerdo-comercial" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Cancelación de partido de Copa Sudamericana por incidentes">
+            <div class="card-content">
+                <h3>Cancelan partido de Copa Sudamericana por graves incidentes</h3>
+                <p>Un partido de la Copa Sudamericana fue cancelado debido a graves incidentes, priorizando la seguridad de los asistentes.</p>
+                <a href="https://mileniumtvi.com/cancelan-partido-de-copa-sudamericana-por-graves-incidentes" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Compra masiva y transparente de medicamentos por Comité Nacional de Salud Pública">
+            <div class="card-content">
+                <h3>Compra masiva y transparente de medicamentos</h3>
+                <p>El Comité Nacional de Salud Pública anunció la compra masiva y transparente de medicamentos en su primera sesión ordinaria, garantizando acceso a la salud.</p>
+                <a href="https://mileniumtvi.com/comite-nacional-de-salud-publica-anuncio-la-compra-masiva-y-transparente-de-medicamentos-en-su-primera-sesion-ordinaria" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inauguración de puntos digitales gratuitos en Galápagos por gobierno de Daniel Noboa">
+            <div class="card-content">
+                <h3>Gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos</h3>
+                <p>El gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos, mejorando el acceso a internet y la conectividad en las islas.</p>
+                <a href="https://mileniumtvi.com/gobierno-de-daniel-noboa-inaugura-tres-puntos-digitales-gratuitos-en-galapagos-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="CNT implementando Starlink en Galápagos">
+            <div class="card-content">
+                <h3>CNT lleva Starlink a Galápagos</h3>
+                <p>La CNT implementa el Community Gateway de Starlink en Galápagos, ofreciendo velocidades similares a la fibra óptica desde el espacio.</p>
+                <a href="https://mileniumtvi.com/la-cnt-lleva-el-community-gateway-de-starlink-para-ofrecer-velocidades-similares-a-las-de-fibra-optica-desde-el-espacio-a-las-islas-galapagos-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Lanzamiento de 10 mil becas de Inteligencia Artificial en Ecuador">
+            <div class="card-content">
+                <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
+                <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
+                <a href="https://mileniumtvi.com/ecuador-lanza-10-mil-becas-de-inteligencia-artificial-gracias-a-la-cooperacion-con-emiratos-arabes-unidos" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Programa Mi Tienda del Nuevo Ecuador impulsando emprendimiento">
+            <div class="card-content">
+                <h3>Mi Tienda del Nuevo Ecuador</h3>
+                <p>El programa "Mi Tienda del Nuevo Ecuador" impulsa el emprendimiento y el comercio local, apoyando a pequeños negocios con recursos y capacitación para su crecimiento.</p>
+                <a href="https://mileniumtvi.com/mi-tienda-del-nuevo-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Becas educativas para 600 mujeres en Ecuador">
+            <div class="card-content">
+                <h3>600 Mujeres Recibirán Becas Educativas</h3>
+                <p>El gobierno ecuatoriano otorgará becas educativas a 600 mujeres, promoviendo la igualdad de género y el acceso a la educación para fortalecer su desarrollo profesional.</p>
+                <a href="https://mileniumtvi.com/600-mujeres-recibiran-becas-educativas" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidentes de Ecuador y Uruguay fortaleciendo cooperación en seguridad">
+            <div class="card-content">
+                <h3>En Montevideo, los Presidentes de Ecuador y Uruguay Fortalecen Cooperación en Materia de Seguridad</h3>
+                <p>En Montevideo, los presidentes de Ecuador y Uruguay firman acuerdos para fortalecer la cooperación en seguridad, enfocándose en la lucha contra el crimen organizado y el narcotráfico.</p>
+                <a href="https://mileniumtvi.com/en-montevideo-los-presidentes-de-ecuador-y-uruguay-fortalecen-cooperacion-en-materia-de-seguridad-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Agenda oficial del Presidente Daniel Noboa en Argentina con empresarios">
+            <div class="card-content">
+                <h3>El Presidente Daniel Noboa Inició su Agenda Oficial en Argentina con Encuentros con Empresarios</h3>
+                <p>El presidente Daniel Noboa comenzó su visita oficial en Argentina con reuniones clave con empresarios, buscando atraer inversiones y fortalecer lazos comerciales.</p>
+                <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-inicio-su-agenda-oficial-en-argentina-con-encuentros-con-empresarios" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inicio de obras viales en carretera E487 por presidente Noboa">
+            <div class="card-content">
+                <h3>El presidente Noboa dio inicio a obras viales en la carretera E487</h3>
+                <p>El presidente Daniel Noboa dio inicio a las obras viales en la carretera E487, un proyecto clave para mejorar la conectividad y el desarrollo económico en las regiones afectadas.</p>
+                <a href="https://mileniumtvi.com/el-presidente-noboa-dio-inicio-a-obras-viales-en-la-carretera-e487" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Gobierno de Daniel Noboa impulsando proyectos agrícolas, comercio y turismo">
+            <div class="card-content">
+                <h3>El gobierno de Daniel Noboa impulsa el desarrollo de proyectos agrícolas, de comercio y turismo comunitario</h3>
+                <p>El gobierno de Daniel Noboa promueve iniciativas para fortalecer la agricultura, el comercio y el turismo comunitario, con proyectos que buscan generar empleo y desarrollo sostenible en comunidades locales.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-de-daniel-noboa-impulsa-el-desarrollo-de-proyectos-agricolas-de-comercio-y-turismo-comunitario-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Noticias Locales -->
     <section id="locales" class="section">

@@ -431,10 +431,18 @@
         </div>
     </section>
 
-   <!-- Noticias -->
+  ```html
+<!-- Noticias -->
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
+        <div class="card">
+            <div class="card-content">
+                <h3>María José Pinto fortalece apoyo a la niñez y juventud en situación de riesgo en Ibarra</h3>
+                <p>La vicepresidenta María José Pinto impulsa iniciativas para proteger y apoyar a la niñez y juventud en situación de riesgo en Ibarra, promoviendo su bienestar y desarrollo.</p>
+                <a href="https://mileniumtvi.com/maria-jose-pinto-fortalece-apoyo-a-la-ninez-y-juventud-en-situacion-de-riesgo-en-ibarra" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
         <div class="card">
             <div class="card-content">
                 <h3>Ventas en Ecuador crecen en septiembre pese a focalizados intentos de paralización</h3>
@@ -513,7 +521,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad">
             <div class="card-content">
                 <h3>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad</h3>
                 <p>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad, mejorando el acceso a recursos educativos y conectividad.</p>
@@ -521,7 +528,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República">
             <div class="card-content">
                 <h3>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República</h3>
                 <p>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República.</p>
@@ -529,7 +535,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal">
             <div class="card-content">
                 <h3>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal</h3>
                 <p>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal.</p>
@@ -537,7 +542,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca">
             <div class="card-content">
                 <h3>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca</h3>
                 <p>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca.</p>
@@ -545,7 +549,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones">
             <div class="card-content">
                 <h3>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones</h3>
                 <p>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones.</p>
@@ -553,7 +556,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico">
             <div class="card-content">
                 <h3>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico</h3>
                 <p>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico.</p>
@@ -561,7 +563,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas">
             <div class="card-content">
                 <h3>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas</h3>
                 <p>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas.</p>
@@ -569,7 +570,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Más niños, niñas y madres gestantes recibirán el bono de los 1000 días">
             <div class="card-content">
                 <h3>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días</h3>
                 <p>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días.</p>
@@ -577,7 +577,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet">
             <div class="card-content">
                 <h3>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet</h3>
                 <p>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet.</p>
@@ -585,7 +584,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos">
             <div class="card-content">
                 <h3>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos</h3>
                 <p>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos.</p>
@@ -593,7 +591,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="La digitalización llega a Zapotal">
             <div class="card-content">
                 <h3>La digitalización llega a Zapotal</h3>
                 <p>La digitalización llega a Zapotal.</p>
@@ -601,7 +598,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad">
             <div class="card-content">
                 <h3>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad</h3>
                 <p>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad.</p>
@@ -609,7 +605,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa destacando esfuerzo de comunidad ecuatoriana en Tokio">
             <div class="card-content">
                 <h3>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana</h3>
                 <p>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana.</p>
@@ -617,7 +612,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidente Noboa liderando seminario de promoción en Japón">
             <div class="card-content">
                 <h3>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión</h3>
                 <p>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión.</p>
@@ -625,7 +619,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidentes Daniel Noboa y Javier Milei en reunión bilateral contra inseguridad y corrupción">
             <div class="card-content">
                 <h3>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral</h3>
                 <p>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral.</p>
@@ -633,7 +626,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Resultados de gira oficial del presidente Noboa a Brasil, Uruguay y Argentina">
             <div class="card-content">
                 <h3>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina</h3>
                 <p>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina.</p>
@@ -641,7 +633,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Sector empresarial japonés y presidente Noboa acelerando acuerdo comercial">
             <div class="card-content">
                 <h3>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial</h3>
                 <p>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial.</p>
@@ -649,7 +640,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Cancelación de partido de Copa Sudamericana por incidentes">
             <div class="card-content">
                 <h3>Cancelan partido de Copa Sudamericana por graves incidentes</h3>
                 <p>Un partido de la Copa Sudamericana fue cancelado debido a graves incidentes, priorizando la seguridad de los asistentes.</p>
@@ -657,7 +647,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Compra masiva y transparente de medicamentos por Comité Nacional de Salud Pública">
             <div class="card-content">
                 <h3>Compra masiva y transparente de medicamentos</h3>
                 <p>El Comité Nacional de Salud Pública anunció la compra masiva y transparente de medicamentos en su primera sesión ordinaria, garantizando acceso a la salud.</p>
@@ -665,7 +654,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inauguración de puntos digitales gratuitos en Galápagos por gobierno de Daniel Noboa">
             <div class="card-content">
                 <h3>Gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos</h3>
                 <p>El gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos, mejorando el acceso a internet y la conectividad en las islas.</p>
@@ -673,7 +661,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="CNT implementando Starlink en Galápagos">
             <div class="card-content">
                 <h3>CNT lleva Starlink a Galápagos</h3>
                 <p>La CNT implementa el Community Gateway de Starlink en Galápagos, ofreciendo velocidades similares a la fibra óptica desde el espacio.</p>
@@ -681,7 +668,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Lanzamiento de 10 mil becas de Inteligencia Artificial en Ecuador">
             <div class="card-content">
                 <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
                 <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
@@ -689,7 +675,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Programa Mi Tienda del Nuevo Ecuador impulsando emprendimiento">
             <div class="card-content">
                 <h3>Mi Tienda del Nuevo Ecuador</h3>
                 <p>El programa "Mi Tienda del Nuevo Ecuador" impulsa el emprendimiento y el comercio local, apoyando a pequeños negocios con recursos y capacitación para su crecimiento.</p>
@@ -697,7 +682,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Becas educativas para 600 mujeres en Ecuador">
             <div class="card-content">
                 <h3>600 Mujeres Recibirán Becas Educativas</h3>
                 <p>El gobierno ecuatoriano otorgará becas educativas a 600 mujeres, promoviendo la igualdad de género y el acceso a la educación para fortalecer su desarrollo profesional.</p>
@@ -705,7 +689,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presidentes de Ecuador y Uruguay fortaleciendo cooperación en seguridad">
             <div class="card-content">
                 <h3>En Montevideo, los Presidentes de Ecuador y Uruguay Fortalecen Cooperación en Materia de Seguridad</h3>
                 <p>En Montevideo, los presidentes de Ecuador y Uruguay firman acuerdos para fortalecer la cooperación en seguridad, enfocándose en la lucha contra el crimen organizado y el narcotráfico.</p>
@@ -713,7 +696,6 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Agenda oficial del Presidente Daniel Noboa en Argentina con empresarios">
             <div class="card-content">
                 <h3>El Presidente Daniel Noboa Inició su Agenda Oficial en Argentina con Encuentros con Empresarios</h3>
                 <p>El presidente Daniel Noboa comenzó su visita oficial en Argentina con reuniones clave con empresarios, buscando atraer inversiones y fortalecer lazos comerciales.</p>
@@ -721,24 +703,15 @@
             </div>
         </div>
         <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Inicio de obras viales en carretera E487 por presidente Noboa">
             <div class="card-content">
                 <h3>El presidente Noboa dio inicio a obras viales en la carretera E487</h3>
                 <p>El presidente Daniel Noboa dio inicio a las obras viales en la carretera E487, un proyecto clave para mejorar la conectividad y el desarrollo económico en las regiones afectadas.</p>
                 <a href="https://mileniumtvi.com/el-presidente-noboa-dio-inicio-a-obras-viales-en-la-carretera-e487" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Gobierno de Daniel Noboa impulsando proyectos agrícolas, comercio y turismo">
-            <div class="card-content">
-                <h3>El gobierno de Daniel Noboa impulsa el desarrollo de proyectos agrícolas, de comercio y turismo comunitario</h3>
-                <p>El gobierno de Daniel Noboa promueve iniciativas para fortalecer la agricultura, el comercio y el turismo comunitario, con proyectos que buscan generar empleo y desarrollo sostenible en comunidades locales.</p>
-                <a href="https://mileniumtvi.com/el-gobierno-de-daniel-noboa-impulsa-el-desarrollo-de-proyectos-agricolas-de-comercio-y-turismo-comunitario-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
-
+```
     <!-- Noticias Locales -->
     <section id="locales" class="section">
         <h2>Noticias Locales</h2>

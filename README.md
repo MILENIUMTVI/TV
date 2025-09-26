@@ -326,7 +326,7 @@
             <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
             <div class="video-wrapper">
                 <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="auto" width="100%" height="100%" data-setup='{}'>
-                    <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
+                    <source src="https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                     </p>

@@ -386,47 +386,7 @@
                     <p>Una serie que no te puedes perder, disponible en TV Play.</p>
                 </div>
             </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://app.viloud.tv/watch/video/f75e237bc0207badc2fecad460e30cb9" title="Noticiero de Ecuador TV" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Noticiero de Ecuador TV</h3>
-                    <p>Noticiero de Ecuador TV 27 de agosto de 2025.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://app.viloud.tv/watch/video/5d804afd7690880df7c104d12e735c18" title="Reporte Especial" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Reporte Especial</h3>
-                    <p>Un análisis profundo de los eventos más relevantes del momento, con entrevistas y reportajes exclusivos.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://app.viloud.tv/watch/video/1affeb5405341f96743005dd2d1b3174" title="Noticiero DW" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Noticiero DW</h3>
-                    <p>DW Noticias 27 de agosto 2025.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://app.viloud.tv/watch/video/99f1f1826ad6b2598be8da4a80202b2f" title="Telediario" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Telediario</h3>
-                    <p>Noticias 27 de agosto 2025.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://app.viloud.tv/watch/video/555265dbcfc35802b9183246e425b1d2" title="Especial: Cultura Ecuatoriana" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Especial: Cultura Ecuatoriana</h3>
-                    <p>Un recorrido por las tradiciones, gastronomía y arte que definen la riqueza cultural de Ecuador.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://app.viloud.tv/watch/video/6f2793f43bdeadfa7c6923474ca4ec61" title="Especial: Innovación en Ecuador" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Especial: Innovación en Ecuador</h3>
-                    <p>Descubre los avances tecnológicos y proyectos innovadores que están transformando el futuro de Ecuador.</p>
-                </div>
+           
             </div>
         </div>
     </section>

@@ -400,7 +400,7 @@
             <div class="card-content">
                 <h3>Puntos Digitales Gratuitos PDG 9 de Octubre y El Astillero</h3>
                 <p>Se inauguran puntos digitales gratuitos en 9 de Octubre y El Astillero, mejorando el acceso a internet y la conectividad en estas comunidades.</p>
-                <a href="https://mileniumtvi.com/puntos-digitales-gratuitos-pdg-9-de-octubre-y-el-astillero" target="_blank" rel="noopener noreferrer">Leer más</a>
+                <a href="https://mileniumtvi.com/puntos-digitales-gratuitos-pdg-9-de-octubre-y-el-astiller" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
         <div class="card">

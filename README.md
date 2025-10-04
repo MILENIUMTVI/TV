@@ -651,146 +651,236 @@
     </div>
 </section>
 ```
-    <!-- Noticias Locales -->
-    <section id="locales" class="section">
-        <h2>Noticias Locales</h2>
-        <div class="grid">
-            <div class="card">
-                <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Reconocimiento al Alcalde de Latinoamérica">
-                </a>
-                <div class="card-content">
-                    <h3>El Alcalde de Latinoamérica</h3>
-                    <p>Un reconocimiento al liderazgo regional en la gestión municipal, destacando iniciativas que transforman comunidades en América Latina.</p>
-                    <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Cacao ecuatoriano destacando en Salón del Chocolate de París">
-                </a>
-                <div class="card-content">
-                    <h3>El cacao ecuatoriano brilla en el Salón del Chocolate de París</h3>
-                    <p>El cacao ecuatoriano destacó en el Salón del Chocolate de París, recibiendo reconocimientos por su calidad y sostenibilidad, consolidando a Ecuador como líder en el mercado global.</p>
-                    <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cumbe contribuyendo a ordenanza de lote mínimo">
-                <div class="card-content">
-                    <h3>Cumbe aportó a la construcción participativa del lote mínimo</h3>
-                    <p>Cumbe contribuye a la construcción participativa de la ordenanza del lote mínimo, promoviendo el desarrollo urbano sostenible.</p>
-                    <a href="https://mileniumtvi.com/cumbe-aporto-a-la-construccion-participativa-del-lote-minimo" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca reconocida como ciudad más segura de Sudamérica por Numbeo">
-                <div class="card-content">
-                    <h3>Cuenca, ciudad más segura de Sudamérica según Numbeo</h3>
-                    <p>Cuenca ha sido reconocida como la ciudad más segura de Sudamérica por el índice Numbeo, destacando por sus bajos índices de criminalidad y la calidad de vida que ofrece a sus habitantes.</p>
-                    <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana incorporándose a ordenanza de lote mínimo">
-                <div class="card-content">
-                    <h3>Santa Ana se suma a la construcción de la ordenanza del lote mínimo</h3>
-                    <p>La parroquia Santa Ana se incorpora al proceso de elaboración de la ordenanza sobre el lote mínimo, promoviendo el desarrollo urbano sostenible y regulando el uso del suelo en la región.</p>
-                    <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
-                <div class="card-content">
-                    <h3>Entrega de beneficios a las juntas de agua potable y riego de Pichincha</h3>
-                    <p>Se realiza la entrega de beneficios a las juntas de agua potable y riego en Pichincha, mejorando el acceso al agua y apoyando la agricultura local mediante recursos y asistencia técnica.</p>
-                    <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Implementación de sistemas de agua y alcantarillado en Baba">
-                <div class="card-content">
-                    <h3>Sistemas de Agua Potable y Alcantarillado para Baba</h3>
-                    <p>Se implementan nuevos sistemas de agua potable y alcantarillado pluvial en Baba para mejorar la calidad de vida y la infraestructura local.</p>
-                    <a href="https://mileniumtvi.com/sistemas-de-agua-potable-y-alcantarillado-pluvial-para-baba" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads//screen_shot_2025-07-30_at_10.09.33_am.png" alt="3er Festival de la Fritada en Sidcay con gastronomía y actividades">
-                <div class="card-content">
-                    <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
-                    <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>
-                    <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Convocatoria para certamen Reina de Cuenca 2025-2026">
-                <div class="card-content">
-                    <h3>Certamen Reina de Cuenca</h3>
-                    <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>
-                    <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <img loading="lazy" src="https://img.youtube.com/vi/-a8ElTs6Pds/hqdefault.jpg" alt="Suspensión temporal de trabajos de bacheo en Cuenca">
-                <div class="card-content">
-                    <h3>Noticia Local</h3>
-                    <p>La Dirección de Obras Públicas de Cuenca suspende temporalmente trabajos de bacheo y asfaltado por falta de materiales de la Refinería de Esmeraldas.</p>
-                    <a href="https://www.youtube.com/embed/-a8ElTs6Pds" target="_blank" rel="noopener noreferrer">Ver video</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025 en Cuenca con experiencia cultural">
-                </a>
-                <div class="card-content">
-                    <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
-                    <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
-                    <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Banda tributo a Bon Jovi llegando a Cuenca">
-                </a>
-                <div class="card-content">
-                    <h3>Banda Tributo a Bon Jovi en Cuenca</h3>
-                    <p>La banda británica oficial de tributo a Bon Jovi llega por primera vez a Cuenca, ofreciendo un espectáculo inolvidable con los grandes éxitos de la legendaria banda de rock.</p>
-                    <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presentación de línea de camiones Hyundai Mighty EX en Cuenca">
-                </a>
-                <div class="card-content">
-                    <h3>Hyundai Mighty EX en Cuenca</h3>
-                    <p>Hyundai presentó su renovada línea de camiones Mighty EX en Cuenca, destacando modelos como EX6, EX6 GT, EX8 y EX10 con potencia y diseño renovado.</p>
-                    <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras olvidadas por Municipalidad generando preocupación">
-                </a>
-                <div class="card-content">
-                    <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
-                    <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
-                    <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" rel="noopener noreferrer">
-                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Guangarcucho como obra más grande de ETAPA">
-                </a>
-                <div class="card-content">
-                    <h3>Guangarcucho, la obra más grande de ETAPA</h3>
-                    <p>Guangarcucho se consolida como la obra más grande y de mayor inversión tecnológica en la historia de ETAPA, transformando la infraestructura de servicios.</p>
-                    <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
+   <!-- Noticias Locales -->
+<section id="locales" class="section">
+    <h2>Noticias Locales</h2>
+    <div class="grid">
+        <div class="card">
+            <a href="https://youtu.be/9PsSY5SA9V4?si=03FcQynC4hqAFZ1f" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/9PsSY5SA9V4/hqdefault.jpg" alt="Noticia Local 1">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/9PsSY5SA9V4?si=03FcQynC4hqAFZ1f" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
         </div>
-    </section>
+        <div class="card">
+            <a href="https://youtu.be/Guk-_LJJTEU?si=kxYj9qfsoKKEcvUw" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/Guk-_LJJTEU/hqdefault.jpg" alt="Noticia Local 2">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/Guk-_LJJTEU?si=kxYj9qfsoKKEcvUw" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/QJxopt6Xc5E?si=1Ot-KUKEb3eC2h1R" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/QJxopt6Xc5E/hqdefault.jpg" alt="Noticia Local 3">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/QJxopt6Xc5E?si=1Ot-KUKEb3eC2h1R" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/fkma9cZBj1g?si=BLtj8Zqf3hNTEJQU" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/fkma9cZBj1g/hqdefault.jpg" alt="Noticia Local 4">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/fkma9cZBj1g?si=BLtj8Zqf3hNTEJQU" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/gpW-OMfAoYI?si=xZaJ3yW3VDlHaG-W" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/gpW-OMfAoYI/hqdefault.jpg" alt="Noticia Local 5">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/gpW-OMfAoYI?si=xZaJ3yW3VDlHaG-W" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/ZzBVgyFuWM8?si=e6tUJZAme5fSKy7A" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/ZzBVgyFuWM8/hqdefault.jpg" alt="Noticia Local 6">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/ZzBVgyFuWM8?si=e6tUJZAme5fSKy7A" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/fw3rIuhASac?si=1AYrmPsP6mIG_W_b" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/fw3rIuhASac/hqdefault.jpg" alt="Noticia Local 7">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/fw3rIuhASac?si=1AYrmPsP6mIG_W_b" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/UXqluCrkDt0?si=c1CGc5NRxIh4lJ7d" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/UXqluCrkDt0/hqdefault.jpg" alt="Noticia Local 8">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/UXqluCrkDt0?si=c1CGc5NRxIh4lJ7d" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/3n5YdEeS8Yc?si=KBE2zeyY76XoWwk2" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/3n5YdEeS8Yc/hqdefault.jpg" alt="Noticia Local 9">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
+                <a href="https://youtu.be/3n5YdEeS8Yc?si=KBE2zeyY76XoWwk2" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Reconocimiento al Alcalde de Latinoamérica">
+            </a>
+            <div class="card-content">
+                <h3>El Alcalde de Latinoamérica</h3>
+                <p>Un reconocimiento al liderazgo regional en la gestión municipal, destacando iniciativas que transforman comunidades en América Latina.</p>
+                <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Cacao ecuatoriano destacando en Salón del Chocolate de París">
+            </a>
+            <div class="card-content">
+                <h3>El cacao ecuatoriano brilla en el Salón del Chocolate de París</h3>
+                <p>El cacao ecuatoriano destacó en el Salón del Chocolate de París, recibiendo reconocimientos por su calidad y sostenibilidad, consolidando a Ecuador como líder en el mercado global.</p>
+                <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cumbe contribuyendo a ordenanza de lote mínimo">
+            <div class="card-content">
+                <h3>Cumbe aportó a la construcción participativa del lote mínimo</h3>
+                <p>Cumbe contribuye a la construcción participativa de la ordenanza del lote mínimo, promoviendo el desarrollo urbano sostenible.</p>
+                <a href="https://mileniumtvi.com/cumbe-aporto-a-la-construccion-participativa-del-lote-minimo" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca reconocida como ciudad más segura de Sudamérica por Numbeo">
+            <div class="card-content">
+                <h3>Cuenca, ciudad más segura de Sudamérica según Numbeo</h3>
+                <p>Cuenca ha sido reconocida como la ciudad más segura de Sudamérica por el índice Numbeo, destacando por sus bajos índices de criminalidad y la calidad de vida que ofrece a sus habitantes.</p>
+                <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana incorporándose a ordenanza de lote mínimo">
+            <div class="card-content">
+                <h3>Santa Ana se suma a la construcción de la ordenanza del lote mínimo</h3>
+                <p>La parroquia Santa Ana se incorpora al proceso de elaboración de la ordenanza sobre el lote mínimo, promoviendo el desarrollo urbano sostenible y regulando el uso del suelo en la región.</p>
+                <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
+            <div class="card-content">
+                <h3>Entrega de beneficios a las juntas de agua potable y riego de Pichincha</h3>
+                <p>Se realiza la entrega de beneficios a las juntas de agua potable y riego en Pichincha, mejorando el acceso al agua y apoyando la agricultura local mediante recursos y asistencia técnica.</p>
+                <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Implementación de sistemas de agua y alcantarillado en Baba">
+            <div class="card-content">
+                <h3>Sistemas de Agua Potable y Alcantarillado para Baba</h3>
+                <p>Se implementan nuevos sistemas de agua potable y alcantarillado pluvial en Baba para mejorar la calidad de vida y la infraestructura local.</p>
+                <a href="https://mileniumtvi.com/sistemas-de-agua-potable-y-alcantarillado-pluvial-para-baba" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads//screen_shot_2025-07-30_at_10.09.33_am.png" alt="3er Festival de la Fritada en Sidcay con gastronomía y actividades">
+            <div class="card-content">
+                <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
+                <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>
+                <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Convocatoria para certamen Reina de Cuenca 2025-2026">
+            <div class="card-content">
+                <h3>Certamen Reina de Cuenca</h3>
+                <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>
+                <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <img loading="lazy" src="https://img.youtube.com/vi/-a8ElTs6Pds/hqdefault.jpg" alt="Suspensión temporal de trabajos de bacheo en Cuenca">
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>La Dirección de Obras Públicas de Cuenca suspende temporalmente trabajos de bacheo y asfaltado por falta de materiales de la Refinería de Esmeraldas.</p>
+                <a href="https://www.youtube.com/embed/-a8ElTs6Pds" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025 en Cuenca con experiencia cultural">
+            </a>
+            <div class="card-content">
+                <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
+                <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
+                <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Banda tributo a Bon Jovi llegando a Cuenca">
+            </a>
+            <div class="card-content">
+                <h3>Banda Tributo a Bon Jovi en Cuenca</h3>
+                <p>La banda británica oficial de tributo a Bon Jovi llega por primera vez a Cuenca, ofreciendo un espectáculo inolvidable con los grandes éxitos de la legendaria banda de rock.</p>
+                <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presentación de línea de camiones Hyundai Mighty EX en Cuenca">
+            </a>
+            <div class="card-content">
+                <h3>Hyundai Mighty EX en Cuenca</h3>
+                <p>Hyundai presentó su renovada línea de camiones Mighty EX en Cuenca, destacando modelos como EX6, EX6 GT, EX8 y EX10 con potencia y diseño renovado.</p>
+                <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad" rel="noopener noreferrer">
+                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras olvidadas por Municipalidad generando preocupación">
+            </a>
+            <div class="card-content">
+                <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
+                <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
+                <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Guangarcucho como obra más grande de ETAPA">
+            </a>
+            <div class="card-content">
+                <h3>Guangarcucho, la obra más grande de ETAPA</h3>
+                <p>Guangarcucho se consolida como la obra más grande y de mayor inversión tecnológica en la historia de ETAPA, transformando la infraestructura de servicios.</p>
+                <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 
     <!-- Noticia en Imágenes -->

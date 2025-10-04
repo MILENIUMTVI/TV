@@ -398,6 +398,41 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>Puntos Digitales Gratuitos PDG 9 de Octubre y El Astillero</h3>
+                <p>Se inauguran puntos digitales gratuitos en 9 de Octubre y El Astillero, mejorando el acceso a internet y la conectividad en estas comunidades.</p>
+                <a href="https://mileniumtvi.com/puntos-digitales-gratuitos-pdg-9-de-octubre-y-el-astillero" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>La vicepresidenta María José Pinto supervisa servicios a la primera infancia y de salud en Cayambe</h3>
+                <p>La vicepresidenta María José Pinto supervisa programas de atención a la primera infancia y servicios de salud en Cayambe, garantizando su calidad y acceso.</p>
+                <a href="https://mileniumtvi.com/la-vicepresidenta-maria-jose-pinto-supervisa-servicios-a-la-primera-infancia-y-de-salud-en-cayambe" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>El fraude digital se dispara: reseñas falsas y bots ponen en jaque al e-commerce global</h3>
+                <p>El aumento de reseñas falsas y bots representa un desafío para el comercio electrónico global, afectando la confianza de los consumidores.</p>
+                <a href="https://mileniumtvi.com/el-fraude-digital-se-dispara-resenas-falsas-y-bots-ponen-en-jaque-al-e-commerce-global" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Gobierno intensifica operativos para garantizar abastecimiento y evitar especulación de combustibles y gas en todo el país</h3>
+                <p>El gobierno intensifica operativos para asegurar el abastecimiento de combustibles y gas, combatiendo la especulación en todo el territorio nacional.</p>
+                <a href="https://mileniumtvi.com/gobierno-intensifica-operativos-para-garantizar-abastecimiento-y-evitar-especulacion-de-combustibles-y-gas-en-todo-el-pais" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>CONADIS y Ministerio del Trabajo establecen el nuevo perfil para certificar a intérpretes en lengua de señas ecuatoriana</h3>
+                <p>CONADIS y el Ministerio del Trabajo definen un nuevo perfil para certificar intérpretes en lengua de señas, promoviendo la inclusión de personas con discapacidad auditiva.</p>
+                <a href="https://mileniumtvi.com/conadis-y-ministerio-del-trabajo-establecen-el-nuevo-perfil-para-certificar-a-interpretes-en-lengua-de-senas-ecuatoriana-conadis-y-ministerio-del-trabajo-establecen-el-nuevo-perfil-para-certificar-a-interpretes-en-lengua-de-senas-ecuatoriana" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>María José Pinto fortalece apoyo a la niñez y juventud en situación de riesgo en Ibarra</h3>
                 <p>La vicepresidenta María José Pinto impulsa iniciativas para proteger y apoyar a la niñez y juventud en situación de riesgo en Ibarra, promoviendo su bienestar y desarrollo.</p>
                 <a href="https://mileniumtvi.com/maria-jose-pinto-fortalece-apoyo-a-la-ninez-y-juventud-en-situacion-de-riesgo-en-ibarra" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -611,62 +646,6 @@
                 <h3>Compra masiva y transparente de medicamentos</h3>
                 <p>El Comité Nacional de Salud Pública anunció la compra masiva y transparente de medicamentos en su primera sesión ordinaria, garantizando acceso a la salud.</p>
                 <a href="https://mileniumtvi.com/comite-nacional-de-salud-publica-anuncio-la-compra-masiva-y-transparente-de-medicamentos-en-su-primera-sesion-ordinaria" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos</h3>
-                <p>El gobierno de Daniel Noboa inaugura tres puntos digitales gratuitos en Galápagos, mejorando el acceso a internet y la conectividad en las islas.</p>
-                <a href="https://mileniumtvi.com/gobierno-de-daniel-noboa-inaugura-tres-puntos-digitales-gratuitos-en-galapagos-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>CNT lleva Starlink a Galápagos</h3>
-                <p>La CNT implementa el Community Gateway de Starlink en Galápagos, ofreciendo velocidades similares a la fibra óptica desde el espacio.</p>
-                <a href="https://mileniumtvi.com/la-cnt-lleva-el-community-gateway-de-starlink-para-ofrecer-velocidades-similares-a-las-de-fibra-optica-desde-el-espacio-a-las-islas-galapagos-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Ecuador lanza 10 mil becas de Inteligencia Artificial</h3>
-                <p>Ecuador lanza 10 mil becas de Inteligencia Artificial gracias a la cooperación con Emiratos Árabes Unidos, impulsando la formación tecnológica.</p>
-                <a href="https://mileniumtvi.com/ecuador-lanza-10-mil-becas-de-inteligencia-artificial-gracias-a-la-cooperacion-con-emiratos-arabes-unidos" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Mi Tienda del Nuevo Ecuador</h3>
-                <p>El programa "Mi Tienda del Nuevo Ecuador" impulsa el emprendimiento y el comercio local, apoyando a pequeños negocios con recursos y capacitación para su crecimiento.</p>
-                <a href="https://mileniumtvi.com/mi-tienda-del-nuevo-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>600 Mujeres Recibirán Becas Educativas</h3>
-                <p>El gobierno ecuatoriano otorgará becas educativas a 600 mujeres, promoviendo la igualdad de género y el acceso a la educación para fortalecer su desarrollo profesional.</p>
-                <a href="https://mileniumtvi.com/600-mujeres-recibiran-becas-educativas" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>En Montevideo, los Presidentes de Ecuador y Uruguay Fortalecen Cooperación en Materia de Seguridad</h3>
-                <p>En Montevideo, los presidentes de Ecuador y Uruguay firman acuerdos para fortalecer la cooperación en seguridad, enfocándose en la lucha contra el crimen organizado y el narcotráfico.</p>
-                <a href="https://mileniumtvi.com/en-montevideo-los-presidentes-de-ecuador-y-uruguay-fortalecen-cooperacion-en-materia-de-seguridad-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>El Presidente Daniel Noboa Inició su Agenda Oficial en Argentina con Encuentros con Empresarios</h3>
-                <p>El presidente Daniel Noboa comenzó su visita oficial en Argentina con reuniones clave con empresarios, buscando atraer inversiones y fortalecer lazos comerciales.</p>
-                <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-inicio-su-agenda-oficial-en-argentina-con-encuentros-con-empresarios" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>El presidente Noboa dio inicio a obras viales en la carretera E487</h3>
-                <p>El presidente Daniel Noboa dio inicio a las obras viales en la carretera E487, un proyecto clave para mejorar la conectividad y el desarrollo económico en las regiones afectadas.</p>
-                <a href="https://mileniumtvi.com/el-presidente-noboa-dio-inicio-a-obras-viales-en-la-carretera-e487" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
     </div>

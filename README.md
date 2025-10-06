@@ -398,9 +398,30 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>Ecuador amplía la Reserva de Biosfera Galápagos con la inclusión de la Reserva Marina Hermandad</h3>
+                <p>Ecuador amplía la Reserva de Biosfera Galápagos al incorporar la Reserva Marina Hermandad, fortaleciendo la conservación de este ecosistema único.</p>
+                <a href="https://mileniumtvi.com/ecuador-amplia-la-reserva-de-biosfera-galapagos-con-la-inclusion-de-la-reserva-marina-hermandad" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>En Cuenca, el concierto Funky Night</h3>
+                <p>Cuenca vibró con el concierto Funky Night, un evento que reunió a amantes de la música en una noche llena de ritmo y energía.</p>
+                <a href="https://mileniumtvi.com/en-cuenca-el-concierto-funky-night" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>El Gobierno Nacional celebra la Independencia de Guayaquil con más oportunidades digitales para sus ciudadanos</h3>
+                <p>El Gobierno Nacional conmemora la Independencia de Guayaquil impulsando oportunidades digitales para mejorar la conectividad y el acceso a la tecnología.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-nacional-celebra-la-independencia-de-guayaquil-con-mas-oportunidades-digitales-para-sus-ciudadanos" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>Puntos Digitales Gratuitos PDG 9 de Octubre y El Astillero</h3>
                 <p>Se inauguran puntos digitales gratuitos en 9 de Octubre y El Astillero, mejorando el acceso a internet y la conectividad en estas comunidades.</p>
-                <a href="https://mileniumtvi.com/puntos-digitales-gratuitos-pdg-9-de-octubre-y-el-astiller" target="_blank" rel="noopener noreferrer">Leer más</a>
+                <a href="https://mileniumtvi.com/puntos-digitales-gratuitos-pdg-9-de-octubre-y-el-astillero" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
         <div class="card">
@@ -599,62 +620,54 @@
                 <a href="https://mileniumtvi.com/el-alcalde-de-cuenca-abordo-temas-de-trascendental-importancia-para-la-ciudad" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana</h3>
-                <p>En Tokio, el presidente Noboa destacó el esfuerzo y la integración de la comunidad ecuatoriana.</p>
-                <a href="https://mileniumtvi.com/en-tokio-el-presidente-noboa-destaco-el-esfuerzo-y-la-integracion-de-la-comunidad-ecuatoriana" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión</h3>
-                <p>El presidente Noboa lideró el Seminario de Promoción de Ecuador en Japón: se fortalecen lazos comerciales y de inversión.</p>
-                <a href="https://mileniumtvi.com/el-presidente-noboa-lidero-el-seminario-de-promocion-de-ecuador-en-japon-se-fortalecen-lazos-comerciales-y-de-inversion" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral</h3>
-                <p>Los presidentes Daniel Noboa y Javier Milei coinciden en combatir la inseguridad y la corrupción durante reunión bilateral.</p>
-                <a href="https://mileniumtvi.com/los-presidentes-daniel-noboa-y-javier-milei-coinciden-en-combatir-la-inseguridad-y-la-corrupcion-durante-reunion-bilateral" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina</h3>
-                <p>La cooperación en seguridad y la integración comercial son los resultados de la gira oficial del presidente Noboa a Brasil, Uruguay y Argentina.</p>
-                <a href="https://mileniumtvi.com/la-cooperacion-en-seguridad-y-la-integracion-comercial-son-los-resultados-de-la-gira-oficial-del-presidente-noboa-a-brasil-uruguay-y-argentina" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial</h3>
-                <p>El sector empresarial japonés y el presidente Noboa coinciden en la necesidad de acelerar la firma de un acuerdo comercial.</p>
-                <a href="https://mileniumtvi.com/el-sector-empresarial-japones-y-el-presidente-noboa-coinciden-en-la-necesidad-de-acelerar-la-firma-de-un-acuerdo-comercial" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Cancelan partido de Copa Sudamericana por graves incidentes</h3>
-                <p>Un partido de la Copa Sudamericana fue cancelado debido a graves incidentes, priorizando la seguridad de los asistentes.</p>
-                <a href="https://mileniumtvi.com/cancelan-partido-de-copa-sudamericana-por-graves-incidentes" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Compra masiva y transparente de medicamentos</h3>
-                <p>El Comité Nacional de Salud Pública anunció la compra masiva y transparente de medicamentos en su primera sesión ordinaria, garantizando acceso a la salud.</p>
-                <a href="https://mileniumtvi.com/comite-nacional-de-salud-publica-anuncio-la-compra-masiva-y-transparente-de-medicamentos-en-su-primera-sesion-ordinaria" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
+</section>
 ```
-   <!-- Noticias Locales -->
+<!-- Noticias Locales -->
 <section id="locales" class="section">
     <h2>Noticias Locales</h2>
     <div class="grid">
+        <div class="card">
+            <a href="https://youtu.be/jlHFdHg4wfQ" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/jlHFdHg4wfQ/hqdefault.jpg" alt="Carolina Jaramillo sobre revocatoria de licencia ambiental">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Carolina Jaramillo, Portavoz de Carondelet señala que el proceso de revocatoria de la licencia ambiental del proyecto Loma Larga de #Quimsacocha se basa en los informes técnicos presentados por el Alcalde de Cuenca y el Prefecto del Azuay, tienen gran responsabilidad y son ellos quienes tiene que dar respuesta a los ciudadanos cuencanos.</p>
+                <a href="https://youtu.be/jlHFdHg4wfQ" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/cj6L7FsZrq0" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/cj6L7FsZrq0/hqdefault.jpg" alt="Yaku Pérez pide cancelación de concesiones mineras">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>El ex candidato presidencial y activista político Yaku Pérez ahora pide la cancelación de las 3 concesiones mineras, pues considera que la revocatoria de la licencia ambiental del proyecto Loma Larga ya no es suficiente.</p>
+                <a href="https://youtu.be/cj6L7FsZrq0" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/_KcbM4rOls4" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/_KcbM4rOls4/hqdefault.jpg" alt="Verónica Polo sobre informes técnicos de ETAPA">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Verónica Polo, Gerente de ETPA-EP, considera que los informes técnicos de ETAPA fueron fundamentales para la revocatoria de la licencia ambiental del proyecto minero Loma Larga en #Quimsacocha.</p>
+                <a href="https://youtu.be/_KcbM4rOls4" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/VZKHW-K0898" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/VZKHW-K0898/hqdefault.jpg" alt="Alcalde Zamora sobre reversión de licencia">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>El Alcalde Zamora presentó los informes pero saca el cuerpo y no quiere responsabilizarse de la Reversión de Licencia del proyecto Loma Larga en #Quimsacocha.</p>
+                <a href="https://youtu.be/VZKHW-K0898" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
         <div class="card">
             <a href="https://youtu.be/9PsSY5SA9V4?si=03FcQynC4hqAFZ1f" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/9PsSY5SA9V4/hqdefault.jpg" alt="Noticia Local 1">
@@ -827,56 +840,6 @@
                 <h3>Noticia Local</h3>
                 <p>La Dirección de Obras Públicas de Cuenca suspende temporalmente trabajos de bacheo y asfaltado por falta de materiales de la Refinería de Esmeraldas.</p>
                 <a href="https://www.youtube.com/embed/-a8ElTs6Pds" target="_blank" rel="noopener noreferrer">Ver video</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025" rel="noopener noreferrer">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Festival Raíces 2025 en Cuenca con experiencia cultural">
-            </a>
-            <div class="card-content">
-                <h3>Cuenca Inspira los Sentidos en el Festival Raíces 2025</h3>
-                <p>El Festival Raíces 2025 en Cuenca promete una experiencia cultural única, con gastronomía, música, arte y tradiciones que celebran la riqueza cultural de la región.</p>
-                <a href="https://mileniumtvi.com/cuenca-inspira-los-sentidos-en-el-festival-raices-2025" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca" rel="noopener noreferrer">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Banda tributo a Bon Jovi llegando a Cuenca">
-            </a>
-            <div class="card-content">
-                <h3>Banda Tributo a Bon Jovi en Cuenca</h3>
-                <p>La banda británica oficial de tributo a Bon Jovi llega por primera vez a Cuenca, ofreciendo un espectáculo inolvidable con los grandes éxitos de la legendaria banda de rock.</p>
-                <a href="https://mileniumtvi.com/la-banda-britanica-oficial-de-tributo-a-bon-jovi-llega-por-primera-vez-a-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado" rel="noopener noreferrer">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Presentación de línea de camiones Hyundai Mighty EX en Cuenca">
-            </a>
-            <div class="card-content">
-                <h3>Hyundai Mighty EX en Cuenca</h3>
-                <p>Hyundai presentó su renovada línea de camiones Mighty EX en Cuenca, destacando modelos como EX6, EX6 GT, EX8 y EX10 con potencia y diseño renovado.</p>
-                <a href="https://mileniumtvi.com/hyundai-presenta-en-cuenca-su-nueva-linea-de-camiones-mighty-e-potencia-eficiencia-y-diseno-renovado-para-el-trabajo-pesado" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad" rel="noopener noreferrer">
-                <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Obras-municipalidad-olvidadas.jpg" alt="Obras olvidadas por Municipalidad generando preocupación">
-            </a>
-            <div class="card-content">
-                <h3>Obras comprometidas por la Municipalidad son olvidadas</h3>
-                <p>Proyectos prometidos por la Municipalidad no se han ejecutado, generando preocupación en la ciudadanía.</p>
-                <a href="https://mileniumtvi.com/obras-comprometidas-son-olvidadas-por-la-municipalidad" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" rel="noopener noreferrer">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Guangarcucho como obra más grande de ETAPA">
-            </a>
-            <div class="card-content">
-                <h3>Guangarcucho, la obra más grande de ETAPA</h3>
-                <p>Guangarcucho se consolida como la obra más grande y de mayor inversión tecnológica en la historia de ETAPA, transformando la infraestructura de servicios.</p>
-                <a href="https://mileniumtvi.com/guangarcucho-es-la-obra-mas-grande-y-de-mayor-inversion-tecnologica-en-la-historia-de-etapa" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
     </div>

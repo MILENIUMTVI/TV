@@ -396,10 +396,18 @@
     </div>
 </section>
   ```html
+  
 <!-- Noticias -->
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
+        <div class="card">
+            <div class="card-content">
+                <h3>El Gobierno del presidente Daniel Noboa implementa la tecnología 5G, impulsando la transformación digital del Ecuador</h3>
+                <p>El Gobierno del presidente Daniel Noboa implementa la tecnología 5G, impulsando la transformación digital del Ecuador, mejorando la conectividad y fomentando la innovación en el país.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-del-presidente-daniel-noboa-implementa-la-tecnologia-5g-impulsando-la-transformacion-digital-del-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
         <div class="card">
             <div class="card-content">
                 <h3>El Gobierno del nuevo Ecuador certificó a 300 jóvenes de Calacalí en el manejo de herramientas tecnológicas y redes sociales</h3>
@@ -617,14 +625,8 @@
                 <a href="https://mileniumtvi.com/ecuador-y-japon-refuerzan-la-cooperacion-en-energia-comercio-seguridad-y-gestion-de-riesgos-" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La digitalización llega a Zapotal</h3>
-                <p>La digitalización llega a Zapotal.</p>
-                <a href="https://mileniumtvi.com/la-digitalizacion-llega-a-zapotal" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
+</section>
 </section>
 </section>
 </section>

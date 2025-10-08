@@ -369,28 +369,32 @@
     </section>
 
     <!-- TV Play -->
-    <section id="tvplay" class="section">
-        <h2>TV Play</h2>
-        <div class="grid">
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Programa Estelar</h3>
-                    <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Serie Exclusiva</h3>
-                    <p>Una serie que no te puedes perder, disponible en TV Play.</p>
-                </div>
-            </div>
-           
+<section id="tvplay" class="section">
+    <h2>TV Play</h2>
+    <div class="grid">
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/iaSi9DRFx9c?si=noTdteZj20HH5UJV" title="Funky Night con Da Grove Jazz Music Project" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Funky Night con Da Grove Jazz Music Project</h3>
+                <p>Alicia Boroto Directora del Centro Abraham Lincoln y Verónica Coello Directora Cultural del CEN invitan al Evento Gratuito FUNKY NIGHT CON DA GROVE JAZZ MUSIC PROJECT que será el jueves 16 de octubre desde las 19h30 en el Auditorio del Centro Abraham Lincoln en Borrero y Honorato Vázquez</p>
             </div>
         </div>
-    </section>
-
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Programa Estelar</h3>
+                <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Serie Exclusiva</h3>
+                <p>Una serie que no te puedes perder, disponible en TV Play.</p>
+            </div>
+        </div>
+    </div>
+</section>
   ```html
 <!-- Noticias -->
 <section id="news" class="section">

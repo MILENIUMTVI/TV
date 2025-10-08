@@ -402,6 +402,13 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>El Gobierno del nuevo Ecuador certificó a 300 jóvenes de Calacalí en el manejo de herramientas tecnológicas y redes sociales</h3>
+                <p>El Gobierno del nuevo Ecuador certificó a 300 jóvenes de Calacalí en el manejo de herramientas tecnológicas y redes sociales, impulsando sus habilidades digitales para el futuro.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-del-nuevo-ecuador-certifico-a-300-jovenes-de-calacali-en-el-manejo-de-herramientas-tecnologicas-y-redes-sociales" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>Ecuador amplía la Reserva de Biosfera Galápagos con la inclusión de la Reserva Marina Hermandad</h3>
                 <p>Ecuador amplía la Reserva de Biosfera Galápagos al incorporar la Reserva Marina Hermandad, fortaleciendo la conservación de este ecosistema único.</p>
                 <a href="https://mileniumtvi.com/ecuador-amplia-la-reserva-de-biosfera-galapagos-con-la-inclusion-de-la-reserva-marina-hermandad" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -617,14 +624,8 @@
                 <a href="https://mileniumtvi.com/la-digitalizacion-llega-a-zapotal" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad</h3>
-                <p>El alcalde de Cuenca abordó temas de trascendental importancia para la ciudad.</p>
-                <a href="https://mileniumtvi.com/el-alcalde-de-cuenca-abordo-temas-de-trascendental-importancia-para-la-ciudad" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
+</section>
 </section>
 </section>
 ```

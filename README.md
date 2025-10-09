@@ -362,12 +362,89 @@
     </style>
 </head>
 <body>
+   <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transmisiones en Vivo</title>
+    <!-- Estilos de Video.js -->
+    <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+    <!-- Estilos personalizados para responsividad -->
+    <style>
+        .section.live-stream {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .entrevistas-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            max-width: 800px; /* Limita el ancho máximo en pantallas grandes */
+            margin: 0 auto;
+            overflow: hidden; /* Evita desbordamientos */
+        }
+
+        /* Asegurar que el video mantenga la relación de aspecto y se ajuste al contenedor */
+        .video-wrapper .vjs-tech {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 16 / 9;
+            object-fit: contain; /* Evita recortes o distorsiones */
+        }
+
+        /* Ajustar el contenedor de Video.js para ser responsivo */
+        .video-js {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 16 / 9;
+        }
+
+        /* Estilos para el texto descriptivo */
+        .entrevistas-container p {
+            text-align: center;
+            font-size: 1rem;
+            margin: 10px 0;
+            color: #333;
+        }
+
+        /* Ajustes para pantallas pequeñas */
+        @media screen and (max-width: 600px) {
+            .section.live-stream {
+                padding: 10px;
+            }
+
+            .video-wrapper {
+                max-width: 100%;
+            }
+
+            .entrevistas-container p {
+                font-size: 0.9rem;
+            }
+
+            /* Forzar que el video sea completamente visible en móviles */
+            .video-js, .video-wrapper .vjs-tech {
+                width: 100% !important;
+                height: auto !important;
+                max-height: 50vh; /* Limita la altura máxima para evitar desbordes */
+            }
+        }
+    </style>
+</head>
+<body>
     <!-- Transmisiones en Vivo -->
     <section id="live" class="section live-stream">
         <h2>Transmisiones en Vivo</h2>
         <div class="entrevistas-container">
             <div class="video-wrapper">
-                <video id="live-stream-player-1" class="video-js vjs-default-skin" controls preload="auto" data-setup='{}'>
+                <video id="live-stream-player-1" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
                     <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -376,7 +453,7 @@
             </div>
             <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
             <div class="video-wrapper">
-                <video id="live-stream-player-2" class="video-js vjs-default-skin" controls preload="auto" data-setup='{}'>
+                <video id="live-stream-player-2" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
                     <source src="https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -385,7 +462,7 @@
             </div>
             <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
             <div class="video-wrapper">
-                <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="auto" data-setup='{}'>
+                <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
                     <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -394,7 +471,7 @@
             </div>
             <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
             <div class="video-wrapper">
-                <video id="live-stream-player-4" class="video-js vjs-default-skin" controls preload="auto" data-setup='{}'>
+                <video id="live-stream-player-4" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
                     <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
                     <p class="vjs-no-js">
                         Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
@@ -407,30 +484,32 @@
 
     <!-- Incluir el script de Video.js -->
     <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+    <!-- Inicialización manual de Video.js para mayor control -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Inicializar cada reproductor de video
+            const players = [
+                'live-stream-player-1',
+                'live-stream-player-2',
+                'live-stream-player-3',
+                'live-stream-player-4'
+            ];
+
+            players.forEach(playerId => {
+                videojs(playerId, {
+                    fluid: true,
+                    responsive: true,
+                    aspectRatio: '16:9',
+                    playbackRates: [0.5, 1, 1.5, 2], // Opcional: agregar opciones de velocidad
+                    controlBar: {
+                        volumePanel: { inline: false } // Ajustar controles para móviles
+                    }
+                });
+            });
+        });
+    </script>
 </body>
 </html>
-    <!-- Entrevistas -->
-    <section id="entrevistas" class="section live-stream">
-        <h2>Entrevistas</h2>
-        <div class="entrevistas-container">
-            <div class="video-wrapper">
-                <iframe loading="lazy" src="https://www.youtube.com/embed/XgmQAEQdTFI" title="Análisis de la Situación de las Instituciones Financieras" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <p>Un análisis de la Situación de las Instituciones financieras del país con el analista: Ing. Hernán Bravo</p>
-            <div class="video-wrapper">
-                <iframe loading="lazy" src="https://www.youtube.com/embed/t6AcnjKj4xo" title="Suspensión de operaciones de la Cooperativa CREA Ltda." frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <p>La SEPS dispone la suspensión de operaciones y liquidación forzosa de la Cooperativa CREA Ltda. y garantiza la protección de los depósitos de los socios.</p>
-            <div class="video-wrapper">
-                <iframe loading="lazy" src="https://www.youtube.com/embed/pOYq1aaJHRk?si=B2nBmp5UC2dI_p0I" title="Entrevista al Presidente de Ecuador Daniel Noboa Azín" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <p>Entrevista al Presidente de Ecuador Daniel Noboa Azín</p>
-            <div class="video-wrapper">
-                <iframe loading="lazy" src="https://www.youtube.com/embed/JReQmALQX4g?si=hhV0Z35AOG7uGafi" title="Entrevista Exclusiva con Hernán Bravo sobre apagones en Ecuador" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <p>El analista Hernán Bravo Ordóñez experto en Economía y Finanzas se pregunta: ¿Habrá más apagones en Ecuador? Un interesante análisis.</p>
-        </div>
-    </section>
 
     <!-- TV Play -->
 <section id="tvplay" class="section">

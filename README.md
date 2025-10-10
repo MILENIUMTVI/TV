@@ -545,6 +545,44 @@
         </div>
     </div>
 </section>
+
+<!-- Transmisión Alternativa -->
+<section id="alternative-stream" class="section live-stream">
+    <h2>Transmisión Alternativa</h2>
+    <div class="entrevistas-container">
+        <div class="video-wrapper">
+            <div style='position: relative; padding-bottom: 56.25%; height: 0;'>
+                <iframe src='https://player.viloud.tv/embed/channel/c8984eee3163b175a0c725860f53749d?autoplay=0&volume=1&controls=1&title=1&share=1&open_playlist=0&random=0' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' frameborder='0' allow='autoplay' allowfullscreen></iframe>
+            </div>
+        </div>
+        <p>Transmisión alternativa del canal principal de Milenium Tvi.</p>
+    </div>
+</section>
+
+<!-- Estilos para consistencia visual -->
+<style>
+    .section.live-stream {
+        margin: 2rem 0;
+    }
+    .entrevistas-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1rem;
+    }
+    .video-wrapper {
+        max-width: 100%;
+        margin-bottom: 1rem;
+    }
+    .video-wrapper iframe {
+        border: none;
+        border-radius: 8px; /* Opcional: para consistencia con Video.js */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Opcional: sombra para mejor estética */
+    }
+    h2 {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+</style>
   
 <!-- Noticias -->
 <section id="news" class="section">

@@ -511,10 +511,17 @@
 </body>
 </html>
 
-   <!-- TV Play -->
+  <!-- TV Play -->
 <section id="tvplay" class="section">
     <h2>TV Play</h2>
     <div class="grid">
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/nm3iahkSKwc?si=l7M2Bjy1pz-38Wbn" title="Conferencia Científica Orquideas Andinas" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Conferencia Científica Orquideas Andinas</h3>
+                <p>Juan Pablo Martínez científico de Ecuagénera entrega detalles de la Conferencia Científica Orquideas Andinas, evento que se organiza con Diners Club y la USFQ.</p>
+            </div>
+        </div>
         <div class="card">
             <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/S-YnJOWrnm4?si=YRWN26E69KDaoesF" title="Ecos bajo la piel" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="card-content">

@@ -600,8 +600,9 @@
                 <h3>El ministro Roberto Kury inauguró el Punto Digital Gratuito Petrillo</h3>
                 <p>Este martes, 14 de octubre de 2025, se inauguró el Punto Digital Gratuito Petrillo, ubicado en la parroquia Narcisa de Jesús, del cantón Nobol.</p>
                 <a href="https://mileniumtvi.com/el-ministro-roberto-kury-inauguro-el-punto-digital-gratuito-petrillo" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-            <div class="card-content">
+             </div>
+        </div>
+        <div class="card-content">
                 <h3>5300 personas reciben los servicios del gobierno en sus barrios durante el feriado</h3>
                 <p>Durante el feriado, 5300 personas accedieron a los servicios del gobierno en sus barrios, fortaleciendo la atención directa a la ciudadanía.</p>
                 <a href="https://mileniumtvi.com/5300-personas-reciben-los-servicios-del-gobierno-en-sus-barrios-durante-el-feriado" target="_blank" rel="noopener noreferrer">Leer más</a>

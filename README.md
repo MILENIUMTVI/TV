@@ -597,6 +597,11 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>El ministro Roberto Kury inauguró el Punto Digital Gratuito Petrillo</h3>
+                <p>Este martes, 14 de octubre de 2025, se inauguró el Punto Digital Gratuito Petrillo, ubicado en la parroquia Narcisa de Jesús, del cantón Nobol.</p>
+                <a href="https://mileniumtvi.com/el-ministro-roberto-kury-inauguro-el-punto-digital-gratuito-petrillo" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+            <div class="card-content">
                 <h3>5300 personas reciben los servicios del gobierno en sus barrios durante el feriado</h3>
                 <p>Durante el feriado, 5300 personas accedieron a los servicios del gobierno en sus barrios, fortaleciendo la atención directa a la ciudadanía.</p>
                 <a href="https://mileniumtvi.com/5300-personas-reciben-los-servicios-del-gobierno-en-sus-barrios-durante-el-feriado" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -827,11 +832,6 @@
             </div>
         </div>
         <div class="card">
-            <div class="card-content">
-                <h3>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet</h3>
-                <p>Marco Rubio, Secretario de Estado de Estados Unidos, visitó al Presidente Daniel Noboa en Carondelet.</p>
-                <a href="https://mileniumtvi.com/marco-rubio-secretario-de-estado-de-estados-unidos-visito-al-presidente-daniel-noboa-en-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
         </div>
     </div>
 </section>

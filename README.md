@@ -597,6 +597,27 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>5300 personas reciben los servicios del gobierno en sus barrios durante el feriado</h3>
+                <p>Durante el feriado, 5300 personas accedieron a los servicios del gobierno en sus barrios, fortaleciendo la atención directa a la ciudadanía.</p>
+                <a href="https://mileniumtvi.com/5300-personas-reciben-los-servicios-del-gobierno-en-sus-barrios-durante-el-feriado" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Vicepresidenta María José Pinto impulsó el corredor humanitario para reactivar y abastecer a Imbabura</h3>
+                <p>La vicepresidenta María José Pinto lideró la creación de un corredor humanitario para reactivar y garantizar el abastecimiento en Imbabura.</p>
+                <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-impulso-el-corredor-humanitario-para-reactivar-y-abastecer-a-imbabura" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Imbabura: el contrabando deja de ser negocio a pesar del empeño en secuestrar la provincia</h3>
+                <p>En Imbabura, las acciones del gobierno han debilitado el contrabando, frustrando intentos de desestabilizar la provincia.</p>
+                <a href="https://mileniumtvi.com/imbabura--el-contrabando-deja-de-ser-negocio-a-pesar-del-empeno-en-secuestrar-la-provincia" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>El Gobierno del presidente Daniel Noboa implementa la tecnología 5G, impulsando la transformación digital del Ecuador</h3>
                 <p>El Gobierno del presidente Daniel Noboa implementa la tecnología 5G, impulsando la transformación digital del Ecuador, mejorando la conectividad y fomentando la innovación en el país.</p>
                 <a href="https://mileniumtvi.com/el-gobierno-del-presidente-daniel-noboa-implementa-la-tecnologia-5g-impulsando-la-transformacion-digital-del-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -812,17 +833,7 @@
                 <a href="https://mileniumtvi.com/marco-rubio-secretario-de-estado-de-estados-unidos-visito-al-presidente-daniel-noboa-en-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos</h3>
-                <p>Ecuador y Japón refuerzan la cooperación en energía, comercio, seguridad y gestión de riesgos.</p>
-                <a href="https://mileniumtvi.com/ecuador-y-japon-refuerzan-la-cooperacion-en-energia-comercio-seguridad-y-gestion-de-riesgos-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
-</section>
-</section>
-</section>
 </section>
 ```
 <!-- Noticias Locales -->

@@ -511,10 +511,17 @@
 </body>
 </html>
 
-  <!-- TV Play -->
+ <!-- TV Play -->
 <section id="tvplay" class="section">
     <h2>TV Play</h2>
     <div class="grid">
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/UyqlRsYiNIM?si=mVWrFf56yBosP7fa" title="Consejos de Nutrición con la Dra. Rocío Medina" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Consejos de Nutrición con la Dra. Rocío Medina</h3>
+                <p>La Dra. Rocío Medina es Vicepresidenta e integrante del Consejo Consultor de Nutrición (NAB, por sus siglas en inglés) de Herbalife, donde contribuye con su experiencia médica y científica en el desarrollo de estrategias y productos orientados a la nutrición y el bienestar nos comparte consejos prácticos sobre cómo llevar una alimentación equilibrada a lo largo del día.</p>
+            </div>
+        </div>
         <div class="card">
             <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/nm3iahkSKwc?si=l7M2Bjy1pz-38Wbn" title="Conferencia Científica Orquideas Andinas" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="card-content">
@@ -552,7 +559,6 @@
         </div>
     </div>
 </section>
-
 <!-- Transmisión Alternativa -->
 <section id="alternative-stream" class="section live-stream">
     <h2>Transmisión Alternativa</h2>
@@ -595,6 +601,20 @@
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
+        <div class="card">
+            <div class="card-content">
+                <h3>El presidente Noboa dispone la creación del programa de residencias universitarias</h3>
+                <p>El presidente Daniel Noboa impulsa la creación del programa de residencias universitarias para apoyar a estudiantes con acceso a vivienda digna y cercana a sus centros de estudio.</p>
+                <a href="https://mileniumtvi.com/el-presidente-noboa-dispone-la-creacion-del-programa-de-residencias-universitarias" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Vicepresidenta María José Pinto garantiza atención y apoyo a las familias de Imbabura</h3>
+                <p>La vicepresidenta María José Pinto supervisa y garantiza la entrega de apoyo y atención integral a las familias de Imbabura, fortaleciendo su bienestar y desarrollo.</p>
+                <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-garantiza-atencion-y-apoyo-a-las-familias-de-imbabura" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
         <div class="card">
             <div class="card-content">
                 <h3>El ministro Roberto Kury inauguró el Punto Digital Gratuito Petrillo</h3>
@@ -841,6 +861,14 @@
     <h2>Noticias Locales</h2>
     <div class="grid">
         <div class="card">
+            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Obras públicas en Cuenca asfaltan 32 kilómetros">
+            <div class="card-content">
+                <h3>Obras Públicas del Municipio de Cuenca asfalta 32 kilómetros en el área urbana y rural</h3>
+                <p>El Municipio de Cuenca, a través de su Dirección de Obras Públicas, ha asfaltado 32 kilómetros de vías en zonas urbanas y rurales, mejorando la infraestructura y conectividad de la ciudad.</p>
+                <a href="https://mileniumtvi.com/obras-publicas-del-municipio-de-cuenca-asfalto-32-kilometros-en-el-area-urbana-y-rural" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
             <a href="https://youtu.be/jlHFdHg4wfQ" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/jlHFdHg4wfQ/hqdefault.jpg" alt="Carolina Jaramillo sobre revocatoria de licencia ambiental">
             </a>
@@ -1046,17 +1074,8 @@
                 <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <img loading="lazy" src="https://img.youtube.com/vi/-a8ElTs6Pds/hqdefault.jpg" alt="Suspensión temporal de trabajos de bacheo en Cuenca">
-            <div class="card-content">
-                <h3>Noticia Local</h3>
-                <p>La Dirección de Obras Públicas de Cuenca suspende temporalmente trabajos de bacheo y asfaltado por falta de materiales de la Refinería de Esmeraldas.</p>
-                <a href="https://www.youtube.com/embed/-a8ElTs6Pds" target="_blank" rel="noopener noreferrer">Ver video</a>
-            </div>
-        </div>
     </div>
 </section>
-
 
     <!-- Noticia en Imágenes -->
     <section id="imagenes" class="section">

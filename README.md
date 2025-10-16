@@ -603,6 +603,48 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>El Gobierno Nacional amplía el escudo de protección social y continúa con la entrega de bonos a 55000 familias</h3>
+                <p>El Gobierno Nacional fortalece el escudo de protección social, entregando bonos a 55,000 familias para garantizar su bienestar y apoyo económico.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-nacional-amplia-el-escudo-de-proteccion-social-y-continua-con-la-entrega-de-bonos-a-55000-familias" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>El Gobierno Nacional trabaja por Salinas: más de USD 7 millones se materializarán en obras para el cantón</h3>
+                <p>El Gobierno Nacional destina más de USD 7 millones para obras en Salinas, impulsando el desarrollo y bienestar del cantón.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-nacional-trabaja-por-salinas-mas-de-usd-7-millones-se-materializaran-en-obras-para-el-canton" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>El presidente Noboa entregó motores fuera de borda a 600 pescadores de la zona costera del país</h3>
+                <p>El presidente Daniel Noboa entregó motores fuera de borda a 600 pescadores de la costa, fortaleciendo su actividad productiva.</p>
+                <a href="https://mileniumtvi.com/el-presidente-noboa-entrego-motores-fuera-de-borda-a-600-pescadores-de-la-zona-costera-del-pais" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>La transformación tecnológica del nuevo Ecuador apoya el emprendimiento</h3>
+                <p>La transformación tecnológica impulsada por el nuevo Ecuador fomenta el emprendimiento, brindando herramientas y oportunidades para innovar.</p>
+                <a href="https://mileniumtvi.com/la-transformacion-tecnologina-del-nuevo-ecuador-apoya-el-emprendimeinto" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Entrega de obra de la subestación y sistema de transmisión La Avanzada</h3>
+                <p>Se entrega la obra de la subestación y sistema de transmisión La Avanzada, mejorando la infraestructura eléctrica del país.</p>
+                <a href="https://mileniumtvi.com/entrega-de-obra-de-la-subestacion-y-sistema-de-transmision-la-avanzada" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>El presidente Noboa articula acciones para fortalecer el emprendimiento en El Oro, entregó 2000 bonos Incentivo Emprende y firmó convenio con el CONGOPE</h3>
+                <p>El presidente Daniel Noboa impulsa el emprendimiento en El Oro con la entrega de 2000 bonos Incentivo Emprende y la firma de un convenio con el CONGOPE.</p>
+                <a href="https://mileniumtvi.com/el-presidente-noboa-articula-acciones-para-fortalecer-el-emprendimiento-en-el-oro-entrego-2000-bonos-incentivo-emprende-y-firmo-convenio-con-el-congope" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>El presidente Noboa dispone la creación del programa de residencias universitarias</h3>
                 <p>El presidente Daniel Noboa impulsa la creación del programa de residencias universitarias para apoyar a estudiantes con acceso a vivienda digna y cercana a sus centros de estudio.</p>
                 <a href="https://mileniumtvi.com/el-presidente-noboa-dispone-la-creacion-del-programa-de-residencias-universitarias" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -804,62 +846,52 @@
                 <a href="https://mileniumtvi.com/6000-estudiantes-de-centros-educativos-de-la-fae-cuenten-con-internet-de-calidad-" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República</h3>
-                <p>La Corte Constitucional del Ecuador emitió tres dictámenes relacionados con propuestas de enmienda constitucional, reforma parcial y consulta popular presentadas por el presidente de la República.</p>
-                <a href="https://mileniumtvi.com/la-corte-constitucional-del-ecuador-emitio-tres-dictamenes-relacionados-con-propuestas-de-enmienda-constitucional-reforma-parcial-y-consulta-popular-presentadas-por-el-presidente-de-la-republica" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal</h3>
-                <p>En entrevista con Univision, el presidente Noboa destacó la cooperación con EEUU en seguridad y lucha contra la minería ilegal.</p>
-                <a href="https://mileniumtvi.com/en-entrevista-con-univision-el-presidente-noboa-destaco-la-cooperacion-con-eeuu-en-seguridad-y-lucha-contra-la-mineria-ilegal" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca</h3>
-                <p>Pleno de Concejo Cantonal solicita que comisión sobre proyecto minero Loma Larga convocada por la asambleista Camila León se realice en Cuenca.</p>
-                <a href="https://mileniumtvi.com/pleno-de-concejo-cantonal-solicita-que-comision-sobre-proyecto-minero-loma-larga-convocada-por-la-asambleista-camila-leon-se-realice-en-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones</h3>
-                <p>La Casa Blanca notificó oficialmente al Congreso sobre el ataque militar del 2 de septiembre en el Caribe y advirtió que podrían venir nuevas acciones.</p>
-                <a href="https://mileniumtvi.com/la-casa-blanca-notifico-oficialmente-al-congreso-sobre-el-ataque-militar-del-2-de-septiembre-en-el-caribe-y-advirtio-que-podrian-venir-nuevas-acciones" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico</h3>
-                <p>Si nos ponen en una situación peligrosa, serán derribados, advirtió el líder republicano horas después de anunciar el envío de 10 cazas F-35 a Puerto Rico.</p>
-                <a href="https://mileniumtvi.com/si-nos-ponen-en-una-situacion-peligrosa-seran-derribados-advirtio-el-lider-republicano-horas-despues-de-anunciar-el-envio-de-10-cazas-f-35-a-puerto-rico" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas</h3>
-                <p>La Guardia Costera incauta 40000 libras de cocaína en el Pacífico y publica imágenes de las operaciones y del buque en llamas.</p>
-                <a href="https://mileniumtvi.com/la-guardia-costera-incauta-40000-libras-de-cocaina-en-el-pacifico-y-publica-imagenes-de-las-operaciones-y-del-buque-en-llamas" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días</h3>
-                <p>Más niños, niñas y madres gestantes recibirán el bono de los 1000 días.</p>
-                <a href="https://mileniumtvi.com/mas-ninos-ninas-y-madres-gestantes-recibiran-el-bono-de-los-1000-dias" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
-```
 <!-- Noticias Locales -->
 <section id="locales" class="section">
     <h2>Noticias Locales</h2>
     <div class="grid">
+        <div class="card">
+            <a href="https://youtu.be/erUxZZjbXRg?si=EkAsqxm8H1zPlaYZ" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/erUxZZjbXRg/hqdefault.jpg" alt="Hallazgo de cuerpos en Cojitambo">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>La mañana del sábado 11 de octubre fueron encontrados dos cuerpos sin vida envueltos en fundas plásticas negras al costado de la vía entre Rumihurco y Corralón, en la parroquia Cojitambo, cantón Azogues, provincia del Cañar.</p>
+                <a href="https://youtu.be/erUxZZjbXRg?si=EkAsqxm8H1zPlaYZ" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/JHGT7S0m5m0?si=1LVasLFJ8egrWIii" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/JHGT7S0m5m0/hqdefault.jpg" alt="Hallazgo de cuerpos en Patamarca">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>En Cuenca 2 personas fueron encontradas sin vida en la Vía a Patamarca la noche del sábado 11 de octubre. Fiscalía investiga el hecho.</p>
+                <a href="https://youtu.be/JHGT7S0m5m0?si=1LVasLFJ8egrWIii" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/rR_CZolhWQk?si=D-NhwMI_tIQtA1bU" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/rR_CZolhWQk/hqdefault.jpg" alt="Atentado explosivo en Azuay">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>El Gobernador del #Azuay Xavier Bermúdez califica como actos de grupos que quieren crear el caos y el ter00r. Un atentado explosiv0 ocurrió en el puente de #Molopongo en el Km 113 de la vía #Cuenca #Girón #Pasaje con 1 herido y tres vehículos afectados, entre ellos un bus de la Cooperativa Loja. Y otro de similares características en el puente de #Churute en el km 26 de la vía Churute Naranjal.</p>
+                <a href="https://youtu.be/rR_CZolhWQk?si=D-NhwMI_tIQtA1bU" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/gm5BK10vAaI" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/gm5BK10vAaI/hqdefault.jpg" alt="Tasa de recolección de basura en Cuenca">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>La Gerente de EMAC EP Maria Caridad Vázquez manifiesta no tener un plan "B" para hacer frente al anuncio de que en noviembre ya no se cobrará la tasa de recolección de basura en la planilla de luz, anticipa que la empresa quebrará y pide al Gobernador Xavier Bermúdez interceda en este caso. Por su parte, la Ministra Inés Manzano señala “Yo no puedo ser cómplice de lo que va en contra de la ley”, y recalcó que los municipios no pueden seguir cobrando valores sin sustento. “Hay lugares donde el cobro era desproporcionado. En Cuenca, por ejemplo, la tasa de basura llegaba a representar hasta el 70% del valor de la luz.</p>
+                <a href="https://youtu.be/gm5BK10vAaI" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
         <div class="card">
             <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Obras públicas en Cuenca asfaltan 32 kilómetros">
             <div class="card-content">
@@ -1076,7 +1108,6 @@
         </div>
     </div>
 </section>
-
     <!-- Noticia en Imágenes -->
     <section id="imagenes" class="section">
         <h2>Noticia en Imágenes</h2>

@@ -1173,6 +1173,16 @@
         <h2>Publicaciones</h2>
         <div class="grid">
             <div class="card">
+                <a href="https://mileniumtvi.com/los-bots-y-los-deepfakes-impulsan-una-nueva-ola-de-fraude-cibernetico" rel="noopener noreferrer">
+                    <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Los bots y los deepfakes impulsan una nueva ola de fraude cibernético">
+                </a>
+                <div class="card-content">
+                    <h3>Los bots y los deepfakes</h3>
+                    <p>Un análisis sobre cómo los bots y los deepfakes están transformando el panorama del fraude cibernético, generando nuevos desafíos para la seguridad digital.</p>
+                    <a href="https://mileniumtvi.com/los-bots-y-los-deepfakes-impulsan-una-nueva-ola-de-fraude-cibernetico" target="_blank" rel="noopener noreferrer">Leer más</a>
+                </div>
+            </div>
+            <div class="card">
                 <a href="https://mileniumtvi.com/paro-violencia-y-consulta" rel="noopener noreferrer">
                     <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Artículo de opinión sobre paro, violencia y consulta">
                 </a>

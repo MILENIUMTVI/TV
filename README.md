@@ -603,6 +603,13 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>Gobierno Nacional impulsa el talento digital de los jóvenes manabitas con la entrega de 150 certificados en TIC</h3>
+                <p>El Gobierno Nacional fortalece las habilidades digitales de los jóvenes de Manabí al entregar 150 certificados en Tecnologías de la Información y Comunicación, promoviendo su inserción en el mundo laboral tecnológico.</p>
+                <a href="https://mileniumtvi.com/gobierno-nacional-impulsa-el-talento-digital-de-los-jovenes-manabitas-con-la-entrega-de-150-certificados-en-tic" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>El Gobierno Nacional amplía el escudo de protección social y continúa con la entrega de bonos a 55000 familias</h3>
                 <p>El Gobierno Nacional fortalece el escudo de protección social, entregando bonos a 55,000 familias para garantizar su bienestar y apoyo económico.</p>
                 <a href="https://mileniumtvi.com/el-gobierno-nacional-amplia-el-escudo-de-proteccion-social-y-continua-con-la-entrega-de-bonos-a-55000-familias" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -816,34 +823,6 @@
                 <h3>Desde Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos al sector turístico</h3>
                 <p>En Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos para impulsar el turismo, apoyando el desarrollo económico y la generación de empleo en el sector.</p>
                 <a href="https://mileniumtvi.com/desde-cotopaxi-el-gobierno-de-daniel-noboa-entrega-creditos-productivos-al-sector-turistico" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Carolina Jaramillo, portavoz de Carondelet</h3>
-                <p>Carolina Jaramillo asume el rol de portavoz de Carondelet, fortaleciendo la comunicación oficial del gobierno ecuatoriano con transparencia y claridad.</p>
-                <a href="https://mileniumtvi.com/carolina-jaramillo-portavoz-de-carondelet" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>“O aquí me quedo luchando todos los días por ustedes”</h3>
-                <p>El presidente Daniel Noboa reafirma su compromiso con los ecuatorianos, destacando su dedicación diaria para mejorar la calidad de vida y enfrentar los desafíos del país.</p>
-                <a href="https://mileniumtvi.com/o-aqui-me-quedo-luchando-todos-los-dias-por-ustedes" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Por primera vez, afiliados del Seguro Social Campesino reciben montepio</h3>
-                <p>El presidente Daniel Noboa hace realidad el acceso al montepio para los afiliados del Seguro Social Campesino, garantizando beneficios para este sector vulnerable.</p>
-                <a href="https://mileniumtvi.com/por-primera-vez-afiliados-del-seguro-social-campesino-reciben-montepio-daniel-noboa-hace-realidad-el-acceso-a-este-derecho" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad</h3>
-                <p>6000 estudiantes de centros educativos de la FAE cuentan con internet de calidad, mejorando el acceso a recursos educativos y conectividad.</p>
-                <a href="https://mileniumtvi.com/6000-estudiantes-de-centros-educativos-de-la-fae-cuenten-con-internet-de-calidad-" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
     </div>

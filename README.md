@@ -511,10 +511,17 @@
 </body>
 </html>
 
- <!-- TV Play -->
+<!-- TV Play -->
 <section id="tvplay" class="section">
     <h2>TV Play</h2>
     <div class="grid">
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/brgDCi26lUQ?si=Hhr-ETQKVjf_nl5S" title="Expresión Popular con Diego Idrovo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Expresión Popular con Diego Idrovo</h3>
+                <p>Diego Idrovo, Presidente de la Cámara de Transporte de Cuenca, analiza la tarifa del servicio urbano de buses en #ExpresionPopular</p>
+            </div>
+        </div>
         <div class="card">
             <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/UyqlRsYiNIM?si=mVWrFf56yBosP7fa" title="Consejos de Nutrición con la Dra. Rocío Medina" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="card-content">

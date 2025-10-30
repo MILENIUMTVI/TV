@@ -610,6 +610,27 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>El truco de internet y el verdadero dulce humano</h3>
+                <p>Descubre cómo un simple truco en internet revela la dulzura humana detrás de las pantallas, conectando corazones en la era digital.</p>
+                <a href="https://mileniumtvi.com/el-truco-de-internet-y-el-verdadero-dulce-humano" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Gobierno Nacional impulsa la transformación digital con el programa EmpoderaTech Ecuador</h3>
+                <p>El Gobierno Nacional lanza EmpoderaTech Ecuador, un programa para acelerar la transformación digital, capacitando a ciudadanos y fomentando la innovación tecnológica en el país.</p>
+                <a href="https://mileniumtvi.com/gobierno-nacional-impulsa-la-transformaci-n-digital-con-el-programa-empoderatech-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Cuenca Natural Flow convocó a más de 70 mil personas en un festival por la conservación de los páramos</h3>
+                <p>El festival Cuenca Natural Flow reunió a más de 70 mil asistentes en una celebración por la conservación de los páramos, promoviendo la sostenibilidad ambiental.</p>
+                <a href="https://mileniumtvi.com/cuenca-natural-flow-convoc-a-m-s-de-70-mil-personas-en-un-festival-por-la-conservaci-n-de-los-p-ramos" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>Gobierno Nacional impulsa el talento digital de los jóvenes manabitas con la entrega de 150 certificados en TIC</h3>
                 <p>El Gobierno Nacional fortalece las habilidades digitales de los jóvenes de Manabí al entregar 150 certificados en Tecnologías de la Información y Comunicación, promoviendo su inserción en el mundo laboral tecnológico.</p>
                 <a href="https://mileniumtvi.com/gobierno-nacional-impulsa-el-talento-digital-de-los-jovenes-manabitas-con-la-entrega-de-150-certificados-en-tic" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -811,33 +832,105 @@
                 <a href="https://mileniumtvi.com/presidente-daniel-noboa-entrega-usd-6-millones-para-la-economia-popular-y-solidaria-de-tungurahua" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Familias de Tungurahua cumplen su sueño de tener casa propia</h3>
-                <p>Familias de Tungurahua logran tener casa propia gracias a programas del gobierno que promueven el acceso a viviendas dignas.</p>
-                <a href="https://mileniumtvi.com/familias-de-tungurahua-cumplen-su-sueno-de-tener-casa-propia-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Vicepresidenta María José Pinto promueve el trabajo conjunto por la educación intercultural bilingüe</h3>
-                <p>La vicepresidenta María José Pinto impulsa iniciativas para fortalecer la educación intercultural bilingüe, promoviendo la inclusión y el respeto a la diversidad cultural en Ecuador.</p>
-                <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-promueve-el-trabajo-en-conjunto-y-articulado-por-la-educacion-intercultural-bilingue" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Desde Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos al sector turístico</h3>
-                <p>En Cotopaxi, el gobierno de Daniel Noboa entrega créditos productivos para impulsar el turismo, apoyando el desarrollo económico y la generación de empleo en el sector.</p>
-                <a href="https://mileniumtvi.com/desde-cotopaxi-el-gobierno-de-daniel-noboa-entrega-creditos-productivos-al-sector-turistico" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
 <!-- Noticias Locales -->
 <section id="locales" class="section">
     <h2>Noticias Locales</h2>
     <div class="grid">
+        <div class="card">
+            <a href="https://youtu.be/V3M8tVy9C1c?si=PgbBbr9GQDdTtN-i" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/V3M8tVy9C1c/hqdefault.jpg" alt="Resoluciones del Consejo de Seguridad">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>El Alcalde Cristian Zamora anuncia las resoluciones tomadas por el Consejo de Seguridad reunido este miércoles</p>
+                <a href="https://youtu.be/V3M8tVy9C1c?si=PgbBbr9GQDdTtN-i" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/keBwRYjVtOs?si=x9xUTttN4hb8hkOm" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/keBwRYjVtOs/hqdefault.jpg" alt="Ataque armado en Barrial Blanco">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Un nuevo ataque armado se registró la noche de éste miércoles en el sector de la terminal terrestre Barrial Blanco en Cuenca</p>
+                <a href="https://youtu.be/keBwRYjVtOs?si=x9xUTttN4hb8hkOm" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/BBiGUAU4Wi0?si=iqlQs5UjyqSgL09-" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/BBiGUAU4Wi0/hqdefault.jpg" alt="Conato de incendio en Nutri Leche">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Conato de incendio la tarde de este lunes en la planta de Nutri Leche del Parque industrial de Cuenca</p>
+                <a href="https://youtu.be/BBiGUAU4Wi0?si=iqlQs5UjyqSgL09-" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/9Z6BkOa_svU?si=RBM-nf7Hs4nrphjH" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/9Z6BkOa_svU/hqdefault.jpg" alt="Carlos Morales sobre minería en Río Blanco">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Carlos Morales Presidente del GAD Parroquial de Molleturo rechaza versiones de que en el proyecto minero Río Blanco exista minería ilegal como lo aseguro días atrás el ejército.
+En un comunicado publicado se informa que el ejercicio detuvo a una persona y su volqueta que estaba cargada de material mineralizado.. Incluso señalaron que había en la boca mina cerca de 400 toneladas de material mineralizado con oro y plata.. Morales rechazó que se haga minería ilegal en Rio Blanco.. Pero si dijo que hay grupos peligrosos que intentan apoderarse de la mina clausurada hace 7 años</p>
+                <a href="https://youtu.be/9Z6BkOa_svU?si=RBM-nf7Hs4nrphjH" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/_BKyxsWS6fg?si=G-RO6xTx7CXoUElD" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/_BKyxsWS6fg/hqdefault.jpg" alt="Mini Cholita Cuencana 2025">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Amelia Paulina Bernal representante de la parroquia Ricaurte es la mini Cholita Cuencana 2025</p>
+                <a href="https://youtu.be/_BKyxsWS6fg?si=G-RO6xTx7CXoUElD" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/nvlommafHrA?si=lwf9Y-cNiVMs37F8" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/nvlommafHrA/hqdefault.jpg" alt="Entrega de USD 6,9 millones en Azuay">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>Este miércoles 29 de octubre, el presidente de la República, Daniel Noboa Azin,  entregó USD 6,9 millones a la ciudadanía a través de BanEcuador y la Corporación Nacional de Finanzas Populares y Solidarias (Conafips) en Azuay</p>
+                <a href="https://youtu.be/nvlommafHrA?si=lwf9Y-cNiVMs37F8" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/7ODJW3NezA4?si=Y1eL3bHM5QtlkbrU" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/7ODJW3NezA4/hqdefault.jpg" alt="Segunda fase de Jóvenes en Acción">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>El presidente de la República, Daniel Noboa Azín, inauguró oficialmente la segunda fase del programa, “Jóvenes en Acción”. En esta edición, cerca de 80.000 jóvenes desde octubre se han incorporado a diferentes áreas de los ministerios</p>
+                <a href="https://youtu.be/7ODJW3NezA4?si=Y1eL3bHM5QtlkbrU" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://youtu.be/QXFklrLVWXo?si=RlIEIKUGSDxbkPP7" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/QXFklrLVWXo/hqdefault.jpg" alt="Embanderamiento en Parque Calderón">
+            </a>
+            <div class="card-content">
+                <h3>Noticia Local</h3>
+                <p>El hemiciclo del Parque Calderón fue el escenario para el acto de embanderamiento de la ciudad, en honor a los 205 años de independencia de Santa Ana de los  Ríos de Cuenca
+La ceremonia cívico militar tuvo la participación de estudiantes y ciudadanía.
+Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se realizará en el Mercado 3 de Noviembre.</p>
+                <a href="https://youtu.be/QXFklrLVWXo?si=RlIEIKUGSDxbkPP7" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="https://mileniumtvi.com/n-una-noche-llena-de-emoci-n-elegancia-y-orgullo-cuencano-fue-elegida-martina-guzm-n-vega-como-reina-de-cuenca-2025-2026" rel="noopener noreferrer">
+                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Martina Guzmán Vega elegida Reina de Cuenca 2025-2026">
+            </a>
+            <div class="card-content">
+                <h3>¡Una noche llena de emoción, elegancia y orgullo cuencano! Fue elegida Martina Guzmán Vega como Reina de Cuenca 2025-2026</h3>
+                <p>En un evento lleno de glamour y tradición, Martina Guzmán Vega fue coronada como Reina de Cuenca 2025-2026, representando la belleza, el talento y el orgullo de la ciudad.</p>
+                <a href="https://mileniumtvi.com/n-una-noche-llena-de-emoci-n-elegancia-y-orgullo-cuencano-fue-elegida-martina-guzm-n-vega-como-reina-de-cuenca-2025-2026" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
         <div class="card">
             <a href="https://youtu.be/erUxZZjbXRg?si=EkAsqxm8H1zPlaYZ" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/erUxZZjbXRg/hqdefault.jpg" alt="Hallazgo de cuerpos en Cojitambo">
@@ -1080,16 +1173,8 @@
             <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads//screen_shot_2025-07-30_at_10.09.33_am.png" alt="3er Festival de la Fritada en Sidcay con gastronomía y actividades">
             <div class="card-content">
                 <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
-                <p>El 3er Festival de la Fritada en Sidcay promete deleitar a los asistentes con gastronomía, música y actividades culturales para toda la familia.</p>
+                <p>El 3er Festival de la Fritada en Sidcay promete deleitar a, música y actividades culturales para toda la familia.</p>
                 <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Convocatoria para certamen Reina de Cuenca 2025-2026">
-            <div class="card-content">
-                <h3>Certamen Reina de Cuenca</h3>
-                <p>Cuenca se prepara para elegir a su Reina. El certamen se desarrollará el jueves 23 de octubre en el Teatro Carlos Cueva Tamariz, y las inscripciones estarán disponibles en la página oficial de Instagram: Fundación Reinas de Cuenca.</p>
-                <a href="https://mileniumtvi.com/-convocan-al-certamen-reina-de-cuenca-2025-2026" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
     </div>

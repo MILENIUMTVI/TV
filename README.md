@@ -839,11 +839,21 @@
     <h2>Noticias Locales</h2>
     <div class="grid">
         <div class="card">
+            <a href="https://youtu.be/2q_bKAhVioM?si=WhK_mxtlOfpPX_De" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/2q_bKAhVioM/hqdefault.jpg" alt="Presidente Noboa en feria CIDAP">
+            </a>
+            <div class="card-content">
+                <h3>Presidente Noboa recorre feria CIDAP y condecora a artesanos</h3>
+                <p>El presidente de la República Daniel Noboa recorrió la feria del Centro Interamericano de Artes Populares CIDAP en el marco de las fiestas de independencia de #Cuenca.. El mandatario condecoró  a dos artesanos del país: un joyero y una ceramista, por su trayectoria  y su  aporte para el desarrollo del país. El mandatario llegó con su esposa y su pequeño hijo Alvarito. En la feria participan 180 artesanos.</p>
+                <a href="https://youtu.be/2q_bKAhVioM?si=WhK_mxtlOfpPX_De" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+        <div class="card">
             <a href="https://youtu.be/V3M8tVy9C1c?si=PgbBbr9GQDdTtN-i" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/V3M8tVy9C1c/hqdefault.jpg" alt="Resoluciones del Consejo de Seguridad">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Resoluciones del Consejo de Seguridad</h3>
                 <p>El Alcalde Cristian Zamora anuncia las resoluciones tomadas por el Consejo de Seguridad reunido este miércoles</p>
                 <a href="https://youtu.be/V3M8tVy9C1c?si=PgbBbr9GQDdTtN-i" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -853,7 +863,7 @@
                 <img loading="lazy" src="https://img.youtube.com/vi/keBwRYjVtOs/hqdefault.jpg" alt="Ataque armado en Barrial Blanco">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Ataque armado en Barrial Blanco</h3>
                 <p>Un nuevo ataque armado se registró la noche de éste miércoles en el sector de la terminal terrestre Barrial Blanco en Cuenca</p>
                 <a href="https://youtu.be/keBwRYjVtOs?si=x9xUTttN4hb8hkOm" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -863,7 +873,7 @@
                 <img loading="lazy" src="https://img.youtube.com/vi/BBiGUAU4Wi0/hqdefault.jpg" alt="Conato de incendio en Nutri Leche">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Conato de incendio en Nutri Leche</h3>
                 <p>Conato de incendio la tarde de este lunes en la planta de Nutri Leche del Parque industrial de Cuenca</p>
                 <a href="https://youtu.be/BBiGUAU4Wi0?si=iqlQs5UjyqSgL09-" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -873,7 +883,7 @@
                 <img loading="lazy" src="https://img.youtube.com/vi/9Z6BkOa_svU/hqdefault.jpg" alt="Carlos Morales sobre minería en Río Blanco">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Carlos Morales sobre minería en Río Blanco</h3>
                 <p>Carlos Morales Presidente del GAD Parroquial de Molleturo rechaza versiones de que en el proyecto minero Río Blanco exista minería ilegal como lo aseguro días atrás el ejército.
 En un comunicado publicado se informa que el ejercicio detuvo a una persona y su volqueta que estaba cargada de material mineralizado.. Incluso señalaron que había en la boca mina cerca de 400 toneladas de material mineralizado con oro y plata.. Morales rechazó que se haga minería ilegal en Rio Blanco.. Pero si dijo que hay grupos peligrosos que intentan apoderarse de la mina clausurada hace 7 años</p>
                 <a href="https://youtu.be/9Z6BkOa_svU?si=RBM-nf7Hs4nrphjH" target="_blank" rel="noopener noreferrer">Ver video</a>
@@ -884,7 +894,7 @@ En un comunicado publicado se informa que el ejercicio detuvo a una persona y su
                 <img loading="lazy" src="https://img.youtube.com/vi/_BKyxsWS6fg/hqdefault.jpg" alt="Mini Cholita Cuencana 2025">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Mini Cholita Cuencana 2025</h3>
                 <p>Amelia Paulina Bernal representante de la parroquia Ricaurte es la mini Cholita Cuencana 2025</p>
                 <a href="https://youtu.be/_BKyxsWS6fg?si=G-RO6xTx7CXoUElD" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -894,7 +904,7 @@ En un comunicado publicado se informa que el ejercicio detuvo a una persona y su
                 <img loading="lazy" src="https://img.youtube.com/vi/nvlommafHrA/hqdefault.jpg" alt="Entrega de USD 6,9 millones en Azuay">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Entrega de USD 6,9 millones en Azuay</h3>
                 <p>Este miércoles 29 de octubre, el presidente de la República, Daniel Noboa Azin,  entregó USD 6,9 millones a la ciudadanía a través de BanEcuador y la Corporación Nacional de Finanzas Populares y Solidarias (Conafips) en Azuay</p>
                 <a href="https://youtu.be/nvlommafHrA?si=lwf9Y-cNiVMs37F8" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -904,7 +914,7 @@ En un comunicado publicado se informa que el ejercicio detuvo a una persona y su
                 <img loading="lazy" src="https://img.youtube.com/vi/7ODJW3NezA4/hqdefault.jpg" alt="Segunda fase de Jóvenes en Acción">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Segunda fase de Jóvenes en Acción</h3>
                 <p>El presidente de la República, Daniel Noboa Azín, inauguró oficialmente la segunda fase del programa, “Jóvenes en Acción”. En esta edición, cerca de 80.000 jóvenes desde octubre se han incorporado a diferentes áreas de los ministerios</p>
                 <a href="https://youtu.be/7ODJW3NezA4?si=Y1eL3bHM5QtlkbrU" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -914,7 +924,7 @@ En un comunicado publicado se informa que el ejercicio detuvo a una persona y su
                 <img loading="lazy" src="https://img.youtube.com/vi/QXFklrLVWXo/hqdefault.jpg" alt="Embanderamiento en Parque Calderón">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Embanderamiento en Parque Calderón</h3>
                 <p>El hemiciclo del Parque Calderón fue el escenario para el acto de embanderamiento de la ciudad, en honor a los 205 años de independencia de Santa Ana de los  Ríos de Cuenca
 La ceremonia cívico militar tuvo la participación de estudiantes y ciudadanía.
 Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se realizará en el Mercado 3 de Noviembre.</p>
@@ -936,7 +946,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/erUxZZjbXRg/hqdefault.jpg" alt="Hallazgo de cuerpos en Cojitambo">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Hallazgo de cuerpos en Cojitambo</h3>
                 <p>La mañana del sábado 11 de octubre fueron encontrados dos cuerpos sin vida envueltos en fundas plásticas negras al costado de la vía entre Rumihurco y Corralón, en la parroquia Cojitambo, cantón Azogues, provincia del Cañar.</p>
                 <a href="https://youtu.be/erUxZZjbXRg?si=EkAsqxm8H1zPlaYZ" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -946,7 +956,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/JHGT7S0m5m0/hqdefault.jpg" alt="Hallazgo de cuerpos en Patamarca">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Hallazgo de cuerpos en Patamarca</h3>
                 <p>En Cuenca 2 personas fueron encontradas sin vida en la Vía a Patamarca la noche del sábado 11 de octubre. Fiscalía investiga el hecho.</p>
                 <a href="https://youtu.be/JHGT7S0m5m0?si=1LVasLFJ8egrWIii" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -956,7 +966,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/rR_CZolhWQk/hqdefault.jpg" alt="Atentado explosivo en Azuay">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Atentado explosivo en Azuay</h3>
                 <p>El Gobernador del #Azuay Xavier Bermúdez califica como actos de grupos que quieren crear el caos y el ter00r. Un atentado explosiv0 ocurrió en el puente de #Molopongo en el Km 113 de la vía #Cuenca #Girón #Pasaje con 1 herido y tres vehículos afectados, entre ellos un bus de la Cooperativa Loja. Y otro de similares características en el puente de #Churute en el km 26 de la vía Churute Naranjal.</p>
                 <a href="https://youtu.be/rR_CZolhWQk?si=D-NhwMI_tIQtA1bU" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -966,7 +976,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/gm5BK10vAaI/hqdefault.jpg" alt="Tasa de recolección de basura en Cuenca">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Tasa de recolección de basura en Cuenca</h3>
                 <p>La Gerente de EMAC EP Maria Caridad Vázquez manifiesta no tener un plan "B" para hacer frente al anuncio de que en noviembre ya no se cobrará la tasa de recolección de basura en la planilla de luz, anticipa que la empresa quebrará y pide al Gobernador Xavier Bermúdez interceda en este caso. Por su parte, la Ministra Inés Manzano señala “Yo no puedo ser cómplice de lo que va en contra de la ley”, y recalcó que los municipios no pueden seguir cobrando valores sin sustento. “Hay lugares donde el cobro era desproporcionado. En Cuenca, por ejemplo, la tasa de basura llegaba a representar hasta el 70% del valor de la luz.</p>
                 <a href="https://youtu.be/gm5BK10vAaI" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -984,7 +994,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/jlHFdHg4wfQ/hqdefault.jpg" alt="Carolina Jaramillo sobre revocatoria de licencia ambiental">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Carolina Jaramillo sobre revocatoria de licencia ambiental</h3>
                 <p>Carolina Jaramillo, Portavoz de Carondelet señala que el proceso de revocatoria de la licencia ambiental del proyecto Loma Larga de #Quimsacocha se basa en los informes técnicos presentados por el Alcalde de Cuenca y el Prefecto del Azuay, tienen gran responsabilidad y son ellos quienes tiene que dar respuesta a los ciudadanos cuencanos.</p>
                 <a href="https://youtu.be/jlHFdHg4wfQ" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -994,7 +1004,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/cj6L7FsZrq0/hqdefault.jpg" alt="Yaku Pérez pide cancelación de concesiones mineras">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Yaku Pérez pide cancelación de concesiones mineras</h3>
                 <p>El ex candidato presidencial y activista político Yaku Pérez ahora pide la cancelación de las 3 concesiones mineras, pues considera que la revocatoria de la licencia ambiental del proyecto Loma Larga ya no es suficiente.</p>
                 <a href="https://youtu.be/cj6L7FsZrq0" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1004,7 +1014,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/_KcbM4rOls4/hqdefault.jpg" alt="Verónica Polo sobre informes técnicos de ETAPA">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Verónica Polo sobre informes técnicos de ETAPA</h3>
                 <p>Verónica Polo, Gerente de ETPA-EP, considera que los informes técnicos de ETAPA fueron fundamentales para la revocatoria de la licencia ambiental del proyecto minero Loma Larga en #Quimsacocha.</p>
                 <a href="https://youtu.be/_KcbM4rOls4" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1014,7 +1024,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/VZKHW-K0898/hqdefault.jpg" alt="Alcalde Zamora sobre reversión de licencia">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Alcalde Zamora sobre reversión de licencia</h3>
                 <p>El Alcalde Zamora presentó los informes pero saca el cuerpo y no quiere responsabilizarse de la Reversión de Licencia del proyecto Loma Larga en #Quimsacocha.</p>
                 <a href="https://youtu.be/VZKHW-K0898" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1024,7 +1034,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/9PsSY5SA9V4/hqdefault.jpg" alt="Noticia Local 1">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 1</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/9PsSY5SA9V4?si=03FcQynC4hqAFZ1f" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1034,7 +1044,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/Guk-_LJJTEU/hqdefault.jpg" alt="Noticia Local 2">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 2</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/Guk-_LJJTEU?si=kxYj9qfsoKKEcvUw" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1044,7 +1054,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/QJxopt6Xc5E/hqdefault.jpg" alt="Noticia Local 3">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 3</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/QJxopt6Xc5E?si=1Ot-KUKEb3eC2h1R" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1054,7 +1064,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/fkma9cZBj1g/hqdefault.jpg" alt="Noticia Local 4">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 4</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/fkma9cZBj1g?si=BLtj8Zqf3hNTEJQU" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1064,7 +1074,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/gpW-OMfAoYI/hqdefault.jpg" alt="Noticia Local 5">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 5</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/gpW-OMfAoYI?si=xZaJ3yW3VDlHaG-W" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1074,7 +1084,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/ZzBVgyFuWM8/hqdefault.jpg" alt="Noticia Local 6">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 6</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/ZzBVgyFuWM8?si=e6tUJZAme5fSKy7A" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1084,7 +1094,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/fw3rIuhASac/hqdefault.jpg" alt="Noticia Local 7">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 7</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/fw3rIuhASac?si=1AYrmPsP6mIG_W_b" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1094,7 +1104,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/UXqluCrkDt0/hqdefault.jpg" alt="Noticia Local 8">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 8</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/UXqluCrkDt0?si=c1CGc5NRxIh4lJ7d" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
@@ -1104,7 +1114,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <img loading="lazy" src="https://img.youtube.com/vi/3n5YdEeS8Yc/hqdefault.jpg" alt="Noticia Local 9">
             </a>
             <div class="card-content">
-                <h3>Noticia Local</h3>
+                <h3>Noticia Local 9</h3>
                 <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
                 <a href="https://youtu.be/3n5YdEeS8Yc?si=KBE2zeyY76XoWwk2" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>

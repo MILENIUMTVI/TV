@@ -653,6 +653,20 @@
     <div class="grid">
         <div class="card">
             <div class="card-content">
+                <h3>Migrantes en Estados Unidos expresan su apoyo a Daniel Noboa: “Gracias por no olvidarse de nosotros”</h3>
+                <p>Migrantes ecuatorianos en Estados Unidos manifiestan su respaldo al presidente Daniel Noboa por su compromiso con la diáspora y políticas que los benefician.</p>
+                <a href="https://mileniumtvi.com/gracias-por-no-olvidarse-de-nosotros-migrantes-en-estados-unidos-expresan-su-apoyo-a-daniel-noboa" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Alcalde Zamora hace llamado para hacer de Cuenca una ciudad más humana</h3>
+                <p>El alcalde de Cuenca, Cristian Zamora, convoca a la ciudadanía a trabajar en conjunto para transformar la ciudad en un espacio más inclusivo, solidario y humano.</p>
+                <a href="https://mileniumtvi.com/alcalde-zamora-hace-llamado-para-hacer-de-cuenca-una-ciudad-m-s-humana1" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
                 <h3>El truco de internet y el verdadero dulce humano</h3>
                 <p>Descubre cómo un simple truco en internet revela la dulzura humana detrás de las pantallas, conectando corazones en la era digital.</p>
                 <a href="https://mileniumtvi.com/el-truco-de-internet-y-el-verdadero-dulce-humano" target="_blank" rel="noopener noreferrer">Leer más</a>
@@ -847,36 +861,9 @@
                 <a href="https://mileniumtvi.com/ventas-en-ecuador-crecen-en-septiembre-pese-a-focalizados-intentos-de-paralizacion" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La vida cambió para doña María con la adecuación de su vivienda y acceso a servicios básicos</h3>
-                <p>Doña María mejora su calidad de vida gracias a la adecuación de su vivienda y el acceso a servicios básicos, como parte de iniciativas sociales en Ecuador.</p>
-                <a href="https://mileniumtvi.com/la-vida-cambio-para-dona-maria-con-la-adecuacion-de-su-vivienda-y-acceso-a-servicios-basicos" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>“Nadie nos va a impedir llegar a las comunidades”: presidente Noboa entregó créditos y herramientas para Imbabura</h3>
-                <p>El presidente Daniel Noboa entregó créditos y herramientas a comunidades de Imbabura, reafirmando su compromiso con el desarrollo local.</p>
-                <a href="https://mileniumtvi.com/nadie-nos-va-a-impedir-llegar-a-las-comunidades-presidente-noboa-entrego-creditos-y-herramientas-para-imbabura" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Agricultores de Tungurahua recibieron bonos Raíces y otros insumos productivos, en todo el país ya son más de 81,000 beneficiarios</h3>
-                <p>Agricultores de Tungurahua reciben bonos Raíces e insumos productivos, sumándose a los más de 81,000 beneficiarios a nivel nacional.</p>
-                <a href="https://mileniumtvi.com/agricultores-de-tungurahua-recibieron-bonos-raices-y-otros-insumos-productivos-en-todo-el-pais-ya-son-mas-de-81000-beneficiarios" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Presidente Daniel Noboa entrega USD 6 millones para la economía popular y solidaria de Tungurahua</h3>
-                <p>El presidente Daniel Noboa destinó USD 6 millones para fortalecer la economía popular y solidaria en Tungurahua, apoyando a emprendedores locales.</p>
-                <a href="https://mileniumtvi.com/presidente-daniel-noboa-entrega-usd-6-millones-para-la-economia-popular-y-solidaria-de-tungurahua" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
+
 <!-- Noticias Locales -->
 <section id="locales" class="section">
     <h2>Noticias Locales</h2>

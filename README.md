@@ -440,77 +440,95 @@
 </head>
 <body>
     <!-- Transmisiones en Vivo -->
-    <section id="live" class="section live-stream">
-        <h2>Transmisiones en Vivo</h2>
-        <div class="entrevistas-container">
-            <div class="video-wrapper">
-                <video id="live-stream-player-1" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
-                    <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
-                    <p class="vjs-no-js">
-                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                    </p>
-                </video>
-            </div>
-            <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
-            <div class="video-wrapper">
-                <video id="live-stream-player-2" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
-                    <source src="https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" type="application/x-mpegURL">
-                    <p class="vjs-no-js">
-                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                    </p>
-                </video>
-            </div>
-            <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
-            <div class="video-wrapper">
-                <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
-                    <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
-                    <p class="vjs-no-js">
-                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                    </p>
-                </video>
-            </div>
-            <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
-            <div class="video-wrapper">
-                <video id="live-stream-player-4" class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true, "aspectRatio": "16:9", "responsive": true}'>
-                    <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
-                    <p class="vjs-no-js">
-                        Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                    </p>
-                </video>
-            </div>
-            <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
+<section id="live" class="section live-stream">
+    <h2>Transmisiones en Vivo</h2>
+    <div class="entrevistas-container">
+        <div class="video-wrapper">
+            <video id="live-stream-player-1" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=En+Vivo+Milennium+TVI" width="640" height="360">
+                <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
+                <p class="vjs-no-js">
+                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                </p>
+            </video>
         </div>
-    </section>
+        <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
+        
+        <div class="video-wrapper">
+            <video id="live-stream-player-2" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=MTVI2+Musical" width="640" height="360">
+                <source src="https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" type="application/x-mpegURL">
+                <p class="vjs-no-js">
+                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                </p>
+            </video>
+        </div>
+        <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
+        
+        <div class="video-wrapper">
+            <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=MTVI3+Peliculas" width="640" height="360">
+                <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
+                <p class="vjs-no-js">
+                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                </p>
+            </video>
+        </div>
+        <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
+        
+        <div class="video-wrapper">
+            <video id="live-stream-player-4" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=MTVI4+Series" width="640" height="360">
+                <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
+                <p class="vjs-no-js">
+                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
+                </p>
+            </video>
+        </div>
+        <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
+    </div>
+</section>
 
-    <!-- Incluir el script de Video.js -->
-    <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
-    <!-- Inicialización manual de Video.js para mayor control -->
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Inicializar cada reproductor de video
-            const players = [
-                'live-stream-player-1',
-                'live-stream-player-2',
-                'live-stream-player-3',
-                'live-stream-player-4'
-            ];
+<!-- Scripts para Video.js y soporte HLS -->
+<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+<script src="https://vjs.zencdn.net/8.10.0/videojs-http-streaming.min.js"></script> <!-- Plugin para HLS -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Lista de IDs de players
+        const players = [
+            'live-stream-player-1',
+            'live-stream-player-2',
+            'live-stream-player-3',
+            'live-stream-player-4'
+        ];
 
-            players.forEach(playerId => {
-                videojs(playerId, {
-                    fluid: true,
-                    responsive: true,
-                    aspectRatio: '16:9',
-                    playbackRates: [0.5, 1, 1.5, 2], // Opcional: agregar opciones de velocidad
-                    controlBar: {
-                        volumePanel: { inline: false } // Ajustar controles para móviles
+        players.forEach(playerId => {
+            const player = videojs(playerId, {
+                fluid: true,
+                responsive: true,
+                aspectRatio: '16:9',
+                playbackRates: [0.5, 1, 1.5, 2], // Opciones de velocidad
+                html5: {
+                    hls: {
+                        overrideNative: true, // Forzar HLS en todos los navegadores
+                        withCredentials: false,
+                        smoothQualityChange: true // Cambios suaves de calidad
                     }
+                },
+                controlBar: {
+                    volumePanel: { inline: false }, // Mejor para móviles
+                    pictureInPictureToggle: true // Soporte PiP si disponible
+                }
+            }, function onPlayerReady() {
+                console.log('Player ' + playerId + ' listo para reproducir.');
+                // Listener para errores
+                this.on('error', function(e) {
+                    console.error('Error en player ' + playerId + ':', this.error());
+                    // Opcional: Mostrar mensaje al usuario
+                    // alert('Error al cargar el stream. Verifica tu conexión o prueba recargando la página.');
                 });
+                // Auto-play opcional para el primero (descomenta si quieres)
+                // if (playerId === 'live-stream-player-1') this.play();
             });
         });
-    </script>
-</body>
-</html>
-
+    });
+</script>
 <!-- TV Play -->
 <section id="tvplay" class="section">
     <h2>TV Play</h2>

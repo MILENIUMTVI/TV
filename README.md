@@ -439,114 +439,112 @@
     </style>
 </head>
 <body>
-   <!-- Transmisiones en Vivo -->
+  <!-- Transmisiones en Vivo -->
 <section id="live" class="section live-stream">
     <h2>Transmisiones en Vivo</h2>
     <div class="entrevistas-container">
+        
+        <!-- Canal 1: Milenium TVI Principal -->
         <div class="video-wrapper">
-            <video id="live-stream-player-1" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=En+Vivo+Milennium+TVI" width="640" height="360">
-                <source src="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" type="application/x-mpegURL">
-                <p class="vjs-no-js">
-                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                </p>
-            </video>
-            <div id="error-fallback-1" class="error-fallback" style="display: none; text-align: center; padding: 20px; background: #f0f0f0; border: 1px solid #ddd;">
-                <p>El stream del canal principal no está disponible en este momento. <br>Por favor, intenta más tarde o contacta al administrador.</p>
-            </div>
+            <iframe 
+                src="https://app.viloud.tv/embed/channel/c8984eee3163b175a0c725860f53749d?autoplay=false&muted=false" 
+                width="100%" 
+                height="360" 
+                frameborder="0" 
+                allowfullscreen 
+                allow="autoplay; encrypted-media" 
+                title="Transmisión en vivo del canal principal de Milenium Tvi">
+            </iframe>
         </div>
         <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
-        
+
+        <!-- Canal 2: MTVI2 Musical -->
         <div class="video-wrapper">
-            <video id="live-stream-player-2" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=MTVI2+Musical" width="640" height="360">
-                <source src="https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" type="application/x-mpegURL">
-                <p class="vjs-no-js">
-                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                </p>
-            </video>
-            <div id="error-fallback-2" class="error-fallback" style="display: none; text-align: center; padding: 20px; background: #f0f0f0; border: 1px solid #ddd;">
-                <p>El stream de música no está disponible en este momento. <br>Por favor, intenta más tarde o contacta al administrador.</p>
-            </div>
+            <iframe 
+                src="https://app.viloud.tv/embed/channel/119c56a41cef4bf9b47e6d600cc70a63?autoplay=false&muted=false" 
+                width="100%" 
+                height="360" 
+                frameborder="0" 
+                allowfullscreen 
+                allow="autoplay; encrypted-media" 
+                title="MTVI2 Musical - Música en vivo">
+            </iframe>
         </div>
         <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
-        
+
+        <!-- Canal 3: MTVI3 Películas -->
         <div class="video-wrapper">
-            <video id="live-stream-player-3" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=MTVI3+Peliculas" width="640" height="360">
-                <source src="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" type="application/x-mpegURL">
-                <p class="vjs-no-js">
-                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                </p>
-            </video>
+            <iframe 
+                src="https://app.viloud.tv/embed/channel/fa28724c715bb373296ca57a2dcd551c?autoplay=false&muted=false" 
+                width="100%" 
+                height="360" 
+                frameborder="0" 
+                allowfullscreen 
+                allow="autoplay; encrypted-media" 
+                title="MTVI3 Películas - Streaming continuo">
+            </iframe>
         </div>
         <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
-        
+
+        <!-- Canal 4: MTVI4 Series -->
         <div class="video-wrapper">
-            <video id="live-stream-player-4" class="video-js vjs-default-skin" controls preload="metadata" poster="https://via.placeholder.com/640x360?text=MTVI4+Series" width="640" height="360">
-                <source src="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" type="application/x-mpegURL">
-                <p class="vjs-no-js">
-                    Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
-                </p>
-            </video>
-            <div id="error-fallback-4" class="error-fallback" style="display: none; text-align: center; padding: 20px; background: #f0f0f0; border: 1px solid #ddd;">
-                <p>El stream de series no está disponible en este momento. <br>Por favor, intenta más tarde o contacta al administrador.</p>
-            </div>
+            <iframe 
+                src="https://app.viloud.tv/embed/channel/8823313f19b20ef55dea4f3ad8a4cab7?autoplay=false&muted=false" 
+                width="100%" 
+                height="360" 
+                frameborder="0" 
+                allowfullscreen 
+                allow="autoplay; encrypted-media" 
+                title="MTVI4 Series - Tus series favoritas en vivo">
+            </iframe>
         </div>
         <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
+
     </div>
 </section>
 
-<!-- Scripts para Video.js y soporte HLS -->
-<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
-<script src="https://vjs.zencdn.net/8.10.0/videojs-http-streaming.min.js"></script> <!-- Plugin para HLS -->
+<!-- Estilos opcionales para mejorar el diseño -->
+<style>
+    .video-wrapper {
+        position: relative;
+        padding-bottom: 56.25%; /* Relación 16:9 */
+        height: 0;
+        overflow: hidden;
+        margin-bottom: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    .video-wrapper iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+    .entrevistas-container p {
+        text-align: center;
+        font-weight: 500;
+        margin-top: 8px;
+        color: #333;
+    }
+</style>
+
+<!-- Script opcional: Auto-reload si el iframe falla (raro, pero útil) -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // Lista de IDs de players y sus fallbacks
-        const playersConfig = [
-            { id: 'live-stream-player-1', fallback: 'error-fallback-1' },
-            { id: 'live-stream-player-2', fallback: 'error-fallback-2' },
-            { id: 'live-stream-player-3', fallback: null }, // Este funciona, sin fallback
-            { id: 'live-stream-player-4', fallback: 'error-fallback-4' }
-        ];
-
-        playersConfig.forEach(config => {
-            const player = videojs(config.id, {
-                fluid: true,
-                responsive: true,
-                aspectRatio: '16:9',
-                playbackRates: [0.5, 1, 1.5, 2],
-                html5: {
-                    hls: {
-                        overrideNative: true,
-                        withCredentials: false,
-                        smoothQualityChange: true
-                    }
-                },
-                controlBar: {
-                    volumePanel: { inline: false },
-                    pictureInPictureToggle: true
-                }
-            }, function onPlayerReady() {
-                console.log('Player ' + config.id + ' inicializado.');
-                
-                // Chequeo de error en carga de fuente
-                this.on('error', function(e) {
-                    console.error('Error en player ' + config.id + ':', this.error());
-                    const errorMsg = this.error();
-                    if (errorMsg && (errorMsg.code === 4 || errorMsg.code === -2)) { // MEDIA_ERR_SRC_NOT_SUPPORTED o similar
-                        if (config.fallback) {
-                            document.getElementById(config.id).style.display = 'none';
-                            document.getElementById(config.fallback).style.display = 'block';
-                        }
-                    }
-                });
-                
-                // Chequeo si no carga después de 10s (opcional)
+        const iframes = document.querySelectorAll('iframe[src*="viloud.tv"]');
+        iframes.forEach(iframe => {
+            iframe.onload = function() {
+                console.log('Stream cargado:', iframe.title);
+            };
+            iframe.onerror = function() {
+                console.error('Error al cargar iframe:', iframe.src);
+                // Opcional: recargar después de 10 segundos
                 setTimeout(() => {
-                    if (this.readyState() < 1 && config.fallback) { // HAVE_NOTHING
-                        document.getElementById(config.id).style.display = 'none';
-                        document.getElementById(config.fallback).style.display = 'block';
-                    }
+                    iframe.src = iframe.src;
                 }, 10000);
-            });
+            };
         });
     });
 </script>

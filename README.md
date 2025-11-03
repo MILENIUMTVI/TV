@@ -439,7 +439,7 @@
     </style>
 </head>
 <body>
-    <!-- Transmisiones en Vivo -->
+   <!-- Transmisiones en Vivo -->
 <section id="live" class="section live-stream">
     <h2>Transmisiones en Vivo</h2>
     <div class="entrevistas-container">
@@ -450,6 +450,9 @@
                     Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                 </p>
             </video>
+            <div id="error-fallback-1" class="error-fallback" style="display: none; text-align: center; padding: 20px; background: #f0f0f0; border: 1px solid #ddd;">
+                <p>El stream del canal principal no está disponible en este momento. <br>Por favor, intenta más tarde o contacta al administrador.</p>
+            </div>
         </div>
         <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
         
@@ -460,6 +463,9 @@
                     Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                 </p>
             </video>
+            <div id="error-fallback-2" class="error-fallback" style="display: none; text-align: center; padding: 20px; background: #f0f0f0; border: 1px solid #ddd;">
+                <p>El stream de música no está disponible en este momento. <br>Por favor, intenta más tarde o contacta al administrador.</p>
+            </div>
         </div>
         <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
         
@@ -480,6 +486,9 @@
                     Para ver este video, habilita JavaScript y considera actualizar a un navegador que soporte video HTML5.
                 </p>
             </video>
+            <div id="error-fallback-4" class="error-fallback" style="display: none; text-align: center; padding: 20px; background: #f0f0f0; border: 1px solid #ddd;">
+                <p>El stream de series no está disponible en este momento. <br>Por favor, intenta más tarde o contacta al administrador.</p>
+            </div>
         </div>
         <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
     </div>
@@ -490,41 +499,53 @@
 <script src="https://vjs.zencdn.net/8.10.0/videojs-http-streaming.min.js"></script> <!-- Plugin para HLS -->
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // Lista de IDs de players
-        const players = [
-            'live-stream-player-1',
-            'live-stream-player-2',
-            'live-stream-player-3',
-            'live-stream-player-4'
+        // Lista de IDs de players y sus fallbacks
+        const playersConfig = [
+            { id: 'live-stream-player-1', fallback: 'error-fallback-1' },
+            { id: 'live-stream-player-2', fallback: 'error-fallback-2' },
+            { id: 'live-stream-player-3', fallback: null }, // Este funciona, sin fallback
+            { id: 'live-stream-player-4', fallback: 'error-fallback-4' }
         ];
 
-        players.forEach(playerId => {
-            const player = videojs(playerId, {
+        playersConfig.forEach(config => {
+            const player = videojs(config.id, {
                 fluid: true,
                 responsive: true,
                 aspectRatio: '16:9',
-                playbackRates: [0.5, 1, 1.5, 2], // Opciones de velocidad
+                playbackRates: [0.5, 1, 1.5, 2],
                 html5: {
                     hls: {
-                        overrideNative: true, // Forzar HLS en todos los navegadores
+                        overrideNative: true,
                         withCredentials: false,
-                        smoothQualityChange: true // Cambios suaves de calidad
+                        smoothQualityChange: true
                     }
                 },
                 controlBar: {
-                    volumePanel: { inline: false }, // Mejor para móviles
-                    pictureInPictureToggle: true // Soporte PiP si disponible
+                    volumePanel: { inline: false },
+                    pictureInPictureToggle: true
                 }
             }, function onPlayerReady() {
-                console.log('Player ' + playerId + ' listo para reproducir.');
-                // Listener para errores
+                console.log('Player ' + config.id + ' inicializado.');
+                
+                // Chequeo de error en carga de fuente
                 this.on('error', function(e) {
-                    console.error('Error en player ' + playerId + ':', this.error());
-                    // Opcional: Mostrar mensaje al usuario
-                    // alert('Error al cargar el stream. Verifica tu conexión o prueba recargando la página.');
+                    console.error('Error en player ' + config.id + ':', this.error());
+                    const errorMsg = this.error();
+                    if (errorMsg && (errorMsg.code === 4 || errorMsg.code === -2)) { // MEDIA_ERR_SRC_NOT_SUPPORTED o similar
+                        if (config.fallback) {
+                            document.getElementById(config.id).style.display = 'none';
+                            document.getElementById(config.fallback).style.display = 'block';
+                        }
+                    }
                 });
-                // Auto-play opcional para el primero (descomenta si quieres)
-                // if (playerId === 'live-stream-player-1') this.play();
+                
+                // Chequeo si no carga después de 10s (opcional)
+                setTimeout(() => {
+                    if (this.readyState() < 1 && config.fallback) { // HAVE_NOTHING
+                        document.getElementById(config.id).style.display = 'none';
+                        document.getElementById(config.fallback).style.display = 'block';
+                    }
+                }, 10000);
             });
         });
     });

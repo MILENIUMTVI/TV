@@ -864,10 +864,21 @@
     </div>
 </section>
 
+
 <!-- Noticias Locales -->
 <section id="locales" class="section">
     <h2>Noticias Locales</h2>
     <div class="grid">
+        <div class="card">
+            <a href="https://youtu.be/pDkzEFxwOaI?si=Fds_bUKw-yx974k_" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/pDkzEFxwOaI/hqdefault.jpg" alt="Muerte de 4 PPL´s en centro de rehabilitación de Turi">
+            </a>
+            <div class="card-content">
+                <h3>Muerte de 4 PPL´s en centro de rehabilitación de Turi</h3>
+                <p>El sábado 1 de noviembre la policía reportó la muerte de 4 PPL´s en el centro de rehabilitación de Turi, en el pabellón de máxima seguridad.</p>
+                <a href="https://youtu.be/pDkzEFxwOaI?si=Fds_bUKw-yx974k_" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
         <div class="card">
             <a href="https://youtu.be/2q_bKAhVioM?si=WhK_mxtlOfpPX_De" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/2q_bKAhVioM/hqdefault.jpg" alt="Presidente Noboa en feria CIDAP">
@@ -1139,86 +1150,10 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
                 <a href="https://youtu.be/UXqluCrkDt0?si=c1CGc5NRxIh4lJ7d" target="_blank" rel="noopener noreferrer">Ver video</a>
             </div>
         </div>
-        <div class="card">
-            <a href="https://youtu.be/3n5YdEeS8Yc?si=KBE2zeyY76XoWwk2" rel="noopener noreferrer">
-                <img loading="lazy" src="https://img.youtube.com/vi/3n5YdEeS8Yc/hqdefault.jpg" alt="Noticia Local 9">
-            </a>
-            <div class="card-content">
-                <h3>Noticia Local 9</h3>
-                <p>Resumen de la noticia local presentada en el video, destacando eventos relevantes en la comunidad.</p>
-                <a href="https://youtu.be/3n5YdEeS8Yc?si=KBE2zeyY76XoWwk2" target="_blank" rel="noopener noreferrer">Ver video</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" rel="noopener noreferrer">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Reconocimiento al Alcalde de Latinoamérica">
-            </a>
-            <div class="card-content">
-                <h3>El Alcalde de Latinoamérica</h3>
-                <p>Un reconocimiento al liderazgo regional en la gestión municipal, destacando iniciativas que transforman comunidades en América Latina.</p>
-                <a href="https://mileniumtvi.com/el-alcalde-de-latinoamerica" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" rel="noopener noreferrer">
-                <img loading="lazy" src="https://via.placeholder.com/250x150" alt="Cacao ecuatoriano destacando en Salón del Chocolate de París">
-            </a>
-            <div class="card-content">
-                <h3>El cacao ecuatoriano brilla en el Salón del Chocolate de París</h3>
-                <p>El cacao ecuatoriano destacó en el Salón del Chocolate de París, recibiendo reconocimientos por su calidad y sostenibilidad, consolidando a Ecuador como líder en el mercado global.</p>
-                <a href="https://mileniumtvi.com/el-cacao-ecuatoriano-brilla-en-el-salon-del-chocolate-de-paris" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cumbe contribuyendo a ordenanza de lote mínimo">
-            <div class="card-content">
-                <h3>Cumbe aportó a la construcción participativa del lote mínimo</h3>
-                <p>Cumbe contribuye a la construcción participativa de la ordenanza del lote mínimo, promoviendo el desarrollo urbano sostenible.</p>
-                <a href="https://mileniumtvi.com/cumbe-aporto-a-la-construccion-participativa-del-lote-minimo" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Cuenca reconocida como ciudad más segura de Sudamérica por Numbeo">
-            <div class="card-content">
-                <h3>Cuenca, ciudad más segura de Sudamérica según Numbeo</h3>
-                <p>Cuenca ha sido reconocida como la ciudad más segura de Sudamérica por el índice Numbeo, destacando por sus bajos índices de criminalidad y la calidad de vida que ofrece a sus habitantes.</p>
-                <a href="https://mileniumtvi.com/cuenca-ciudad-mas-segura-de-sudamerica-segun-numbeo" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Santa Ana incorporándose a ordenanza de lote mínimo">
-            <div class="card-content">
-                <h3>Santa Ana se suma a la construcción de la ordenanza del lote mínimo</h3>
-                <p>La parroquia Santa Ana se incorpora al proceso de elaboración de la ordenanza sobre el lote mínimo, promoviendo el desarrollo urbano sostenible y regulando el uso del suelo en la región.</p>
-                <a href="https://mileniumtvi.com/santa-ana-se-suma-a-la-construccion-de-la-ordenanza-del-lote-minimo" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Entrega de beneficios a juntas de agua en Pichincha">
-            <div class="card-content">
-                <h3>Entrega de beneficios a las juntas de agua potable y riego de Pichincha</h3>
-                <p>Se realiza la entrega de beneficios a las juntas de agua potable y riego en Pichincha, mejorando el acceso al agua y apoyando la agricultura local mediante recursos y asistencia técnica.</p>
-                <a href="https://mileniumtvi.com/entrega-de-beneficios-a-las-juntas-de-agua-potable-y-riego-de-pichincha" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads/2025/07/Bloque-de-seguridad-Duran.jpg" alt="Implementación de sistemas de agua y alcantarillado en Baba">
-            <div class="card-content">
-                <h3>Sistemas de Agua Potable y Alcantarillado para Baba</h3>
-                <p>Se implementan nuevos sistemas de agua potable y alcantarillado pluvial en Baba para mejorar la calidad de vida y la infraestructura local.</p>
-                <a href="https://mileniumtvi.com/sistemas-de-agua-potable-y-alcantarillado-pluvial-para-baba" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <img loading="lazy" src="https://mileniumtvi.com/wp-content/uploads//screen_shot_2025-07-30_at_10.09.33_am.png" alt="3er Festival de la Fritada en Sidcay con gastronomía y actividades">
-            <div class="card-content">
-                <h3>Sidcay se llenará de sabor con el 3er Festival de la Fritada</h3>
-                <p>El 3er Festival de la Fritada en Sidcay promete deleitar a, música y actividades culturales para toda la familia.</p>
-                <a href="https://mileniumtvi.com/sidcay-se-llenara-de-sabor-con-el-3er-festival-de-la-fritada" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
+
+
     <!-- Noticia en Imágenes -->
     <section id="imagenes" class="section">
         <h2>Noticia en Imágenes</h2>

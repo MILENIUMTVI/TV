@@ -636,6 +636,186 @@
         margin-bottom: 1.5rem;
     }
 </style>
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias en Carrusel - Milenium TVI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .carousel-container {
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .carousel {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+            width: 100%;
+        }
+        .slide {
+            min-width: 100%;
+            box-sizing: border-box;
+            padding: 20px;
+            background: white;
+            text-align: center;
+        }
+        .slide img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .slide h3 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .slide p {
+            color: #666;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+        .slide a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .slide a:hover {
+            text-decoration: underline;
+        }
+        .nav-buttons {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+            padding: 0 10px;
+        }
+        .nav-btn {
+            background: rgba(0,0,0,0.5);
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            border-radius: 50%;
+            font-size: 18px;
+        }
+        .nav-btn:hover {
+            background: rgba(0,0,0,0.8);
+        }
+        .indicators {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #ccc;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+        .indicator.active {
+            background: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="carousel-container">
+        <div class="carousel" id="carousel">
+            <div class="slide">
+                <img src="https://via.placeholder.com/800x200?text=Reactivación+Turística+2025" alt="Reactivación Turística">
+                <h3>Reactivación Turística en Noviembre 2025: Más de 1 millón de viajes y USD 71,6 millones en gasto impulsados por operativos de control y seguridad</h3>
+                <p>En un impulso significativo al sector turístico ecuatoriano, noviembre de 2025 registra más de un millón de viajes y un gasto estimado en USD 71,6 millones. Este auge se atribuye a los exitosos operativos de control y seguridad implementados por el gobierno, que han fortalecido la confianza de los visitantes nacionales e internacionales, promoviendo destinos clave y asegurando experiencias seguras.</p>
+                <a href="https://mileniumtvi.com/reactivaci-n-tur-stica-en-noviembre-2025-m-s-de-1-mill-n-de-viajes-y-usd-71-6-millones-en-gasto-impulsados-por-operativos-de-control-y-seguridad">Leer más</a>
+            </div>
+            <div class="slide">
+                <img src="https://via.placeholder.com/800x200?text=Minería+Ilegal+Desarticulada" alt="Minería Ilegal">
+                <h3>El Gobierno Nacional ejecuta operativos interinstitucionales que han desarticulado actividades de minería ilegal en Muyuyacu, Azuay</h3>
+                <p>El Gobierno Nacional ha llevado a cabo operativos interinstitucionales coordinados que han resultado en la desarticulación de redes de minería ilegal en la zona de Muyuyacu, provincia de Azuay. Estas acciones, involucrando a múltiples entidades, han permitido el decomiso de maquinaria pesada y la detención de implicados, protegiendo el medio ambiente y la legalidad en la región.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-nacional-ejecuta-operativos-interinstitucionales-que-han-desarticulado-actividades-de-miner-a-ilegal-en-muyuyacu-azuay">Leer más</a>
+            </div>
+            <div class="slide">
+                <img src="https://via.placeholder.com/800x200?text=Negociación+Telefónicas" alt="Negociación Telefónicas">
+                <h3>El Gobierno del Nuevo Ecuador asegura USD 1.550 millones tras exitosa negociación con operadoras telefónicas</h3>
+                <p>En un logro financiero clave, el Gobierno del Nuevo Ecuador ha asegurado USD 1.550 millones mediante una negociación exitosa con las principales operadoras telefónicas del país. Este acuerdo fortalece las finanzas públicas y promueve inversiones en infraestructura digital, beneficiando a la conectividad nacional y el desarrollo económico sostenible.</p>
+                <a href="https://mileniumtvi.com/el-gobierno-del-nuevo-ecuador-asegura-usd-1-550-millones-tras-exitosa-negociaci-n-con-operadoras-telef-nicas">Leer más</a>
+            </div>
+            <div class="slide">
+                <img src="https://via.placeholder.com/800x200?text=Presidente+Noboa+en+CEAL" alt="Presidente Noboa">
+                <h3>Presidente Daniel Noboa en el CEAL: “Hemos dejado atrás la incertidumbre y estamos construyendo un país que inspira confianza y estabilidad”</h3>
+                <p>Durante su participación en el Consejo de Empresarios Latinoamericanos (CEAL), el Presidente Daniel Noboa destacó los avances del gobierno en la superación de la incertidumbre pasada. Enfatizó el compromiso con la construcción de un Ecuador que inspire confianza y estabilidad, atrayendo inversiones y fomentando el crecimiento económico inclusivo para todos los ciudadanos.</p>
+                <a href="https://mileniumtvi.com/presidente-daniel-noboa-en-el-ceal-hemos-dejado-atr-s-la-incertidumbre-y-estamos-construyendo-un-pa-s-que-inspira-confianza-y-estabilidad">Leer más</a>
+            </div>
+        </div>
+        <div class="nav-buttons">
+            <button class="nav-btn" onclick="prevSlide()">&lt;</button>
+            <button class="nav-btn" onclick="nextSlide()">&gt;</button>
+        </div>
+        <div class="indicators" id="indicators"></div>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlide(index) {
+            document.getElementById('carousel').style.transform = `translateX(-${index * 100}%)`;
+            updateIndicators();
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            showSlide(currentSlide);
+        }
+
+        function updateIndicators() {
+            const indicatorsContainer = document.getElementById('indicators');
+            indicatorsContainer.innerHTML = '';
+            for (let i = 0; i < totalSlides; i++) {
+                const indicator = document.createElement('span');
+                indicator.classList.add('indicator');
+                if (i === currentSlide) indicator.classList.add('active');
+                indicator.onclick = () => showSlide(i);
+                indicatorsContainer.appendChild(indicator);
+            }
+        }
+
+        // Auto-advance every 5 seconds
+        setInterval(nextSlide, 5000);
+
+        // Initialize
+        updateIndicators();
+        showSlide(0);
+    </script>
+</body>
+</html>
+
+
+
+
+
+
 <!-- Noticias -->
 <section id="news" class="section">
     <h2>Noticias</h2>

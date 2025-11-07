@@ -1,3 +1,6 @@
+
+
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -636,17 +639,31 @@
         margin-bottom: 1.5rem;
     }
 </style>
-
-
-
-
-
-
-
 <!-- Noticias -->
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
+        <div class="card">
+            <div class="card-content">
+                <h3>Un nuevo ataque armado deja dos víctimas con al menos quince impactos de bala en sus cuerpos</h3>
+                <p>Detalles del reciente ataque armado reportado en la zona.</p>
+                <a href="https://mileniumtvi.com/un-nuevo-ataque-armado-deja-dos-v-ctimas-con-al-menos-quince-impactos-de-bala-en-sus-cuerpos1" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>MAGP promueve una técnica innovadora para elaborar abono orgánico en hidrogel en Azuay</h3>
+                <p>Iniciativa del MAGP para la producción sostenible de abono en la región.</p>
+                <a href="https://mileniumtvi.com/magp-promueve-una-t-cnica-innovadora-para-elaborar-abono-org-nico-en-hidrogel-en-azuay" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina</h3>
+                <p>Ecuador destaca por su rica biodiversidad agrícola en el continente.</p>
+                <a href="https://mileniumtvi.com/ecuador-posee-uno-de-los-m-s-grandes-bancos-de-diversidad-agr-cola-de-am-rica-latina" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
         <div class="card">
             <div class="card-content">
                 <h3>Migrantes en Estados Unidos expresan su apoyo a Daniel Noboa: “Gracias por no olvidarse de nosotros”</h3>
@@ -850,16 +867,11 @@
                 <a href="https://mileniumtvi.com/maria-jose-pinto-fortalece-apoyo-a-la-ninez-y-juventud-en-situacion-de-riesgo-en-ibarra" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Ventas en Ecuador crecen en septiembre pese a focalizados intentos de paralización</h3>
-                <p>Las ventas en Ecuador registraron un crecimiento en septiembre, superando intentos focalizados de paralización, impulsando la economía local.</p>
-                <a href="https://mileniumtvi.com/ventas-en-ecuador-crecen-en-septiembre-pese-a-focalizados-intentos-de-paralizacion" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
     </div>
 </section>
 <!-- Noticias Locales -->
+
+
 <section id="locales" class="section">
     <h2>Noticias Locales</h2>
     <div class="grid">

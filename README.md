@@ -1295,19 +1295,54 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
 
 
 
-<!-- NOTICIAS DESTACADAS - CARRUSEL AUTOMÁTICO -->
+
+
+<!-- NOTICIAS DESTACADAS - CARRUSEL CON TUS 3 NOTICIAS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <section id="destacadas" class="section" style="background: #f8f9fa; padding: 3rem 1rem;">
-    <div class="section-container" style="max-width: 1400px; margin: 0 auto;">
-        <h2 style="text-align: center; color: #ffd700; margin-bottom: 2rem; font-size: 2rem;">
-            Noticias Destacadas
-        </h2>
-
+    <div style="max-width: 1400px; margin: 0 auto;">
+        <h2 style="text-align: center; color: #ffd700; margin-bottom: 2rem; font-size: 2rem;">Noticias Destacadas</h2>
         <div class="swiper noticiasDestacadasSwiper">
-            <div class="swiper-wrapper" id="destacadas-wrapper">
-                <!-- Las noticias se cargan aquí automáticamente -->
+            <div class="swiper-wrapper">
+
+                <!-- Noticia 1: Ataque Armado -->
+                <div class="swiper-slide">
+                    <a href="https://mileniumtvi.com/un-nuevo-ataque-armado-deja-dos-v-ctimas-con-al-menos-quince-impactos-de-bala-en-sus-cuerpos1" target="_blank" class="noticia-card">
+                        <img src="https://mileniumtvi.com/wp-content/uploads/2025/11/ataque-armado-cuenca.jpg" alt="Ataque armado deja dos víctimas" loading="lazy">
+                        <div class="noticia-content">
+                            <h3>Un nuevo ataque armado deja dos víctimas con al menos quince impactos de bala</h3>
+                            <p>Las víctimas, de 25 y 30 años, fueron encontradas sin vida en el sector de Barrial Blanco, Cuenca.</p>
+                            <span class="leer-mas">Leer más</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Noticia 2: Abono Orgánico en Hidrogel -->
+                <div class="swiper-slide">
+                    <a href="https://mileniumtvi.com/magp-promueve-una-t-cnica-innovadora-para-elaborar-abono-org-nico-en-hidrogel-en-azuay" target="_blank" class="noticia-card">
+                        <img src="https://mileniumtvi.com/wp-content/uploads/2025/11/abono-organico-hidrogel-azuay.jpg" alt="Abono orgánico en hidrogel" loading="lazy">
+                        <div class="noticia-content">
+                            <h3>MAGP promueve técnica innovadora para elaborar abono orgánico en hidrogel en Azuay</h3>
+                            <p>Productores de Santa Isabel aprenden a fabricar abono sostenible con materiales locales y tecnología accesible.</p>
+                            <span class="leer-mas">Leer más</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Noticia 3: Banco de Diversidad Agrícola -->
+                <div class="swiper-slide">
+                    <a href="https://mileniumtvi.com/ecuador-posee-uno-de-los-m-s-grandes-bancos-de-diversidad-agr-cola-de-am-rica-latina" target="_blank" class="noticia-card">
+                        <img src="https://mileniumtvi.com/wp-content/uploads/2025/11/banco-diversidad-agricola-ecuador.jpg" alt="Banco de diversidad agrícola" loading="lazy">
+                        <div class="noticia-content">
+                            <h3>Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina</h3>
+                            <p>El INIAP conserva más de 25.000 accesiones de cultivos nativos, clave para la seguridad alimentaria.</p>
+                            <span class="leer-mas">Leer más</span>
+                        </div>
+                    </a>
+                </div>
+
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
@@ -1316,7 +1351,7 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
     </div>
 </section>
 
-<!-- Estilos (mismos que antes) -->
+<!-- ESTILOS DEL CARRUSEL -->
 <style>
     .noticiasDestacadasSwiper { padding: 1rem 0; overflow: hidden; }
     .noticia-card {
@@ -1349,75 +1384,11 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
     .swiper-pagination-bullet-active { background: #ffd700; }
 </style>
 
-<!-- CARGA AUTOMÁTICA DE NOTICIAS -->
+<!-- INICIALIZACIÓN DEL CARRUSEL -->
 <script>
-    // LISTA DE URLs DE TUS NOTICIAS (¡edita solo esta parte!)
-    const urls = [
-        "https://mileniumtvi.com/reactivacion-turistica-noviembre-2025",
-        "https://mileniumtvi.com/operativo-mineria-ilegal-imbabura",
-        "https://mileniumtvi.com/gobierno-negocia-5g-telefonicas",
-        "https://mileniumtvi.com/daniel-noboa-anuncia-bono-navideno",
-        // Agrega más URLs aquí ↓
-    ];
-
-    async function fetchOGData(url) {
-        try {
-            const proxy = 'https://api.allorigins.ml/get?url=' + encodeURIComponent(url);
-            const response = await fetch(proxy);
-            const data = await response.json();
-            const html = data.contents;
-
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-
-            const getMeta = (property) => {
-                const el = doc.querySelector(`meta[property="${property}"], meta[name="${property}"]`);
-                return el ? el.getAttribute('content') : '';
-            };
-
-            return {
-                title: getMeta('og:title') || doc.title || 'Sin título',
-                description: getMeta('og:description') || 'Sin descripción',
-                image: getMeta('og:image') || 'https://via.placeholder.com/600x400/1a73e8/ffffff?text=Sin+Imagen',
-                url: url
-            };
-        } catch (e) {
-            console.error('Error al cargar:', url, e);
-            return null;
-        }
-    }
-
-    document.addEventListener('DOMContentLoaded', async () => {
-        const wrapper = document.getElementById('destacadas-wrapper');
-        wrapper.innerHTML = '<div style="text-align:center; padding:2rem;">Cargando noticias...</div>';
-
-        const noticias = [];
-        for (const url of urls) {
-            const data = await fetchOGData(url);
-            if (data) noticias.push(data);
-        }
-
-        if (noticias.length === 0) {
-            wrapper.innerHTML = '<p style="text-align:center; color:#666;">No se pudieron cargar las noticias.</p>';
-            return;
-        }
-
-        wrapper.innerHTML = noticias.map(noticia => `
-            <div class="swiper-slide">
-                <a href="${noticia.url}" target="_blank" class="noticia-card">
-                    <img src="${noticia.image}" alt="${noticia.title}" loading="lazy" onerror="this.src='https://via.placeholder.com/600x400/1a73e8/ffffff?text=Imagen+No+Disponible'">
-                    <div class="noticia-content">
-                        <h3>${noticia.title}</h3>
-                        <p>${noticia.description}</p>
-                        <span class="leer-mas">Leer más →</span>
-                    </div>
-                </a>
-            </div>
-        `).join('');
-
-        // Inicializar Swiper después de cargar
+    document.addEventListener('DOMContentLoaded', () => {
         new Swiper('.noticiasDestacadasSwiper', {
-            loop: noticias.length > 1,
+            loop: true,
             autoplay: { delay: 5000, disableOnInteraction: false },
             slidesPerView: 1,
             spaceBetween: 20,
@@ -1431,6 +1402,8 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
         });
     });
 </script>
+
+
 
 
 

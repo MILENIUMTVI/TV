@@ -1291,6 +1291,149 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
             </div>
         </div>
     </div>
+
+
+
+
+<!-- NOTICIAS DESTACADAS - CARRUSEL AUTOMÁTICO -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<section id="destacadas" class="section" style="background: #f8f9fa; padding: 3rem 1rem;">
+    <div class="section-container" style="max-width: 1400px; margin: 0 auto;">
+        <h2 style="text-align: center; color: #ffd700; margin-bottom: 2rem; font-size: 2rem;">
+            Noticias Destacadas
+        </h2>
+
+        <div class="swiper noticiasDestacadasSwiper">
+            <div class="swiper-wrapper" id="destacadas-wrapper">
+                <!-- Las noticias se cargan aquí automáticamente -->
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+</section>
+
+<!-- Estilos (mismos que antes) -->
+<style>
+    .noticiasDestacadasSwiper { padding: 1rem 0; overflow: hidden; }
+    .noticia-card {
+        display: block; text-decoration: none; color: inherit; border-radius: 16px;
+        overflow: hidden; box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+        transition: transform 0.3s, box-shadow 0.3s; background: white; height: 100%;
+    }
+    .noticia-card:hover { transform: translateY(-8px); box-shadow: 0 12px 24px rgba(0,0,0,0.15); }
+    .noticia-card img { width: 100%; height: 200px; object-fit: cover; }
+    .noticia-content { padding: 1rem; }
+    .noticia-content h3 { font-size: 1.1rem; margin: 0 0 0.5rem; color: #1a73e8; font-weight: bold; }
+    .noticia-content p {
+        font-size: 0.9rem; color: #555; margin: 0 0 0.8rem;
+        display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .leer-mas { color: #ffd700; font-weight: bold; font-size: 0.9rem; }
+
+    @media (max-width: 768px) {
+        .noticia-card img { height: 160px; }
+        .noticia-content h3 { font-size: 1rem; }
+        .noticia-content p { font-size: 0.85rem; }
+    }
+
+    .swiper-button-next, .swiper-button-prev {
+        color: #ffd700; background: rgba(26,115,232,0.8); width: 40px; height: 40px;
+        border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    }
+    .swiper-button-next:after, .swiper-button-prev:after { font-size: 1rem; }
+    .swiper-pagination-bullet { background: #ccc; opacity: 1; }
+    .swiper-pagination-bullet-active { background: #ffd700; }
+</style>
+
+<!-- CARGA AUTOMÁTICA DE NOTICIAS -->
+<script>
+    // LISTA DE URLs DE TUS NOTICIAS (¡edita solo esta parte!)
+    const urls = [
+        "https://mileniumtvi.com/reactivacion-turistica-noviembre-2025",
+        "https://mileniumtvi.com/operativo-mineria-ilegal-imbabura",
+        "https://mileniumtvi.com/gobierno-negocia-5g-telefonicas",
+        "https://mileniumtvi.com/daniel-noboa-anuncia-bono-navideno",
+        // Agrega más URLs aquí ↓
+    ];
+
+    async function fetchOGData(url) {
+        try {
+            const proxy = 'https://api.allorigins.ml/get?url=' + encodeURIComponent(url);
+            const response = await fetch(proxy);
+            const data = await response.json();
+            const html = data.contents;
+
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+
+            const getMeta = (property) => {
+                const el = doc.querySelector(`meta[property="${property}"], meta[name="${property}"]`);
+                return el ? el.getAttribute('content') : '';
+            };
+
+            return {
+                title: getMeta('og:title') || doc.title || 'Sin título',
+                description: getMeta('og:description') || 'Sin descripción',
+                image: getMeta('og:image') || 'https://via.placeholder.com/600x400/1a73e8/ffffff?text=Sin+Imagen',
+                url: url
+            };
+        } catch (e) {
+            console.error('Error al cargar:', url, e);
+            return null;
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+        const wrapper = document.getElementById('destacadas-wrapper');
+        wrapper.innerHTML = '<div style="text-align:center; padding:2rem;">Cargando noticias...</div>';
+
+        const noticias = [];
+        for (const url of urls) {
+            const data = await fetchOGData(url);
+            if (data) noticias.push(data);
+        }
+
+        if (noticias.length === 0) {
+            wrapper.innerHTML = '<p style="text-align:center; color:#666;">No se pudieron cargar las noticias.</p>';
+            return;
+        }
+
+        wrapper.innerHTML = noticias.map(noticia => `
+            <div class="swiper-slide">
+                <a href="${noticia.url}" target="_blank" class="noticia-card">
+                    <img src="${noticia.image}" alt="${noticia.title}" loading="lazy" onerror="this.src='https://via.placeholder.com/600x400/1a73e8/ffffff?text=Imagen+No+Disponible'">
+                    <div class="noticia-content">
+                        <h3>${noticia.title}</h3>
+                        <p>${noticia.description}</p>
+                        <span class="leer-mas">Leer más →</span>
+                    </div>
+                </a>
+            </div>
+        `).join('');
+
+        // Inicializar Swiper después de cargar
+        new Swiper('.noticiasDestacadasSwiper', {
+            loop: noticias.length > 1,
+            autoplay: { delay: 5000, disableOnInteraction: false },
+            slidesPerView: 1,
+            spaceBetween: 20,
+            pagination: { el: '.swiper-pagination', clickable: true },
+            navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
+            breakpoints: {
+                640: { slidesPerView: 1 },
+                768: { slidesPerView: 2 },
+                1024: { slidesPerView: 3 }
+            }
+        });
+    });
+</script>
+
+
+
 </section><!-- Defensa del Televidente -->
 <section id="defensa" class="section">
     <h2>Defensa del Televidente</h2>

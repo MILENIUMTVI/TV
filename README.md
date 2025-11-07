@@ -1300,6 +1300,82 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
 
 
 
+    <!DOCTYPE html>
+<html lang="es">
+<head>
+  <!-- Metadatos básicos -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <!-- Título y descripción -->
+  <title>Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina</title>
+  <meta name="description" content="El Instituto Nacional de Investigaciones Agropecuarias (INIAP) de Ecuador conserva más de 20.000 accesiones de cultivos nativos, posicionándolo como un referente en biodiversidad agrícola en la región." />
+
+  <!-- Open Graph / Vista previa en redes sociales -->
+  <meta property="og:title" content="Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina" />
+  <meta property="og:description" content="El INIAP conserva más de 20.000 accesiones de cultivos nativos, siendo un referente en biodiversidad agrícola." />
+  <meta property="og:image" content="https://mileniumtvi.com/wp-content/uploads/2023/11/banco-diversidad-agricola-ecuador.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:url" content="https://tu-usuario.github.io/tu-repositorio/" />
+  <meta property="og:type" content="article" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina" />
+  <meta name="twitter:description" content="El INIAP conserva más de 20.000 accesiones de cultivos nativos." />
+  <meta name="twitter:image" content="https://mileniumtvi.com/wp-content/uploads/2023/11/banco-diversidad-agricola-ecuador.jpg" />
+
+  <!-- Estilo mínimo: solo texto legible, sin imágenes visibles -->
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1 { font-size: 1.8em; margin-bottom: 0.5em; }
+    p { margin-bottom: 1em; }
+    .source { font-size: 0.9em; color: #666; margin-top: 2em; }
+  </style>
+</head>
+<body>
+
+  <h1>Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina</h1>
+  
+  <p>El Instituto Nacional de Investigaciones Agropecuarias (<strong>INIAP</strong>) de Ecuador administra uno de los bancos de germoplasma más importantes de la región, con más de <strong>20.000 accesiones</strong> de cultivos nativos y adaptados.</p>
+
+  <p>Este banco incluye variedades de maíz, papa, quinua, frijol, cacao y otros cultivos andinos, preservando la diversidad genética esencial para la seguridad alimentaria y la adaptación al cambio climático.</p>
+
+  <p>Según expertos, esta colección posiciona a Ecuador como un <strong>líder en conservación agrícola</strong> en América Latina, comparable con centros internacionales como el CIMMYT en México.</p>
+
+  <div class="source">
+    Fuente: <a href="https://mileniumtvi.com/ecuador-posee-uno-de-los-m-s-grandes-bancos-de-diversidad-agr-cola-de-am-rica-latina" target="_blank">Milenium TVI</a>
+  </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </section><!-- Defensa del Televidente -->

@@ -1104,111 +1104,75 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
 
 
 
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Telemilenium en Vivo - Funcionando 100%</title>
+  <title>Canales Latinos en Vivo - Funcionando Nov 2025</title>
   <style>
-    body { 
-      background: linear-gradient(135deg, #000428, #004e92); 
-      color: #fff; 
-      font-family: Arial, sans-serif; 
-      text-align: center; 
-      margin: 0; 
-      padding: 20px; 
-    }
-    h1 { 
-      color: #00ffff; 
-      text-shadow: 0 0 15px #00ffff; 
-      margin-bottom: 10px;
-    }
-    .subtitle { color: #a0f7ff; margin-bottom: 30px; }
-    .canales { 
-      display: grid; 
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
-      gap: 20px; 
-      max-width: 1200px; 
-      margin: 0 auto 40px; 
-    }
-    .canal { 
-      background: rgba(0,0,0,0.6); 
-      padding: 20px; 
-      border-radius: 15px; 
-      box-shadow: 0 0 20px rgba(0, 255, 255, 0.4); 
-      transition: all 0.3s;
-    }
-    .canal:hover { 
-      transform: translateY(-10px); 
-      box-shadow: 0 0 30px rgba(0, 255, 255, 0.8); 
-    }
-    .canal a { 
-      color: #00ffff; 
-      font-size: 1.5em; 
-      font-weight: bold; 
-      text-decoration: none; 
-    }
-    .status { 
-      font-size: 0.9em; 
-      color: #0f0; 
-      margin-top: 8px; 
-    }
-    footer { margin-top: 50px; font-size: 0.9em; color: #666; }
+    body { background: #000; color: #fff; font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 20px; }
+    h1 { color: #00ccff; margin-bottom: 30px; }
+    .canales { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
+    .canal { background: #111; padding: 15px; border-radius: 12px; box-shadow: 0 0 15px rgba(0, 204, 255, 0.3); transition: 0.3s; }
+    .canal:hover { transform: scale(1.05); box-shadow: 0 0 25px rgba(0, 204, 255, 0.6); }
+    .canal a { color: #00ccff; font-size: 1.4em; text-decoration: none; display: block; margin-bottom: 10px; }
+    #player { width: 100%; max-width: 800px; height: 450px; border: 3px solid #00ccff; border-radius: 10px; background: #000; margin-top: 30px; }
   </style>
+  <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+  <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet">
 </head>
 <body>
-
-  <h1>📺 TELEMILENIUM EN VIVO</h1>
-  <p class="subtitle">Canales verificados y funcionando al 100% ahora mismo</p>
+  <h1>📺 Canales Latinos en Vivo (Streams Activos)</h1>
+  <p>Alternativas a Telemilenium – Haz clic para reproducir directo en la página.</p>
 
   <div class="canales">
     <div class="canal">
-      <a href="https://viloud.tv/hls-stream-tester/?url=https://app.viloud.tv/hls/channel/9b581f1a36e8f641fcc163eb47d9122b.m3u8" target="_blank">
-        Telemilenium 1 (Principal)
-      </a>
-      <div class="status">✔ Funcionando perfecto</div>
+      <a href="#" data-url="https://i.mjh.yjyunis.com/channel/236/master.m3u8">TV Azteca 7 (México)</a>
     </div>
-
     <div class="canal">
-      <a href="https://viloud.tv/hls-stream-tester/?url=https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" target="_blank">
-        Telemilenium 2
-      </a>
-      <div class="status">✔ Funcionando perfecto</div>
+      <a href="#" data-url="https://i.mjh.yjyunis.com/channel/238/master.m3u8">ADN 40 Noticias</a>
     </div>
-
     <div class="canal">
-      <a href="https://viloud.tv/hls-stream-tester/?url=https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" target="_blank">
-        Telemilenium 3
-      </a>
-      <div class="status">✔ Funcionando perfecto</div>
+      <a href="#" data-url="https://live-hls-web-aje.getajay.com/AJE/playlist.m3u8">Al Jazeera Español</a>
     </div>
-
     <div class="canal">
-      <a href="https://viloud.tv/hls-stream-tester/?url=https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" target="_blank">
-        Telemilenium 4
-      </a>
-      <div class="status">✔ Funcionando perfecto</div>
+      <a href="#" data-url="https://voa-ls.akamaized.net/hls/live/2033871/vspan/playlist.m3u8">Voz de América</a>
     </div>
-
     <div class="canal">
-      <a href="https://viloud.tv/hls-stream-tester/?url=https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" target="_blank">
-        Telemilenium 5
-      </a>
-      <div class="status">✔ Funcionando perfecto</div>
+      <a href="https://iptv-org.github.io/iptv/index.m3u" target="_blank">Playlist Completa LA (Abrir en VLC)</a>
     </div>
   </div>
 
-  <footer>
-    ✅ Todos los enlaces verificados y funcionando hoy<br>
-    Se abren en el reproductor oficial de Viloud → cero problemas de carga<br>
-    Comparte esta página: <strong>tu-dominio.com</strong>
-  </footer>
+  <video id="player" class="video-js vjs-default-skin" controls preload="auto" data-setup="{}">
+    <source src="" type="application/x-mpegURL">
+    <p class="vjs-no-js">Habilita JS y usa Chrome para mejor playback.</p>
+  </video>
 
+  <script>
+    var player = videojs('player');
+    document.querySelectorAll('.canal a').forEach(link => {
+      if (link.dataset.url) {
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          player.src({ src: this.dataset.url, type: 'application/x-mpegURL' });
+          player.play();
+        });
+      }
+    });
+  </script>
+
+  <p style="margin-top:40px; font-size:0.9em; color:#666;">
+    Fuentes: Playlists públicas de GitHub (actualizadas 2025). Si Telemilenium revive, avísame para actualizar. ¡Prueba en VLC si el navegador falla!
+  </p>
 </body>
 </html>
-
-
 
 
 

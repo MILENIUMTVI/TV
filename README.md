@@ -1099,6 +1099,102 @@ Así Cuenca inicia los actos formales a pocos días de la sesión solemne que se
 
 
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canales Telemilenium en Vivo</title>
+  <style>
+    body {
+      background: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #00ccff;
+      margin-bottom: 30px;
+    }
+    .canales {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .canal {
+      background: #111;
+      padding: 15px;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0, 204, 255, 0.3);
+      transition: 0.3s;
+    }
+    .canal:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 25px rgba(0, 204, 255, 0.6);
+    }
+    .canal a {
+      color: #00ccff;
+      font-size: 1.4em;
+      text-decoration: none;
+      display: block;
+      margin-bottom: 10px;
+    }
+    video {
+      width: 100%;
+      max-width: 800px;
+      border: 3px solid #00ccff;
+      border-radius: 10px;
+      margin-top: 30px;
+      background: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>📺 Canales Telemilenium en Vivo</h1>
+  <p>Haz clic en el canal que quieras ver</p>
+
+  <div class="canales">
+    <div class="canal">
+      <a href="https://app.viloud.tv/hls/channel/c8984eee3163b175a0c725860f53749d.m3u8" target="player">Telemilenium Principal</a>
+    </div>
+    <div class="canal">
+      <a href="https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8" target="player">Voz de América</a>
+    </div>
+    <div class="canal">
+      <a href="https://571561.gvideo.io/cmaf/571561_2798196/master.m3u8" target="player">Telemilenium 2</a>
+    </div>
+    <div class="canal">
+      <a href="https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8" target="player">Telemilenium 3</a>
+    </div>
+    <div class="canal">
+      <a href="https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8" target="player">Telemilenium 4</a>
+    </div>
+    <div class="canal">
+      <a href="https://app.viloud.tv/hls/channel/119c56a41cef4bf9b47e6d600cc70a63.m3u8" target="player">Telemilenium 5</a>
+    </div>
+  </div>
+
+  <!-- Reproductor que cambia automáticamente al hacer clic -->
+  <iframe name="player" width="100%" height="500" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+
+  <p style="margin-top:40px; font-size:0.9em; color:#666;">
+    Todos los streams son públicos y gratuitos. Comparte esta página con quien quieras 😄
+  </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 
 
 

@@ -436,236 +436,138 @@
         </div>
     </section>
 
-    <!-- Noticias -->
-    <section id="news" class="section">
-        <h2>Noticias</h2>
-        <div class="grid">
-            <div class="card">
-                <div class="card-content">
-                    <h3>Un nuevo ataque armado deja dos víctimas con al menos quince impactos de bala en sus cuerpos</h3>
-                    <p>Detalles del reciente ataque armado reportado en la zona.</p>
-                    <a href="https://mileniumtvi.com/un-nuevo-ataque-armado-deja-dos-v-ctimas-con-al-menos-quince-impactos-de-bala-en-sus-cuerpos1" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>MAGP promueve una técnica innovadora para elaborar abono orgánico en hidrogel en Azuay</h3>
-                    <p>Iniciativa del MAGP para la producción sostenible de abono en la región.</p>
-                    <a href="https://mileniumtvi.com/magp-promueve-una-t-cnica-innovadora-para-elaborar-abono-org-nico-en-hidrogel-en-azuay" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Ecuador posee uno de los más grandes bancos de diversidad agrícola de América Latina</h3>
-                    <p>Ecuador destaca por su rica biodiversidad agrícola en el continente.</p>
-                    <a href="https://mileniumtvi.com/ecuador-posee-uno-de-los-m-s-grandes-bancos-de-diversidad-agr-cola-de-am-rica-latina" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Migrantes en Estados Unidos expresan su apoyo a Daniel Noboa: “Gracias por no olvidarse de nosotros”</h3>
-                    <p>Migrantes ecuatorianos en Estados Unidos manifiestan su respaldo al presidente Daniel Noboa por su compromiso con la diáspora y políticas que los benefician.</p>
-                    <a href="https://mileniumtvi.com/gracias-por-no-olvidarse-de-nosotros-migrantes-en-estados-unidos-expresan-su-apoyo-a-daniel-noboa" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Alcalde Zamora hace llamado para hacer de Cuenca una ciudad más humana</h3>
-                    <p>El alcalde de Cuenca, Cristian Zamora, convoca a la ciudadanía a trabajar en conjunto para transformar la ciudad en un espacio más inclusivo, solidario y humano.</p>
-                    <a href="https://mileniumtvi.com/alcalde-zamora-hace-llamado-para-hacer-de-cuenca-una-ciudad-m-s-humana1" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El truco de internet y el verdadero dulce humano</h3>
-                    <p>Descubre cómo un simple truco en internet revela la dulzura humana detrás de las pantallas, conectando corazones en la era digital.</p>
-                    <a href="https://mileniumtvi.com/el-truco-de-internet-y-el-verdadero-dulce-humano" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Gobierno Nacional impulsa la transformación digital con el programa EmpoderaTech Ecuador</h3>
-                    <p>El Gobierno Nacional lanza EmpoderaTech Ecuador, un programa para acelerar la transformación digital, capacitando a ciudadanos y fomentando la innovación tecnológica en el país.</p>
-                    <a href="https://mileniumtvi.com/gobierno-nacional-impulsa-la-transformaci-n-digital-con-el-programa-empoderatech-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Cuenca Natural Flow convocó a más de 70 mil personas en un festival por la conservación de los páramos</h3>
-                    <p>El festival Cuenca Natural Flow reunió a más de 70 mil asistentes en una celebración por la conservación de los páramos, promoviendo la sostenibilidad ambiental.</p>
-                    <a href="https://mileniumtvi.com/cuenca-natural-flow-convoc-a-m-s-de-70-mil-personas-en-un-festival-por-la-conservaci-n-de-los-p-ramos" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Gobierno Nacional impulsa el talento digital de los jóvenes manabitas con la entrega de 150 certificados en TIC</h3>
-                    <p>El Gobierno Nacional fortalece las habilidades digitales de los jóvenes de Manabí al entregar 150 certificados en Tecnologías de la Información y Comunicación, promoviendo su inserción en el mundo laboral tecnológico.</p>
-                    <a href="https://mileniumtvi.com/gobierno-nacional-impulsa-el-talento-digital-de-los-jovenes-manabitas-con-la-entrega-de-150-certificados-en-tic" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El Gobierno Nacional amplía el escudo de protección social y continúa con la entrega de bonos a 55000 familias</h3>
-                    <p>El Gobierno Nacional fortalece el escudo de protección social, entregando bonos a 55,000 familias para garantizar su bienestar y apoyo económico.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-nacional-amplia-el-escudo-de-proteccion-social-y-continua-con-la-entrega-de-bonos-a-55000-familias" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El Gobierno Nacional trabaja por Salinas: más de USD 7 millones se materializarán en obras para el cantón</h3>
-                    <p>El Gobierno Nacional destina más de USD 7 millones para obras en Salinas, impulsando el desarrollo y bienestar del cantón.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-nacional-trabaja-por-salinas-mas-de-usd-7-millones-se-materializaran-en-obras-para-el-canton" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El presidente Noboa entregó motores fuera de borda a 600 pescadores de la zona costera del país</h3>
-                    <p>El presidente Daniel Noboa entregó motores fuera de borda a 600 pescadores de la costa, fortaleciendo su actividad productiva.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-entrego-motores-fuera-de-borda-a-600-pescadores-de-la-zona-costera-del-pais" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>La transformación tecnológica del nuevo Ecuador apoya el emprendimiento</h3>
-                    <p>La transformación tecnológica impulsada por el nuevo Ecuador fomenta el emprendimiento, brindando herramientas y oportunidades para innovar.</p>
-                    <a href="https://mileniumtvi.com/la-transformacion-tecnologina-del-nuevo-ecuador-apoya-el-emprendimeinto" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Entrega de obra de la subestación y sistema de transmisión La Avanzada</h3>
-                    <p>Se entrega la obra de la subestación y sistema de transmisión La Avanzada, mejorando la infraestructura eléctrica del país.</p>
-                    <a href="https://mileniumtvi.com/entrega-de-obra-de-la-subestacion-y-sistema-de-transmision-la-avanzada" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El presidente Noboa articula acciones para fortalecer el emprendimiento en El Oro, entregó 2000 bonos Incentivo Emprende y firmó convenio con el CONGOPE</h3>
-                    <p>El presidente Daniel Noboa impulsa el emprendimiento en El Oro con la entrega de 2000 bonos Incentivo Emprende y la firma de un convenio con el CONGOPE.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-articula-acciones-para-fortalecer-el-emprendimiento-en-el-oro-entrego-2000-bonos-incentivo-emprende-y-firmo-convenio-con-el-congope" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El presidente Noboa dispone la creación del programa de residencias universitarias</h3>
-                    <p>El presidente Daniel Noboa impulsa la creación del programa de residencias universitarias para apoyar a estudiantes con acceso a vivienda digna y cercana a sus centros de estudio.</p>
-                    <a href="https://mileniumtvi.com/el-presidente-noboa-dispone-la-creacion-del-programa-de-residencias-universitarias" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Vicepresidenta María José Pinto garantiza atención y apoyo a las familias de Imbabura</h3>
-                    <p>La vicepresidenta María José Pinto supervisa y garantiza la entrega de apoyo y atención integral a las familias de Imbabura, fortaleciendo su bienestar y desarrollo.</p>
-                    <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-garantiza-atencion-y-apoyo-a-las-familias-de-imbabura" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El ministro Roberto Kury inauguró el Punto Digital Gratuito Petrillo</h3>
-                    <p>El ministro Roberto Kury inauguró el Punto Digital Gratuito Petrillo, mejorando el acceso a internet y promoviendo la inclusión digital en la comunidad.</p>
-                    <a href="https://mileniumtvi.com/el-ministro-roberto-kury-inauguro-el-punto-digital-gratuito-petrillo" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>5300 personas reciben los servicios del gobierno en sus barrios durante el feriado</h3>
-                    <p>Durante el feriado, 5300 personas accedieron a los servicios del gobierno en sus barrios, fortaleciendo la atención directa a la ciudadanía.</p>
-                    <a href="https://mileniumtvi.com/5300-personas-reciben-los-servicios-del-gobierno-en-sus-barrios-durante-el-feriado" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Vicepresidenta María José Pinto impulsó el corredor humanitario para reactivar y abastecer a Imbabura</h3>
-                    <p>La vicepresidenta María José Pinto lideró la creación de un corredor humanitario para reactivar y garantizar el abastecimiento en Imbabura.</p>
-                    <a href="https://mileniumtvi.com/vicepresidenta-maria-jose-pinto-impulso-el-corredor-humanitario-para-reactivar-y-abastecer-a-imbabura" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Imbabura: el contrabando deja de ser negocio a pesar del empeño en secuestrar la provincia</h3>
-                    <p>En Imbabura, las acciones del gobierno han debilitado el contrabando, frustrando intentos de desestabilizar la provincia.</p>
-                    <a href="https://mileniumtvi.com/imbabura--el-contrabando-deja-de-ser-negocio-a-pesar-del-empeno-en-secuestrar-la-provincia" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El Gobierno del presidente Daniel Noboa implementa la tecnología 5G, impulsando la transformación digital del Ecuador</h3>
-                    <p>El Gobierno del presidente Daniel Noboa implementa la tecnología 5G, impulsando la transformación digital del Ecuador, mejorando la conectividad y fomentando la innovación en el país.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-del-presidente-daniel-noboa-implementa-la-tecnologia-5g-impulsando-la-transformacion-digital-del-ecuador" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El Gobierno del nuevo Ecuador certificó a 300 jóvenes de Calacalí en el manejo de herramientas tecnológicas y redes sociales</h3>
-                    <p>El Gobierno del nuevo Ecuador certificó a 300 jóvenes de Calacalí en el manejo de herramientas tecnológicas y redes sociales, impulsando sus habilidades digitales para el futuro.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-del-nuevo-ecuador-certifico-a-300-jovenes-de-calacali-en-el-manejo-de-herramientas-tecnologicas-y-redes-sociales" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Ecuador amplía la Reserva de Biosfera Galápagos con la inclusión de la Reserva Marina Hermandad</h3>
-                    <p>Ecuador amplía la Reserva de Biosfera Galápagos al incorporar la Reserva Marina Hermandad, fortaleciendo la conservación de este ecosistema único.</p>
-                    <a href="https://mileniumtvi.com/ecuador-amplia-la-reserva-de-biosfera-galapagos-con-la-inclusion-de-la-reserva-marina-hermandad" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>En Cuenca, el concierto Funky Night</h3>
-                    <p>Cuenca vibró con el concierto Funky Night, un evento que reunió a amantes de la música en una noche llena de ritmo y energía.</p>
-                    <a href="https://mileniumtvi.com/en-cuenca-el-concierto-funky-night" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El Gobierno Nacional celebra la Independencia de Guayaquil con más oportunidades digitales para sus ciudadanos</h3>
-                    <p>El Gobierno Nacional conmemora la Independencia de Guayaquil impulsando oportunidades digitales para mejorar la conectividad y el acceso a la tecnología.</p>
-                    <a href="https://mileniumtvi.com/el-gobierno-nacional-celebra-la-independencia-de-guayaquil-con-mas-oportunidades-digitales-para-sus-ciudadanos" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Puntos Digitales Gratuitos PDG 9 de Octubre y El Astillero</h3>
-                    <p>Se inauguran puntos digitales gratuitos en 9 de Octubre y El Astillero, mejorando el acceso a internet y la conectividad en estas comunidades.</p>
-                    <a href="https://mileniumtvi.com/puntos-digitales-gratuitos-pdg-9-de-octubre-y-el-astillero" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>La vicepresidenta María José Pinto supervisa servicios a la primera infancia y de salud en Cayambe</h3>
-                    <p>La vicepresidenta María José Pinto supervisa programas de atención a la primera infancia y servicios de salud en Cayambe, garantizando su calidad y acceso.</p>
-                    <a href="https://mileniumtvi.com/la-vicepresidenta-maria-jose-pinto-supervisa-servicios-a-la-primera-infancia-y-de-salud-en-cayambe" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>El fraude digital se dispara: reseñas falsas y bots ponen en jaque al e-commerce global</h3>
-                    <p>El aumento de reseñas falsas y bots representa un desafío para el comercio electrónico global, afectando la confianza de los consumidores.</p>
-                    <a href="https://mileniumtvi.com/el-fraude-digital-se-dispara-resenas-falsas-y-bots-ponen-en-jaque-al-e-commerce-global" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>Gobierno intensifica operativos para garantizar abastecimiento y evitar especulación de combustibles y gas en todo el país</h3>
-                    <p>El gobierno intensifica operativos para asegurar el abastecimiento de combustibles y gas, combatiendo la especulación en todo el territorio nacional.</p>
-                    <a href="https://mileniumtvi.com/gobierno-intensifica-operativos-para-garantizar-abastecimiento-y-evitar-especulacion-de-combustibles-y-gas-en-todo-el-pais" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>CONADIS y Ministerio del Trabajo establecen el nuevo perfil para certificar a intérpretes en lengua de señas ecuatoriana</h3>
-                    <p>CONADIS y el Ministerio del Trabajo definen un nuevo perfil para certificar intérpretes en lengua de señas, promoviendo la inclusión de personas con discapacidad auditiva.</p>
-                    <a href="https://mileniumtvi.com/conadis-y-ministerio-del-trabajo-establecen-el-nuevo-perfil-para-certificar-a-interpretes-en-lengua-de-senas-ecuatoriana-conadis-y-ministerio-del-trabajo-establecen-el-nuevo-perfil-para-certificar-a-interpretes-en-lengua-de-senas-ecuatoriana" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-content">
-                    <h3>María José Pinto fortalece apoyo a la niñez y juventud en situación de riesgo en Ibarra</h3>
-                    <p>La vicepresidenta María José Pinto impulsa iniciativas para proteger y apoyar a la niñez y juventud en situación de riesgo en Ibarra, promoviendo su bienestar y desarrollo.</p>
-                    <a href="https://mileniumtvi.com/maria-jose-pinto-fortalece-apoyo-a-la-ninez-y-juventud-en-situacion-de-riesgo-en-ibarra" target="_blank" rel="noopener noreferrer">Leer más</a>
-                </div>
+
+
+
+   <!-- Noticias -->
+<section id="news" class="section">
+    <h2>Noticias</h2>
+    <div class="grid">
+        <div class="card">
+            <div class="card-content">
+                <h3>CELEC EP invierte en formación universitaria</h3>
+                <p>La Corporación Eléctrica del Ecuador (CELEC EP) invierte en la formación universitaria de jóvenes de zonas hidroeléctricas, entregando becas completas para estudiar Ingeniería Ambiental y Energías Alternativas.</p>
+                <a href="https://mileniumtvi.com/celec-ep-invierte-en-formacion-universitaria" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-    </section>
+        <div class="card">
+            <div class="card-content">
+                <h3>Carolina Haro es la nueva directora de SNGR</h3>
+                <p>Carolina Lozano Haro inicia su gestión al frente de la Secretaría de Gestión de Riesgos con una agenda técnica y de articulación institucional.</p>
+                <a href="https://mileniumtvi.com/carolina-haro-es-la-nueva-directora-de-sngr1" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>II Congreso de Cajas de Ahorro y Cajas Solidarias 2025</h3>
+                <p>Más de 500 mujeres se reúnen en Cuenca en el II Congreso de Cajas de Ahorro y Cajas Solidarias 2025, promoviendo el empoderamiento financiero y solidario.</p>
+                <a href="https://mileniumtvi.com/ii-congreso-de-cajas-de-ahorro-y-cajas-solidarias-2025" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Ecuador se consolida como exportador de lácteos</h3>
+                <p>Ecuador se consolida como exportador de lácteos al enviar 2.503 toneladas en dos años, generando USD 6,2 millones en ingresos por exportaciones.</p>
+                <a href="https://mileniumtvi.com/cuador-se-consolida-como-exportador-de-lacteos" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Vicepresidencia y UNICEF suscriben memorando</h3>
+                <p>La Vicepresidencia y UNICEF suscriben un Memorando de Entendimiento para garantizar los derechos de la niñez en Ecuador mediante acciones conjuntas.</p>
+                <a href="https://mileniumtvi.com/vicepresidencia-y-unicef-suscriben-memorando" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Oído y ACV</h3>
+                <p>Se revela la conexión poco conocida entre problemas de oído y accidentes cerebrovasculares, destacando la importancia de la salud auditiva para prevenir riesgos vasculares.</p>
+                <a href="https://mileniumtvi.com/oido-y-acv" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Se lanzó la Ronda Intercampos</h3>
+                <p>Se lanzó la Ronda Intracampos III que captará más de USD 360 millones en inversiones para el beneficio del sector petrolero del país.</p>
+                <a href="https://mileniumtvi.com/se-lanzo-la-ronda-intercamopos" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>La primera boletería solo para humanos llega de la mano de World y Mundo Arjona</h3>
+                <p>Se introduce la primera boletería "solo para humanos" para eventos de World y Mundo Arjona, utilizando tecnología para prevenir la reventa por bots y garantizar acceso equitativo.</p>
+                <a href="https://mileniumtvi.com/la-primera-boleteroa-solo-para-humanos-llega-de-la-mano-de-world-y-mundo-arjona" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Cañar se conecta</h3>
+                <p>El Gobierno Nacional inaugura un Nuevo Punto Digital Gratuito en Azogues, conectando a la provincia de Cañar con oportunidades digitales y acceso a internet de calidad.</p>
+                <a href="https://mileniumtvi.com/canar-se-conecta" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>El presidente Daniel Noboa dispone cambios en el gabinete ministerial</h3>
+                <p>El presidente Daniel Noboa dispone cambios en el gabinete ministerial para fortalecer la administración pública y avanzar en las prioridades nacionales.</p>
+                <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-dispone-cambios-en-el-gabinete-ministerial" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Registro en el país SNGR</h3>
+                <p>Ecuador inicia el Mapatón Anual Nacional 2025 para fortalecer la respuesta ante emergencias mediante el mapeo colaborativo de datos geográficos.</p>
+                <a href="https://mileniumtvi.com/regsitro-en-el-pais-sngr" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Arte circular en Cuenca</h3>
+                <p>Arte Circular regresa a Cuenca con esculturas hechas de neumáticos reciclados por segundo año consecutivo, ofreciendo entrada gratuita y promoviendo la sostenibilidad.</p>
+                <a href="https://mileniumtvi.com/arte-circular-en-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Caminos de luz para iluminar escuelas</h3>
+                <p>El Gobierno impulsa el programa "Caminos de Luz" para instalar iluminación en escuelas rurales, mejorando la seguridad y el acceso educativo.</p>
+                <a href="https://mileniumtvi.com/-caminos-de-luz-para-iluminar-escuelas" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Ecuador y Colombia culminan proyecto</h3>
+                <p>La cooperación binacional entre Ecuador y Colombia logra el 100% de metas en el proyecto de gobernanza hídrica compartida, fortaleciendo la gestión de recursos hídricos transfronterizos.</p>
+                <a href="https://mileniumtvi.com/ecuador-y-colombia-culminan-proyecto" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Por la salud mental</h3>
+                <p>Ecuador firma el histórico Pacto Nacional por la Salud Mental para promover políticas integrales que aborden el bienestar psicológico de la población.</p>
+                <a href="https://mileniumtvi.com/por-la-salud-mental" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Foro Nacional Urbano 2025</h3>
+                <p>El Gobierno impulsa “Ciudades del Futuro” en el Foro Urbano Nacional 2025 en Cuenca, promoviendo un Ecuador sostenible mediante planificación urbana innovadora.</p>
+                <a href="https://mileniumtvi.com/foro-nacional-urbano-2025" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-content">
+                <h3>Los puntos digitales gratuitos se proyectan como semilleros de innovación para emprendedores</h3>
+                <p>Los Puntos Digitales Gratuitos se posicionan como espacios clave para fomentar la innovación y el emprendimiento mediante acceso a herramientas tecnológicas y capacitación.</p>
+                <a href="https://mileniumtvi.com/los-puntos-digitales-gratuitos-se-proyectan-como-semilleros-de-innovacion-para-emprendedores-" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
 
     <!-- Noticias Locales -->
     <section id="locales" class="section">

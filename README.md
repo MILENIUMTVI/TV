@@ -423,18 +423,7 @@
         </div>
     </section>
 
-    <!-- Transmisión Alternativa -->
-    <section id="alternative-stream" class="section live-stream">
-        <h2>Transmisión Alternativa</h2>
-        <div class="entrevistas-container">
-            <div class="video-wrapper">
-                <div style='position: relative; padding-bottom: 56.25%; height: 0;'>
-                    <iframe src='https://player.viloud.tv/embed/channel/c8984eee3163b175a0c725860f53749d?autoplay=0&volume=1&controls=1&title=1&share=1&open_playlist=0&random=0' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' frameborder='0' allow='autoplay' allowfullscreen></iframe>
-                </div>
-            </div>
-            <p>Transmisión alternativa del canal principal de Milenium Tvi.</p>
-        </div>
-    </section>
+
 
 
 

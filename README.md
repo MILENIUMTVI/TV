@@ -368,60 +368,99 @@
     </section>
 
     <!-- TV Play -->
-    <section id="tvplay" class="section">
-        <h2>TV Play</h2>
-        <div class="grid">
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/brgDCi26lUQ?si=Hhr-ETQKVjf_nl5S" title="Expresión Popular con Diego Idrovo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Expresión Popular con Diego Idrovo</h3>
-                    <p>Diego Idrovo, Presidente de la Cámara de Transporte de Cuenca, analiza la tarifa del servicio urbano de buses en #ExpresionPopular</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/UyqlRsYiNIM?si=mVWrFf56yBosP7fa" title="Consejos de Nutrición con la Dra. Rocío Medina" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Consejos de Nutrición con la Dra. Rocío Medina</h3>
-                    <p>La Dra. Rocío Medina es Vicepresidenta e integrante del Consejo Consultor de Nutrición (NAB, por sus siglas en inglés) de Herbalife, donde contribuye con su experiencia médica y científica en el desarrollo de estrategias y productos orientados a la nutrición y el bienestar nos comparte consejos prácticos sobre cómo llevar una alimentación equilibrada a lo largo del día.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/nm3iahkSKwc?si=l7M2Bjy1pz-38Wbn" title="Conferencia Científica Orquideas Andinas" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Conferencia Científica Orquideas Andinas</h3>
-                    <p>Juan Pablo Martínez científico de Ecuagénera entrega detalles de la Conferencia Científica Orquideas Andinas, evento que se organiza con Diners Club y la USFQ.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/S-YnJOWrnm4?si=YRWN26E69KDaoesF" title="Ecos bajo la piel" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Ecos bajo la piel</h3>
-                    <p>Isis Patiño, productora y creadora de la obra "Ecos bajo la piel", Directora del colectivo escénico Raíz en Movimiento y Cofundadora de la Escuela de Artes Escénicas Medicina.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/iaSi9DRFx9c?si=noTdteZj20HH5UJV" title="Funky Night con Da Grove Jazz Music Project" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Funky Night con Da Grove Jazz Music Project</h3>
-                    <p>Alicia Boroto Directora del Centro Abraham Lincoln y Verónica Coello Directora Cultural del CEN invitan al Evento Gratuito FUNKY NIGHT CON DA GROVE JAZZ MUSIC PROJECT que será el jueves 16 de octubre desde las 19h30 en el Auditorio del Centro Abraham Lincoln en Borrero y Honorato Vázquez</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Programa Estelar</h3>
-                    <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
-                </div>
-            </div>
-            <div class="card">
-                <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="card-content">
-                    <h3>Serie Exclusiva</h3>
-                    <p>Una serie que no te puedes perder, disponible en TV Play.</p>
-                </div>
+<section id="tvplay" class="section">
+    <h2>TV Play</h2>
+    <div class="grid">
+        <!-- Noticias nuevas al inicio -->
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/I9eZ3wBCmb4" title="Rayo cercena la cabeza del Cristo Rey de Cullca" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Rayo cercena la cabeza del Cristo Rey de Cullca</h3>
+                <p>Un rayo cercenó la cabeza del monumento a Cristo Rey de Cullca la tarde de este martes. Este monumento tiene una antigüedad de más de 90 años</p>
             </div>
         </div>
-    </section>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/XsS51vDleGI" title="Fuga en el Centro de Privación de Libertad de Azogues" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>3 PPLs se fugaron del CLP Azogues</h3>
+                <p>3 PPLs se fugaron del CLP Azogues, uno fue recapturado</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/6K8Iz6diL5s" title="Avance de la readecuación del Estadio Alejandro Serrano Aguilar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Readecuación del Estadio Alejandro Serrano Aguilar</h3>
+                <p>La readecuación del Estadio Alejandro Serrano Aguilar registra un 60% de avance</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/Kc1Gh7hB4Jo" title="Alianza histórica contra el embarazo adolescente" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Vicepresidencia y UNFPA firman alianza contra el embarazo adolescente</h3>
+                <p>Vicepresidencia y UNFPA firman alianza histórica contra el embarazo adolescente.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/tbDukyFxAFQ" title="Inauguración de los Portales de Seguridad" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Portales de Seguridad Azuay - Guayas</h3>
+                <p>Los prefectos de Azuay y Guayas inauguran los Portales de Seguridad</p>
+            </div>
+        </div>
+
+        <!-- Contenido original (sin cambios) -->
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/brgDCi26lUQ?si=Hhr-ETQKVjf_nl5S" title="Expresión Popular con Diego Idrovo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Expresión Popular con Diego Idrovo</h3>
+                <p>Diego Idrovo, Presidente de la Cámara de Transporte de Cuenca, analiza la tarifa del servicio urbano de buses en #ExpresionPopular</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/UyqlRsYiNIM?si=mVWrFf56yBosP7fa" title="Consejos de Nutrición con la Dra. Rocío Medina" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Consejos de Nutrición con la Dra. Rocío Medina</h3>
+                <p>La Dra. Rocío Medina es Vicepresidenta e integrante del Consejo Consultor de Nutrición (NAB, por sus siglas en inglés) de Herbalife, donde contribuye con su experiencia médica y científica en el desarrollo de estrategias y productos orientados a la nutrición y el bienestar nos comparte consejos prácticos sobre cómo llevar una alimentación equilibrada a lo largo del día.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/nm3iahkSKwc?si=l7M2Bjy1pz-38Wbn" title="Conferencia Científica Orquideas Andinas" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Conferencia Científica Orquideas Andinas</h3>
+                <p>Juan Pablo Martínez científico de Ecuagénera entrega detalles de la Conferencia Científica Orquideas Andinas, evento que se organiza con Diners Club y la USFQ.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/S-YnJOWrnm4?si=YRWN26E69KDaoesF" title="Ecos bajo la piel" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Ecos bajo la piel</h3>
+                <p>Isis Patiño, productora y creadora de la obra "Ecos bajo la piel", Directora del colectivo escénico Raíz en Movimiento y Cofundadora de la Escuela de Artes Escénicas Medicina.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/iaSi9DRFx9c?si=noTdteZj20HH5UJV" title="Funky Night con Da Grove Jazz Music Project" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Funky Night con Da Grove Jazz Music Project</h3>
+                <p>Alicia Boroto Directora del Centro Abraham Lincoln y Verónica Coello Directora Cultural del CEN invitan al Evento Gratuito FUNKY NIGHT CON DA GROVE JAZZ MUSIC PROJECT que será el jueves 16 de octubre desde las 19h30 en el Auditorio del Centro Abraham Lincoln en Borrero y Honorato Vázquez</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/xc4BXbdbPgk" title="Programa Estelar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Programa Estelar</h3>
+                <p>Disfruta de nuestro programa insignia con invitados especiales.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/QRV5teEvBlY" title="Serie Exclusiva" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Serie Exclusiva</h3>
+                <p>Una serie que no te puedes perder, disponible en TV Play.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 

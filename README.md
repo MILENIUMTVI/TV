@@ -367,11 +367,32 @@
         </div>
     </section>
 
+
+
+
+
+
     <!-- TV Play -->
 <section id="tvplay" class="section">
     <h2>TV Play</h2>
     <div class="grid">
        
+
+        <!-- NUEVAS TARJETAS AL INICIO -->
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/krueypTySow?feature=share" title="Arte Circular en Cuenca 28,29 y 30 de noviembre" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Arte Circular en Cuenca 28,29 y 30 de noviembre</h3>
+                <p>Evento cultural de arte circular en Cuenca los días 28, 29 y 30 de noviembre.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/1qga_FKWYL0?feature=share" title="Remigio Hurtado Presidente de los Servidores Públicos" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Remigio Hurtado Presidente de los Servidores Públicos</h3>
+                <p>Entrevista o segmento con Remigio Hurtado, Presidente de los Servidores Públicos.</p>
+            </div>
+        </div>
 
         <!-- Contenido original (sin cambios) -->
         <div class="card">
@@ -425,6 +446,11 @@
         </div>
     </div>
 </section>
+
+
+
+
+
 
 
 

@@ -372,6 +372,9 @@
 
 
 
+
+
+
     <!-- TV Play -->
 <section id="tvplay" class="section">
     <h2>TV Play</h2>
@@ -383,14 +386,14 @@
             <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/krueypTySow?feature=share" title="Arte Circular en Cuenca 28,29 y 30 de noviembre" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="card-content">
                 <h3>Arte Circular en Cuenca 28,29 y 30 de noviembre</h3>
-                <p>Evento cultural de arte circular en Cuenca los días 28, 29 y 30 de noviembre.</p>
+                <p>El artista Boris Cabrera entrega detalles de la expo Arte Circular para los días 28, 29 y 30 de noviembre por segunda ocasión consecutiva en Cuenca, en Expresión Popular con Mauricio Lupercio.</p>
             </div>
         </div>
         <div class="card">
-            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/1qga_FKWYL0?feature=share" title="Remigio Hurtado Presidente de los Servidores Públicos" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/1qga_FKWYL0?feature=share" title="Remigio Hurtado Presidente de los Servidores Públicos Ecuador post Consulta" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="card-content">
-                <h3>Remigio Hurtado Presidente de los Servidores Públicos</h3>
-                <p>Entrevista o segmento con Remigio Hurtado, Presidente de los Servidores Públicos.</p>
+                <h3>Remigio Hurtado Presidente de los Servidores Públicos Ecuador post Consulta</h3>
+                <p>Remigio Hurtado, Presidente de los Servidores Públicos Ecuador, discute temas posteriores a una consulta en esta transmisión en vivo.</p>
             </div>
         </div>
 
@@ -446,6 +449,8 @@
         </div>
     </div>
 </section>
+
+
 
 
 

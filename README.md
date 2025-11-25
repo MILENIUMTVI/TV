@@ -569,42 +569,7 @@
 
 
 
-         <!-- Noticias nuevas al inicio -->
-        <div class="card">
-            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/I9eZ3wBCmb4" title="Rayo cercena la cabeza del Cristo Rey de Cullca" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>Rayo cercena la cabeza del Cristo Rey de Cullca</h3>
-                <p>Un rayo cercenó la cabeza del monumento a Cristo Rey de Cullca la tarde de este martes. Este monumento tiene una antigüedad de más de 90 años</p>
-            </div>
-        </div>
-        <div class="card">
-            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/XsS51vDleGI" title="Fuga en el Centro de Privación de Libertad de Azogues" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>3 PPLs se fugaron del CLP Azogues</h3>
-                <p>3 PPLs se fugaron del CLP Azogues, uno fue recapturado</p>
-            </div>
-        </div>
-        <div class="card">
-            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/6K8Iz6diL5s" title="Avance de la readecuación del Estadio Alejandro Serrano Aguilar" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>Readecuación del Estadio Alejandro Serrano Aguilar</h3>
-                <p>La readecuación del Estadio Alejandro Serrano Aguilar registra un 60% de avance</p>
-            </div>
-        </div>
-        <div class="card">
-            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/Kc1Gh7hB4Jo" title="Alianza histórica contra el embarazo adolescente" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>Vicepresidencia y UNFPA firman alianza contra el embarazo adolescente</h3>
-                <p>Vicepresidencia y UNFPA firman alianza histórica contra el embarazo adolescente.</p>
-            </div>
-        </div>
-        <div class="card">
-            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/tbDukyFxAFQ" title="Inauguración de los Portales de Seguridad" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <div class="card-content">
-                <h3>Portales de Seguridad Azuay - Guayas</h3>
-                <p>Los prefectos de Azuay y Guayas inauguran los Portales de Seguridad</p>
-            </div>
-        </div>
+        
 
         
             <div class="card">

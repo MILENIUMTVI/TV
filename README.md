@@ -635,6 +635,39 @@
 
         <!-- NUEVAS NOTICIAS AL INICIO -->
         <div class="card">
+            <a href="https://youtu.be/6hhBPfeObYM" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/6hhBPfeObYM/hqdefault.jpg" alt="La soprano Mayela López en la Catedral Vieja de Cuenca">
+            </a>
+            <div class="card-content">
+                <h3>La soprano Mayela López en la Catedral Vieja de Cuenca</h3>
+                <p>La soprano Mayela López brindó un gran espectáculo en la Catedral Vieja de Cuenca, en un concierto que unió a México y Ecuador bajo el marco del festival internacional de órgano de Morelia, con el acompañamiento del cuarteto Pumapungo String Quartet.</p>
+                <a href="https://youtu.be/6hhBPfeObYM" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <a href="https://youtu.be/8o4-hswQ_PU" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/8o4-hswQ_PU/hqdefault.jpg" alt="Grandes descuentos por Viernes Negro en Cuenca">
+            </a>
+            <div class="card-content">
+                <h3>Grandes descuentos por Viernes Negro en Cuenca</h3>
+                <p>El video describe la celebración del Black Friday en Cuenca con gran entusiasmo. Desde las 5 de la mañana, los ciudadanos acudieron a las siete tiendas de la cadena de hipermercados Coral Cuenca para aprovechar más de 600 productos en oferta con descuentos de hasta el 80%.</p>
+                <a href="https://youtu.be/8o4-hswQ_PU" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <a href="https://youtu.be/tbDukyFxAFQ" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/tbDukyFxAFQ/hqdefault.jpg" alt="Portales de Seguridad Azuay-Guayas">
+            </a>
+            <div class="card-content">
+                <h3>Los prefectos de Azuay y Guayas inauguran los Portales de Seguridad</h3>
+                <p>Los prefectos de Azuay y Guayas han inaugurado los Portales de Seguridad en la entrada a la provincia de Azuay, equipados con identificación facial y lector de placas de vehículos mediante cámaras de inteligencia artificial. Estos portales, instalados en cinco puntos de entrada y salida, están a cargo de la Policía Nacional y ECU 911 para reforzar la seguridad ciudadana. Además, se renovó una unidad policial con inversión superior a un millón de dólares, a pesar de deudas pendientes del gobierno nacional, priorizando la seguridad en el corredor Guayaquil-Cuenca para proteger a turistas y fomentar la economía regional.</p>
+                <a href="https://youtu.be/tbDukyFxAFQ" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+
+        <div class="card">
             <a href="https://youtu.be/XsS51vDleGI" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/XsS51vDleGI/hqdefault.jpg" alt="3 PPLs se fugaron del CLP Azogues">
             </a>
@@ -884,6 +917,8 @@
 
     </div>
 </section>
+
+
 
  
 

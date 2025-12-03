@@ -467,6 +467,103 @@
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
+
+        <!-- Videos de YouTube (al inicio) -->
+        <div class="card">
+            <div class="card-content">
+                <h3>¡Histórico! Ecuador firma el Pacto Nacional por la Salud Mental</h3>
+                <p>Por primera vez en la historia del país, el Gobierno del Ecuador, junto a organismos internacionales y sociedad civil, firmó el Pacto Nacional por la Salud Mental.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/Kc1Gh7hB4Jo" title="¡Histórico! Ecuador firma el Pacto Nacional por la Salud Mental" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/Kc1Gh7hB4Jo" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Foro Nacional Urbano 2025: Ciudades del Futuro en Cuenca</h3>
+                <p>El Gobierno Nacional presentó el Foro Urbano Nacional 2025 “Ciudades del Futuro”, que se realizará en Cuenca y busca construir un Ecuador sostenible.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/ra_T7Qnb3Kg" title="Foro Nacional Urbano 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/ra_T7Qnb3Kg" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Puntos Digitales Gratuitos: semilleros de innovación y emprendimiento</h3>
+                <p>Los Puntos Digitales Gratuitos del Gobierno se consolidan como espacios clave para el emprendimiento y la innovación tecnológica en todo el país.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/VZPs0IOaVQQ" title="Puntos Digitales Gratuitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/VZPs0IOaVQQ" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Ecuador y Colombia culminan con éxito proyecto de gobernanza hídrica</h3>
+                <p>La cooperación binacional entre Ecuador y Colombia alcanzó el 100% de las metas del proyecto de gobernanza hídrica en cuencas transfronterizas.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/plNqVnb9VbM" title="Ecuador y Colombia culminan proyecto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/plNqVnb9VbM" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Caminos de Luz: Gobierno ilumina escuelas rurales del país</h3>
+                <p>El programa “Caminos de Luz” lleva iluminación a escuelas rurales para garantizar seguridad y acceso educativo en comunidades apartadas.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/Hj5mkQlxkuY" title="Caminos de Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/Hj5mkQlxkuY" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Arte Circular vuelve a Cuenca con esculturas de neumáticos reciclados</h3>
+                <p>Por segundo año consecutivo, la exposición Arte Circular regresa a Cuenca con entrada gratuita y esculturas hechas 100% de neumáticos reciclados.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/wuefSgpPQek" title="Arte Circular en Cuenca" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/wuefSgpPQek" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Cañar se conecta: Nuevo Punto Digital Gratuito en Azogues</h3>
+                <p>El Gobierno Nacional inauguró un nuevo Punto Digital Gratuito en Azogues, llevando internet de alta velocidad y oportunidades digitales a la provincia de Cañar.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/DZs3ipUmd5M" title="Cañar se conecta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/DZs3ipUmd5M" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <!-- Noticias nuevas de mileniumtvi.com -->
+        <div class="card">
+            <div class="card-content">
+                <h3>No arranques la piel de los bosques</h3>
+                <p>Los incendios forestales no solo queman árboles: destruyen el suelo vivo que tarda siglos en formarse. Expertos alertan que la pérdida de cobertura vegetal deja al suelo desnudo y vulnerable a la erosión.</p>
+                <a href="https://mileniumtvi.com/no-arranques-la-piel-de-los-bosques1" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Tercera sede tecnológica en la parroquia beneficiará a 3000 habitantes</h3>
+                <p>La parroquia rural más grande de Cuenca contará con su tercera sede tecnológica gracias a una alianza entre el GAD Parroquial de Baños y el Ministerio de Telecomunicaciones, beneficiando directamente a más de 3000 habitantes.</p>
+                <a href="https://mileniumtvi.com/tercera-sede-tecnologica-en-la-parroquia-beneficiara-a-3000-habitantes" target="_blank" rel="noopener noreferrer">Leer más</a>
+            </div>
+        </div>
+
+        <!-- Las 7 noticias originales que se mantienen -->
         <div class="card">
             <div class="card-content">
                 <h3>CELEC EP invierte en formación universitaria</h3>
@@ -516,78 +613,14 @@
                 <a href="https://mileniumtvi.com/se-lanzo-la-ronda-intercamopos" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>La primera boletería solo para humanos llega de la mano de World y Mundo Arjona</h3>
-                <p>Se introduce la primera boletería "solo para humanos" para eventos de World y Mundo Arjona, utilizando tecnología para prevenir la reventa por bots y garantizar acceso equitativo.</p>
-                <a href="https://mileniumtvi.com/la-primera-boleteroa-solo-para-humanos-llega-de-la-mano-de-world-y-mundo-arjona" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Cañar se conecta</h3>
-                <p>El Gobierno Nacional inaugura un Nuevo Punto Digital Gratuito en Azogues, conectando a la provincia de Cañar con oportunidades digitales y acceso a internet de calidad.</p>
-                <a href="https://mileniumtvi.com/canar-se-conecta" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>El presidente Daniel Noboa dispone cambios en el gabinete ministerial</h3>
-                <p>El presidente Daniel Noboa dispone cambios en el gabinete ministerial para fortalecer la administración pública y avanzar en las prioridades nacionales.</p>
-                <a href="https://mileniumtvi.com/el-presidente-daniel-noboa-dispone-cambios-en-el-gabinete-ministerial" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Registro en el país SNGR</h3>
-                <p>Ecuador inicia el Mapatón Anual Nacional 2025 para fortalecer la respuesta ante emergencias mediante el mapeo colaborativo de datos geográficos.</p>
-                <a href="https://mileniumtvi.com/regsitro-en-el-pais-sngr" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Arte circular en Cuenca</h3>
-                <p>Arte Circular regresa a Cuenca con esculturas hechas de neumáticos reciclados por segundo año consecutivo, ofreciendo entrada gratuita y promoviendo la sostenibilidad.</p>
-                <a href="https://mileniumtvi.com/arte-circular-en-cuenca" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Caminos de luz para iluminar escuelas</h3>
-                <p>El Gobierno impulsa el programa "Caminos de Luz" para instalar iluminación en escuelas rurales, mejorando la seguridad y el acceso educativo.</p>
-                <a href="https://mileniumtvi.com/-caminos-de-luz-para-iluminar-escuelas" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Ecuador y Colombia culminan proyecto</h3>
-                <p>La cooperación binacional entre Ecuador y Colombia logra el 100% de metas en el proyecto de gobernanza hídrica compartida, fortaleciendo la gestión de recursos hídricos transfronterizos.</p>
-                <a href="https://mileniumtvi.com/ecuador-y-colombia-culminan-proyecto" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Por la salud mental</h3>
-                <p>Ecuador firma el histórico Pacto Nacional por la Salud Mental para promover políticas integrales que aborden el bienestar psicológico de la población.</p>
-                <a href="https://mileniumtvi.com/por-la-salud-mental" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Foro Nacional Urbano 2025</h3>
-                <p>El Gobierno impulsa “Ciudades del Futuro” en el Foro Urbano Nacional 2025 en Cuenca, promoviendo un Ecuador sostenible mediante planificación urbana innovadora.</p>
-                <a href="https://mileniumtvi.com/foro-nacional-urbano-2025" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Los puntos digitales gratuitos se proyectan como semilleros de innovación para emprendedores</h3>
-                <p>Los Puntos Digitales Gratuitos se posicionan como espacios clave para fomentar la innovación y el emprendimiento mediante acceso a herramientas tecnológicas y capacitación.</p>
-                <a href="https://mileniumtvi.com/los-puntos-digitales-gratuitos-se-proyectan-como-semilleros-de-innovacion-para-emprendedores-" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
+
     </div>
 </section>
+
+
+
+
+
 
 
 

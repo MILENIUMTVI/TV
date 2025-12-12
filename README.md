@@ -980,17 +980,17 @@
 <section class="section" style="background-color: #0f172a; color: #ffffff; padding: 40px 20px; text-align: center;">
     <div class="container" style="max-width: 1200px; margin: 0 auto;">
         <h2 style="font-size: 2.2rem; margin-bottom: 20px; color: #f59e0b;">
-            📺 Milenium TVI - En Vivo 24/7
+            Milenium TVI - En Vivo 24/7
         </h2>
         <p style="font-size: 1.1rem; margin-bottom: 30px; opacity: 0.9;">
             Sintoniza nuestra señal en directo con las últimas noticias, entrevistas y programación en tiempo real.
         </p>
 
-        <!-- Contenedor responsive con tamaño máximo para evitar que sea demasiado grande -->
+        <!-- Reproductor principal (responsive y con tamaño controlado) -->
         <div style="position: relative; width: 100%; max-width: 800px; aspect-ratio: 16 / 9; background: #000; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); overflow: hidden; margin: 0 auto;">
             <iframe 
                 src="https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnDBuFpLzkEA3F8ZZnP7elYXudG4j9SVkHZ20AUWLkFtU/AlU+HGwG6Pk4Jp3ZACUQKKms7WpBWm3wsU5abi8Nfrxv/Ac2ScFCWo/AgyChPqOjMBIztJBV4BUfLSgmQD7PVhFQDA8jvFoNJ6Z/tKSCdva3WDc6ANhDOIQH0q22azLvbgiue2v9EiSQ==" 
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 12px;" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
                 frameborder="0" 
                 allow="autoplay; encrypted-media; picture-in-picture" 
                 allowfullscreen
@@ -1003,6 +1003,30 @@
         </p>
     </div>
 </section>
+
+<!-- OPCIÓN 2 - Enlace alternativo -->
+<section class="section" style="background-color: #1e293b; color: #ffffff; padding: 30px 20px; text-align: center;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto;">
+        <h2 style="font-size: 1.8rem; margin-bottom: 15px; color: #f59e0b;">
+            OPCIÓN 2 - Versión alternativa
+        </h2>
+        <p style="font-size: 1.1rem; margin-bottom: 25px; opacity: 0.9;">
+            Si el reproductor principal no carga correctamente, usa esta versión optimizada:
+        </p>
+        
+        <a href="https://mileniumtvi.github.io/MILENIUMTVI/" target="_blank" 
+           style="display: inline-block; background-color: #f59e0b; color: #0f172a; font-weight: bold; padding: 14px 32px; border-radius: 50px; text-decoration: none; font-size: 1.1rem; box-shadow: 0 6px 20px rgba(245, 158, 11, 0.4); transition: all 0.3s ease;">
+            Abrir Transmisión Alternativa
+        </a>
+
+        <p style="margin-top: 20px; font-size: 0.9rem; opacity: 0.7;">
+            Se abrirá en una nueva pestaña • 100% compatible con móviles y computadores
+        </p>
+    </div>
+</section>
+
+
+
 
 
 

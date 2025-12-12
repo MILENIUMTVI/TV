@@ -1,6 +1,6 @@
 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -305,67 +305,25 @@
         </div>
     </section>
 
-    <!-- Transmisiones en Vivo -->
-    <section id="live" class="section live-stream">
-        <h2>Transmisiones en Vivo</h2>
-        <div class="entrevistas-container">
-            <!-- Canal 1: Milenium TVI Principal -->
-            <div class="video-wrapper">
-                <iframe 
-                    src="https://app.viloud.tv/embed/channel/c8984eee3163b175a0c725860f53749d?autoplay=false&muted=false" 
-                    width="100%" 
-                    height="360" 
-                    frameborder="0" 
-                    allowfullscreen 
-                    allow="autoplay; encrypted-media" 
-                    title="Transmisión en vivo del canal principal de Milenium Tvi">
-                </iframe>
-            </div>
-            <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
-
-            <!-- Canal 2: MTVI2 Musical -->
-            <div class="video-wrapper">
-                <iframe 
-                    src="https://app.viloud.tv/embed/channel/119c56a41cef4bf9b47e6d600cc70a63?autoplay=false&muted=false" 
-                    width="100%" 
-                    height="360" 
-                    frameborder="0" 
-                    allowfullscreen 
-                    allow="autoplay; encrypted-media" 
-                    title="MTVI2 Musical - Música en vivo">
-                </iframe>
-            </div>
-            <p>Disfruta de la mejor selección de música en vivo con MTVI2 Musical.</p>
-
-            <!-- Canal 3: MTVI3 Películas -->
-            <div class="video-wrapper">
-                <iframe 
-                    src="https://app.viloud.tv/embed/channel/fa28724c715bb373296ca57a2dcd551c?autoplay=false&muted=false" 
-                    width="100%" 
-                    height="360" 
-                    frameborder="0" 
-                    allowfullscreen 
-                    allow="autoplay; encrypted-media" 
-                    title="MTVI3 Películas - Streaming continuo">
-                </iframe>
-            </div>
-            <p>Las mejores películas en streaming continuo con MTVI3 Películas.</p>
-
-            <!-- Canal 4: MTVI4 Series -->
-            <div class="video-wrapper">
-                <iframe 
-                    src="https://app.viloud.tv/embed/channel/8823313f19b20ef55dea4f3ad8a4cab7?autoplay=false&muted=false" 
-                    width="100%" 
-                    height="360" 
-                    frameborder="0" 
-                    allowfullscreen 
-                    allow="autoplay; encrypted-media" 
-                    title="MTVI4 Series - Tus series favoritas en vivo">
-                </iframe>
-            </div>
-            <p>Tus series favoritas en transmisión en vivo con MTVI4 Series.</p>
+   <!-- Transmisiones en Vivo -->
+<section id="live" class="section live-stream">
+    <h2>Transmisiones en Vivo</h2>
+    <div class="entrevistas-container">
+        <!-- Canal Principal: Milenium TVI Principal -->
+        <div class="video-wrapper">
+            <iframe 
+                src="https://app.viloud.tv/embed/channel/c8984eee3163b175a0c725860f53749d?autoplay=false&muted=false" 
+                width="100%" 
+                height="360" 
+                frameborder="0" 
+                allowfullscreen 
+                allow="autoplay; encrypted-media" 
+                title="Transmisión en vivo del canal principal de Milenium Tvi">
+            </iframe>
         </div>
-    </section>
+        <p>Transmisión en vivo del canal principal de Milenium Tvi.</p>
+    </div>
+</section>
 
 
 
@@ -394,6 +352,29 @@
             <div class="card-content">
                 <h3>Remigio Hurtado Presidente de los Servidores Públicos Ecuador post Consulta</h3>
                 <p>Remigio Hurtado, Presidente de los Servidores Públicos Ecuador, discute temas posteriores a una consulta en esta transmisión en vivo.</p>
+            </div>
+        </div>
+
+        <!-- NUEVAS TARJETAS INSERTADAS -->
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/8ZS2rotgQQo?feature=oembed" title="Informe de Contraloría sobre compra de vehículo blindado en Municipio de Cuenca" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Informe de Contraloría sobre compra de vehículo blindado en Municipio de Cuenca</h3>
+                <p>En este informe, se detalla el análisis de la Contraloría General del Estado sobre la adquisición de un vehículo blindado por parte del Municipio de Cuenca, destacando aspectos clave de la auditoría y sus implicaciones.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/rOU6KWPPMfo?feature=oembed" title="Transmisión en vivo de Expresión Popular" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Transmisión en vivo de Expresión Popular</h3>
+                <p>Únete a la transmisión en vivo del programa Expresión Popular, donde se abordan temas actuales con invitados especiales y debates en tiempo real.</p>
+            </div>
+        </div>
+        <div class="card">
+            <iframe loading="lazy" width="100%" height="315" src="https://www.youtube.com/embed/GOyW3FjQJyg?feature=oembed" title="Ana Altamirano, Nutricionista de Vita Alimentos" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="card-content">
+                <h3>Ana Altamirano, Nutricionista de Vita Alimentos</h3>
+                <p>Ana Altamirano, nutricionista experta de Vita Alimentos, comparte consejos prácticos sobre alimentación saludable y bienestar en esta entrevista exclusiva.</p>
             </div>
         </div>
 
@@ -462,13 +443,56 @@
 
 
 
-
-   <!-- Noticias -->
+  <!-- Noticias -->
 <section id="news" class="section">
     <h2>Noticias</h2>
     <div class="grid">
 
         <!-- Videos de YouTube (al inicio) -->
+        <div class="card">
+            <div class="card-content">
+                <h3>El Gobierno instala el primer Comité Intersectorial contra la desnutrición infantil</h3>
+                <p>El Gobierno de Ecuador, liderado por la Vicepresidenta María José Pinto, instaló el primer Comité Intersectorial contra la desnutrición infantil en la Gobernación de Guayas, uniendo ministerios, instituciones y gobiernos locales para coordinar acciones y aplicar la ley.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/Wi-McUBdGnA" title="El Gobierno instala el primer Comité Intersectorial contra la desnutrición infantil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/Wi-McUBdGnA" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Ecuador declara 2026 como “El Año de la Mujer que Siembra Futuro”, en alianza con la ONU</h3>
+                <p>El gobierno de Ecuador, en alianza con la ONU, declaró 2026 como el Año de la Mujer que Siembra Futuro para empoderar a las mujeres rurales, reconocer su rol clave en la seguridad alimentaria y promover un campo más productivo e inclusivo.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/h-0zeVfyGyY" title="Ecuador declara 2026 como “El Año de la Mujer que Siembra Futuro”, en alianza con la ONU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/h-0zeVfyGyY" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>Bolívar ya suma 26 PDG y el país supera los 9.7 millones de visitas y 544 mil capacitados</h3>
+                <p>Se inauguraron cuatro nuevos Puntos de Acceso Digital (PDG) gratuitos en Bolívar, Ecuador, beneficiando a más de 26,000 residentes en áreas como Santa Rosa de Doctoras, San Miguel y Vinchoa Grande Guaranda, con acceso a herramientas digitales y capacitación para reducir el analfabetismo digital.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/13vlX5SWG1g" title="Bolívar ya suma 26 PDG y el país supera los 9.7 millones de visitas y 544 mil capacitados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/13vlX5SWG1g" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-content">
+                <h3>María José Pinta llega por primera vez a Sapapentsa y trae sueros antiescorpión en 48 horas</h3>
+                <p>La Vicepresidenta de Ecuador, María José Pinta, visitó por primera vez la comunidad shuar de Sapapentsa tras la muerte de una niña de 2 años por picadura de escorpión, verificando el puesto de salud, reuniéndose con la familia afectada y asumiendo responsabilidad directa.</p>
+                <div style="margin: 15px 0;">
+                    <iframe width="100%" height="215" src="https://www.youtube.com/embed/c4YGyt6ZOwE" title="María José Pinta llega por primera vez a Sapapentsa y trae sueros antiescorpión en 48 horas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <a href="https://youtu.be/c4YGyt6ZOwE" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+            </div>
+        </div>
+
         <div class="card">
             <div class="card-content">
                 <h3>¡Histórico! Ecuador firma el Pacto Nacional por la Salud Mental</h3>
@@ -606,13 +630,6 @@
                 <a href="https://mileniumtvi.com/oido-y-acv" target="_blank" rel="noopener noreferrer">Leer más</a>
             </div>
         </div>
-        <div class="card">
-            <div class="card-content">
-                <h3>Se lanzó la Ronda Intercampos</h3>
-                <p>Se lanzó la Ronda Intracampos III que captará más de USD 360 millones en inversiones para el beneficio del sector petrolero del país.</p>
-                <a href="https://mileniumtvi.com/se-lanzo-la-ronda-intercamopos" target="_blank" rel="noopener noreferrer">Leer más</a>
-            </div>
-        </div>
 
     </div>
 </section>
@@ -626,7 +643,7 @@
 
 
 
-    html
+   
 
 <!-- Noticias Locales -->
 <section id="locales" class="section">
@@ -634,6 +651,39 @@
     <div class="grid">
 
         <!-- NUEVAS NOTICIAS AL INICIO -->
+        <div class="card">
+            <a href="https://youtu.be/mRgg1548mwc" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/mRgg1548mwc/hqdefault.jpg" alt="Xavier Bermúdez señala que informe de Contraloría sobre el caso #Tahoe coincide con su fiscalización">
+            </a>
+            <div class="card-content">
+                <h3>Xavier Bermúdez señala que informe de Contraloría sobre el caso #Tahoe coincide con su fiscalización</h3>
+                <p>El gobernador de Azuay, Xavier Bermúdez, afirma que el informe de la Contraloría sobre el caso #Tahoe coincide con sus fiscalizaciones previas como concejal, destacando irregularidades como el vuelco del vehículo, adquisición sesgada de una sola marca, falta de registro, conducción sin permisos y el conductor no calificado. El informe identifica un hallazgo de $6,500, indicios de responsabilidad penal y no cumplimiento de leyes de contratación pública, que Bermúdez insiste debe remitirse a la Fiscalía. Enfatiza que el proceso tomó casi dos años y no es motivado políticamente, contrastando con reclamos de persecución por parte del alcalde.</p>
+                <a href="https://youtu.be/mRgg1548mwc" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <a href="https://youtu.be/luuE78IiVak" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/luuE78IiVak/hqdefault.jpg" alt="Continúa ardiendo el cerro denominado Cabeza de Perro en Paute">
+            </a>
+            <div class="card-content">
+                <h3>Continúa ardiendo el cerro denominado Cabeza de Perro en Paute</h3>
+                <p>El incendio persiste en el Cerro Cabeza de Perro en el cantón Paute, donde los bomberos continúan los esfuerzos para extinguirlo. El gobernador Javier Bermúdez reportó que miembros del Ejército Nacional llegarán pronto para asistir. Se suspendieron clases en Paute y se restringió el tráfico vehicular.</p>
+                <a href="https://youtu.be/luuE78IiVak" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+
+        <div class="card">
+            <a href="https://youtu.be/DkVD_Y57ETs" rel="noopener noreferrer">
+                <img loading="lazy" src="https://img.youtube.com/vi/DkVD_Y57ETs/hqdefault.jpg" alt="En el Cerro Cabeza de Perro en el cantón Paute un incendio forestal consume la vegetación">
+            </a>
+            <div class="card-content">
+                <h3>En el Cerro Cabeza de Perro en el cantón Paute un incendio forestal consume la vegetación</h3>
+                <p>Un incendio forestal consume la vegetación en el Cerro Cabeza de Perro, ubicado en el cantón Paute. Los servicios de emergencia de Cuenca y otras áreas trabajan activamente para controlar el fuego, con apoyo de autoridades locales y recursos de la Gobernación de La SUAY. Debido al humo denso, se suspendieron clases para aproximadamente 5,300 estudiantes en Paute, quienes fueron enviados a casa por seguridad.</p>
+                <a href="https://youtu.be/DkVD_Y57ETs" target="_blank" rel="noopener noreferrer">Ver video</a>
+            </div>
+        </div>
+
         <div class="card">
             <a href="https://youtu.be/6hhBPfeObYM" rel="noopener noreferrer">
                 <img loading="lazy" src="https://img.youtube.com/vi/6hhBPfeObYM/hqdefault.jpg" alt="La soprano Mayela López en la Catedral Vieja de Cuenca">
@@ -917,6 +967,11 @@
 
     </div>
 </section>
+
+
+
+
+
 
 
 

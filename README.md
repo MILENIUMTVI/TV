@@ -986,15 +986,13 @@
             Sintoniza nuestra señal en directo con las últimas noticias, entrevistas y programación en tiempo real.
         </p>
 
-        <!-- Reproductor responsive -->
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
+        <!-- Contenedor responsive perfecto para móviles y escritorio -->
+        <div style="position: relative; width: 100%; max-width: 100%; aspect-ratio: 16 / 9; background: #000; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); overflow: hidden;">
             <iframe 
-                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;" 
                 src="https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnDBuFpLzkEA3F8ZZnP7elYXudG4j9SVkHZ20AUWLkFtU/AlU+HGwG6Pk4Jp3ZACUQKKms7WpBWm3wsU5abi8Nfrxv/Ac2ScFCWo/AgyChPqOjMBIztJBV4BUfLSgmQD7PVhFQDA8jvFoNJ6Z/tKSCdva3WDc6ANhDOIQH0q22azLvbgiue2v9EiSQ==" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; border-radius: 12px;" 
                 frameborder="0" 
                 allow="autoplay; encrypted-media; picture-in-picture" 
-                webkitallowfullscreen 
-                mozallowfullscreen 
                 allowfullscreen
                 loading="lazy">
             </iframe>

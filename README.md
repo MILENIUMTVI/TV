@@ -395,7 +395,7 @@
       <video id="video-hls" class="video-player" controls autoplay muted playsinline>
         Tu navegador no soporta el elemento video.
       </video>
-      <p class="notice">Cargando señal en vivo desde Viloud.tv...</p>
+      <p class="notice">Cargando señal en vivo desde Milenium Televisión...</p>
 
       <script>
         const video = document.getElementById('video-hls');

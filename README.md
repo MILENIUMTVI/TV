@@ -1103,7 +1103,7 @@
         <!-- Reproductor principal (responsive y con tamaño controlado) -->
         <div style="position: relative; width: 100%; max-width: 800px; aspect-ratio: 16 / 9; background: #000; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.6); overflow: hidden; margin: 0 auto;">
             <iframe 
-                src="https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnDBuFpLzkEA3F8ZZnP7elYXudG4j9SVkHZ20AUWLkFtU/AlU+HGwG6Pk4Jp3ZACUQKKms7WpBWm3wsU5abi8Nfrxv/Ac2ScFCWo/AgyChPqOjMBIztJBV4BUfLSgmQD7PVhFQDA8jvFoNJ6Z/tKSCdva3WDc6ANhDOIQH0q22azLvbgiue2v9EiSQ==" 
+                src="https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnDBuFpLzkEA3F8ZZnP7elYXudG4gNWCm0Q832EAdU0xDqFzB7LGk2mLxNJui8YABw2On5DVp0Sn1Vh886+t7pD7jPOBYmHLRX3v/kV7XFS0OnpWYzVRLXZPUan8qydR4eFsLhXU52Cr5958MKRKEHd2YTDAJL4OwWbfED0qjSv2bbjli+v76ZpuX4Rjm9J0" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
                 frameborder="0" 
                 allow="autoplay; encrypted-media; picture-in-picture" 

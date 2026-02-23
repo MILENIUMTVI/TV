@@ -328,54 +328,76 @@
 
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Señal en Vivo - Milenium TV</title>
+  <title>Milenium TV - Señal en Vivo</title>
   <style>
     body {
       margin: 0;
       padding: 0;
       background: #000;
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: Arial, sans-serif;
       color: #fff;
+      overflow: hidden;
     }
     header {
       text-align: center;
-      padding: 20px;
-      background: #111;
-    }
-    h1 {
-      margin: 0;
-      font-size: 2rem;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    .player-box {
-      background: #111;
       padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 30px;
+      background: #111;
+      position: relative;
+      z-index: 10;
+    }
+    h1 { margin: 0; font-size: 1.8rem; }
+    .player-container {
+      position: relative;
+      width: 100%;
+      height: calc(100vh - 60px);
+      background: #000;
     }
     video {
       width: 100%;
-      max-width: 100%;
-      height: auto;
-      background: #000;
+      height: 100%;
+      object-fit: contain;
+    }
+    #overlay {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.6);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      z-index: 5;
+      cursor: pointer;
+      transition: opacity 0.5s;
+    }
+    #overlay.hidden { opacity: 0; pointer-events: none; }
+    .play-btn {
+      font-size: 5rem;
+      color: #fff;
+      margin-bottom: 20px;
+    }
+    .text {
+      font-size: 1.5rem;
+      text-align: center;
+      max-width: 90%;
     }
     .notice {
+      position: absolute;
+      bottom: 20px;
+      left: 0; right: 0;
+      text-align: center;
       color: #ffcc00;
       font-weight: bold;
-      margin: 10px 0;
+      z-index: 10;
     }
   </style>
-
-  <!-- hls.js para máxima compatibilidad -->
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
@@ -384,57 +406,74 @@
     <h1>Milenium TV - Señal en Vivo</h1>
   </header>
 
-  <div class="container">
+  <div class="player-container">
+    <video id="video" controls playsinline poster="https://via.placeholder.com/1280x720/000/fff?text=Cargando+Milenium+TV">
+      Tu navegador no soporta video.
+    </video>
 
-    <!-- === OPCIÓN RECOMENDADA: con hls.js (mejor compatibilidad) === -->
-    <div class="player-box">
-      <h2>Reproductor Recomendado (compatible con casi todos los navegadores)</h2>
-      <video id="video-hls" class="video-player" controls autoplay muted playsinline>
-        Tu navegador no soporta el elemento video.
-      </video>
-      <p class="notice">Cargando señal en vivo desde Viloud.tv...</p>
-
-      <script>
-        const video = document.getElementById('video-hls');
-        const videoSrc = 'https://app.viloud.tv/hls/live/c8984eee3163b175a0c725860f53749d/master.m3u8';
-
-        if (Hls.isSupported()) {
-          const hls = new Hls();
-          hls.loadSource(videoSrc);
-          hls.attachMedia(video);
-          hls.on(Hls.Events.MANIFEST_PARSED, function() {
-            video.play().catch(e => console.log("Autoplay bloqueado:", e));
-          });
-        }
-        // Si el navegador tiene soporte nativo (Safari, iOS, etc.)
-        else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-          video.src = videoSrc;
-          video.addEventListener('loadedmetadata', function() {
-            video.play().catch(e => console.log("Autoplay bloqueado:", e));
-          });
-        }
-        else {
-          console.error("HLS no es soportado en este navegador");
-        }
-      </script>
+    <div id="overlay">
+      <div class="play-btn">▶</div>
+      <div class="text">Toca aquí para reproducir con audio</div>
+      <div class="text" style="font-size:1.2rem; margin-top:10px;">(Los navegadores bloquean el sonido automático hasta que interactúes)</div>
     </div>
 
-
-    <!-- === OPCIÓN SIMPLE: solo HTML5 nativo (funciona principalmente en Safari) === -->
-    <div class="player-box">
-      <h2>Reproductor nativo HTML5 (mejor en Safari / iPhone)</h2>
-      <video controls autoplay playsinline muted width="100%" height="auto">
-        <source src="https://app.viloud.tv/hls/live/c8984eee3163b175a0c725860f53749d/master.m3u8" 
-                type="application/x-mpegURL">
-        Tu navegador no soporta reproducir esta señal en vivo.
-      </video>
-      <p class="notice">Si no carga, prueba el reproductor de arriba ↑</p>
-    </div>
-
+    <p class="notice">Cargando señal en vivo... Si no hay audio, toca la pantalla o el botón de volumen</p>
   </div>
+
+  <script>
+    const video = document.getElementById('video');
+    const overlay = document.getElementById('overlay');
+    const videoSrc = 'https://app.viloud.tv/hls/live/c8984eee3163b175a0c725860f53749d/master.m3u8';
+
+    function startPlayback() {
+      if (Hls.isSupported()) {
+        const hls = new Hls({
+          enableWorker: true,
+          lowLatencyMode: true,
+          backBufferLength: 90
+        });
+        hls.loadSource(videoSrc);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+          video.muted = false;  // Intentamos sonido (funcionará tras interacción)
+          video.play().catch(() => {
+            console.log("Autoplay aún bloqueado - esperando clic");
+          });
+        });
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = videoSrc;
+        video.addEventListener('loadedmetadata', () => {
+          video.muted = false;
+          video.play().catch(() => {});
+        });
+      }
+    }
+
+    // Ocultar overlay al interactuar
+    overlay.addEventListener('click', () => {
+      overlay.classList.add('hidden');
+      video.muted = false;
+      video.volume = 0.7; // Volumen razonable
+      video.play().catch(e => console.log("Play error:", e));
+    });
+
+    // Iniciar automáticamente (muted al principio)
+    startPlayback();
+
+    // Si el usuario interactúa en cualquier parte → activar audio
+    document.addEventListener('click', () => {
+      if (video.muted) {
+        video.muted = false;
+        video.volume = 0.7;
+      }
+    }, { once: true }); // Solo la primera vez
+  </script>
 
 </body>
 </html>
+
+
+
 
 
 

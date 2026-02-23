@@ -328,6 +328,114 @@
 
 
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Señal en Vivo - Milenium TV</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #fff;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+      background: #111;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .player-box {
+      background: #111;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+    }
+    video {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      background: #000;
+    }
+    .notice {
+      color: #ffcc00;
+      font-weight: bold;
+      margin: 10px 0;
+    }
+  </style>
+
+  <!-- hls.js para máxima compatibilidad -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+
+  <header>
+    <h1>Milenium TV - Señal en Vivo</h1>
+  </header>
+
+  <div class="container">
+
+    <!-- === OPCIÓN RECOMENDADA: con hls.js (mejor compatibilidad) === -->
+    <div class="player-box">
+      <h2>Reproductor Recomendado (compatible con casi todos los navegadores)</h2>
+      <video id="video-hls" class="video-player" controls autoplay muted playsinline>
+        Tu navegador no soporta el elemento video.
+      </video>
+      <p class="notice">Cargando señal en vivo desde Viloud.tv...</p>
+
+      <script>
+        const video = document.getElementById('video-hls');
+        const videoSrc = 'https://app.viloud.tv/hls/live/c8984eee3163b175a0c725860f53749d/master.m3u8';
+
+        if (Hls.isSupported()) {
+          const hls = new Hls();
+          hls.loadSource(videoSrc);
+          hls.attachMedia(video);
+          hls.on(Hls.Events.MANIFEST_PARSED, function() {
+            video.play().catch(e => console.log("Autoplay bloqueado:", e));
+          });
+        }
+        // Si el navegador tiene soporte nativo (Safari, iOS, etc.)
+        else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = videoSrc;
+          video.addEventListener('loadedmetadata', function() {
+            video.play().catch(e => console.log("Autoplay bloqueado:", e));
+          });
+        }
+        else {
+          console.error("HLS no es soportado en este navegador");
+        }
+      </script>
+    </div>
+
+
+    <!-- === OPCIÓN SIMPLE: solo HTML5 nativo (funciona principalmente en Safari) === -->
+    <div class="player-box">
+      <h2>Reproductor nativo HTML5 (mejor en Safari / iPhone)</h2>
+      <video controls autoplay playsinline muted width="100%" height="auto">
+        <source src="https://app.viloud.tv/hls/live/c8984eee3163b175a0c725860f53749d/master.m3u8" 
+                type="application/x-mpegURL">
+        Tu navegador no soporta reproducir esta señal en vivo.
+      </video>
+      <p class="notice">Si no carga, prueba el reproductor de arriba ↑</p>
+    </div>
+
+  </div>
+
+</body>
+</html>
+
 
 
 
